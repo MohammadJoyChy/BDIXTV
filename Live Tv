@@ -24,5 +24,4 @@ http://pgplex.net:8080/GaziTVHD/index.m3u8
 https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=gtvhdforgame
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
-http://pgplex.net:8080/StarSports1HD/index.m3u8
+
