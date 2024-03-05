@@ -22,6 +22,22 @@ https://tvs2.aynaott.com/banglavision/index.m3u8?hdnts=st=1709639383~exp=1709682
 #EXTVLCOPT:http-user-agent=Byte Capsule 
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
 https://tvs2.aynaott.com/channeli/index.m3u8?hdnts=st=1709639383~exp=1709682583~acl=/channeli/*~data=27.147.243.227-WEB~hmac=b36963be6000b6cf63eea89b1e307f9c46531813651d979baefc399364c163be
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="19" tvg-id="19" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png", Ekushey TV 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs1.aynaott.com/etv/index.m3u8?hdnts=st=1709644545~exp=1709687745~acl=/etv/*~data=27.147.243.227-WEB~hmac=5a9ebc190d2925031bb388c136eb719693d70a455e8a0059c9410d8d90665dc4 
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="29" tvg-id="29" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png", NTV 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs2.aynaott.com/ntv/index.m3u8?hdnts=st=1709644545~exp=1709687745~acl=/ntv/*~data=27.147.243.227-WEB~hmac=88e0b8e97994c9ce47dbea7d5570ae6e475f82b4269b48a85a502d02fd9ef6ba 
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="3" tvg-id="3" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png", ATN Bangla 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs2.aynaott.com/atnbangla/index.m3u8?hdnts=st=1709644545~exp=1709687745~acl=/atnbangla/*~data=27.147.243.227-WEB~hmac=99c900098918cc8c4a859b25ecf873f3f2dfac47ea9659a5d413de739b7b10f3 
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="8" tvg-id="8" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png", Boishakhi TV 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs1.aynaott.com/boishakhitv/index.m3u8?hdnts=st=1709644545~exp=1709687745~acl=/boishakhitv/*~data=27.147.243.227-WEB~hmac=a852a6b2344ee293b5299c4ab1ca91abd4edfda1b563ac08073cfe8caf2d5a15 
 #EXTINF:-1 group-title="LIVE" tvg-chno="10" tvg-id="10" tvg-logo="https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_211907001709470250.png", BAN vs SL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1709668891:KeyName=prod_live_events:Signature=8Z41GXFqc3o2ckaJ0Wu4kkZ5EETPgQCWagn-biNRtRPKKqL2BvzHWPjDh4Zz2vBQJqzpiGGYY9KysXohWuEQBg"}
