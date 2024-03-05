@@ -30,3 +30,7 @@ https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1709813383:KeyName=prod_linear:Signature=met3mdE-kKT4--_rJqmxvGj728lq6rWHx3E0v8aKTOzDXRG_wd68z_7WaKjK4ou8-LKZGNP-8ogtqlQB4kHFBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/star_gold/playlist.m3u8
+#EXTINF:-1 group-title=" Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png", Star Jalsha VIP
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1709813383:KeyName=prod_linear:Signature=met3mdE-kKT4--_rJqmxvGj728lq6rWHx3E0v8aKTOzDXRG_wd68z_7WaKjK4ou8-LKZGNP-8ogtqlQB4kHFBw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8
