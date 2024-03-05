@@ -4,5 +4,5 @@ EXTM3U
 https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1709612394~exp=1709655594~acl=/btvhd/*~data=27.147.243.227-WEB~hmac=5515600d80fec93e32063fee5e13dae4a7575d7dce6cff6a1ea824fd14d3c89c|Referer=https://watch.aynaott.com
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="10" tvg-id="10" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png", BTV World
 https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1709612846~exp=1709656046~acl=/btv_world/*~data=27.147.243.227-WEB~hmac=8a889354833247ca7b293dc294e8da93a22037dffad7f67be9f5429860976d41|Referer=https://watch.aynaott.com
-#EXTINF:-1 group-title="AynaoOTT" tvg-chno="31" tvg-id="31" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png", Sangshad TV
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="11" tvg-id="11" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png", Sangshad TV
 https://tvs1.aynaott.com/sangshadtv/index.m3u8?hdnts=st=1709614059~exp=1709657259~acl=/sangshadtv/*~data=27.147.243.227-WEB~hmac=3b3b59cfb08db06c994ea54723ce35ed80655785f5a3cad191d10e3ecc0a108f|Referer=https://watch.aynaott.com
