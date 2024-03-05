@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-name="BTV National" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-id="9" group-title="AynaoOTT",BTV National
 https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1707793258~exp=1707836458~acl=/btvhd/*~data=103.90.200.200-PHONE~hmac=70054a051b2110b19ca08ca52d463bcc6be7030f7eec9d754a9c03d69b2c4c6e|Referer=https://watch.aynaott.com
