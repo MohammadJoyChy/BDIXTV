@@ -1,6 +1,5 @@
 #EXTM3U
 
-1dfa0|Referer=https://watch.aynaott.com
 #EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed43b998-2e56-48bb-8d0e-f81e47d87d7d_180x180_Ten3.jpg" tvg-id="65" group-title="AynaoOTT",Sony Ten 3
 https://tvs3.aynaott.com/ten3/index.m3u8?hdnts=st=1707793258~exp=1707836458~acl=/ten3/*~data=103.90.200.200-PHONE~hmac=4e0a48ca573d8e40ccfb9e69c6f66567afeead878095cb3da9a07e225b302eba|Referer=https://watch.aynaott.com
 #EXTINF:-1 tvg-name="Ten 2 HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f17b81cb-6339-47a4-9492-71cb68af4be2_180x180_ten-2-hd.jpg" tvg-id="72" group-title="AynaoOTT",Ten 2 HD
