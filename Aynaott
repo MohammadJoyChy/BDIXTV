@@ -538,5 +538,3 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_infinity_hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1709878000:KeyName=prod_linear:Signature=PBJSHrevh2Sx7L1SW5VjNa5L5uPTwEFhJclmbV5CR7EnZVubIg6u9LxsQ96laeSCpndbQaI-dsrVzoUCdlYfBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/comedy_central_hd/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkby4IOa5be1X8gA9yrcVW6oP0L89Xg1wZl1lz9H8rw&s.png", T SPORTS
-https://crichdstreaming.xyz/embed2.php?id=gtv&e=.m3u8
