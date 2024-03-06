@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_211907001709470250.png", BAN vs SL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1709755739:KeyName=prod_live_events:Signature=GfSBes5oG209PFNnk603OGDNbpF-oEEZxWcbzPLZy5WP02jbFcmDmgPFqwGQaBPZ_v1Rj5kNopbikKoBQGeEDQ"}
