@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="1" tvg-name="Star Sports 1" tvg-country="BAN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24","Star Sports"
+#EXTINF:-1 tvg-id="1" tvg-name="Star Sports 1" tvg-country="BAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR024-a6jsGe9lvukIufyYHNMSBkJvzGgbriQ&usqp=CAU" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Star Sports
 http://watchindia.net:8880/live/83023/62335/2186.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="T Sports" tvg-country="BAN" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",T Sports
 http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8  
@@ -125,4 +125,4 @@ https://jiotv.shashanksidhi27in.workers.dev/bpk-tv/MTV_Beats_HD_MOB/Fallback/ind
 #EXTINF:-1 tvg-id="64" tvg-name="VH1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a6fa91ea-b555-48b5-b547-8fb1495b6708/2ab4a1f0-a1fd-4e7a-ba71-34f7967805fa.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",VH1
 https://desktop.harimishra9109.workers.dev/bpk-tv/VH1_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="Sony Yay" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Yay
-https://bongohub.pw/bioscope.php?cc=sony-yay-live
+https://bongohub.pw/bioscope.php?cc=sony-yay-live 
