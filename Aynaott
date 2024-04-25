@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="1" tvg-name="Star Sports 1" tvg-country="BAN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Star Sports
+#EXTINF:-1 tvg-id="1" tvg-name="Star Sports 1" tvg-country="BAN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24","Star Sports"
 http://watchindia.net:8880/live/83023/62335/2186.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="T Sports" tvg-country="BAN" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",T Sports
 http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8  
