@@ -63,11 +63,11 @@ https://uniflixbd.xyz/magictv/master.php?id=ananda_tv
 #EXTINF:-1 tvg-id="30" tvg-name="Nexus Television HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Nexus Television HD
 https://uniflixbd.xyz/magictv/master.php?id=nexus_tv 
 #EXTINF:-1 tvg-id="31" tvg-name="Ekushey TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/46aff9ff-495f-496a-9afb-7becd7cf4b83/0f56df70-0311-49bd-a203-72bea071cea6.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Ekushey TV
-http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+https://uniflixbd.xyz/magictv/master.php?id=ekushey_tv 
 #EXTINF:-1 tvg-id="32" tvg-name="BTV World" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4618531f-8ebb-44eb-9bae-92761450b3a7/62ce2f8c-8b4a-4956-ad33-f7b8be13636c.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",BTV World
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Sangsad TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/20923e29-ea03-4d63-b31e-eb26e77465ae/340a2a0f-5bb1-430f-a316-6e4c2a9e7bda.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sangsad TV
-http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+https://uniflixbd.xyz/magictv/master.php?id=sangsad_tv 
 #EXTINF:-1 tvg-id="34" tvg-name="BTV HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f0d33074-ff46-42fc-a620-a791b6abb04d/e73e8b3d-630a-4792-bf0c-6dc3510937b5.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",BTV HD
 https://bongohub.pw/bioscope.php?cc=btv-hd&e=.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="Al Jazeera" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/dab2d561-ef54-40dd-9650-43dee09b92d0/29f2064c-f8a5-41ac-8a82-b5d7135b99b1.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Al Jazeera
@@ -77,21 +77,21 @@ http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="Ekhon TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3ffb1ec8-6553-4130-b63f-aac838c014a4/51e0aaee-7f68-4f9b-b404-5a40e51e9596.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Ekhon TV
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="Bijoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/475ebdaa-6f12-4238-9bf4-0270d63ff340/01261017-8d27-4e85-8a02-157551d91289.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Bijoy TV
-http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+https://uniflixbd.xyz/magictv/master.php?id=bijoy_tv 
 #EXTINF:-1 tvg-id="42" tvg-name="DW" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3b1067a5-7c9d-442f-afa7-5f8eecda9258/527b6507-7a6f-494f-843b-e0b5fb5248b4.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",DW
 https://bongohub.pw/bioscope.php?cc=dw-live&e=.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="Jamuna TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/481332d4-1a8f-4d79-9928-f0f5f891d14c/9f8bfabe-ee88-4027-923e-77f7f3eeaec9.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Jamuna TV
-http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
+https://uniflixbd.xyz/magictv/master.php?id=jamuna_tv 
 #EXTINF:-1 tvg-id="44" tvg-name="Lotus Macau" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c2c7d2f5-25ff-4fa5-ad9a-7222f0f53929/73ae6cdb-7d43-4840-b78c-2106d3d00c4a.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Lotus Macau
 https://bongohub.pw/bioscope.php?cc=lotus-macau-live&e=.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="News 24 HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c70be28f-95ff-4daa-b432-300795099919/f0a5fda1-19ab-438a-a391-702e70c52f17.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",News 24 HD
-http://cdn01.palki.tv/live/News24-M/index.m3u8
+https://uniflixbd.xyz/magictv/master.php?id=news_24_hd 
 #EXTINF:-1 tvg-id="46" tvg-name="DBC News" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/425f4cb8-edd6-482b-a49e-85528f60225d/eaf3e854-9d2d-4d0d-aa74-ff49c8b353de.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",DBC News
-https://bongohub.pw/bioscope.php?cc=dbc-news&e=.m3u8
+https://uniflixbd.xyz/magictv/master.php?id=dbc_news 
 #EXTINF:-1 tvg-id="47" tvg-name="Sony Pix" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0860fc1-7dc4-42dc-acbd-51ec4c3a97f2/26f092d0-b009-46b4-ad34-f7b6d9c20a13.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Pix
 https://toxicify.pro/dkid/watch.php?id=1000009258&e=.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="SA TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",SATV
-http://cdn01.palki.tv/live/SATV-M/index.m3u8
+https://uniflixbd.xyz/magictv/master.php?id=sa_tv 
 #EXTINF:-1 tvg-id="49" tvg-name="Sony SAB TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/825a35e8-a1c7-4abf-84cf-d9b7e21e5657/0369f492-c12f-4dab-a2a9-a090943521dc.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony SAB TV
 https://toxicify.pro/dkid/watch.php?id=1000009248&e=.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="Mohona TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3437aec4-f99a-4802-8633-c0267d7cce21/b81ab70e-f47f-4c1a-82f3-db5d7c2acd3b.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Mohonta TV
@@ -99,7 +99,7 @@ http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="BBC Earth HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2fe644f3-bf5f-4b81-86f0-ee989252c9d9/16b21868-911e-438b-b2c4-de04438b18d3.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",BBC Earth HD
 https://toxicify.pro/dkid/watch.php?id=1000009252&e=.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="My TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/7d1c5d3f-449d-4bf5-9a7e-ab8079ebecd4/11e79c92-ff02-4fcd-be6d-7f3023b157b8.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",My TV
-http://cdn01.palki.tv/live/MyTV-M/index.m3u8
+https://uniflixbd.xyz/magictv/master.php?id=my_tv 
 #EXTINF:-1 tvg-id="53" tvg-name="Sony Pal" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0aa7349-6c5a-4635-96e2-caa5c535e961/10116794-5177-49f6-89ac-979a7dd9f904.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Pal
 https://toxicify.pro/dkid/watch.php?id=1000009273&e=.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="MAX 2" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b8889e85-bc30-4fbc-8a8d-76fb798534eb/104bc03f-1390-4257-b8e9-70aa76a150d3.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",MAX 2
