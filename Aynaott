@@ -152,3 +152,49 @@ https://www.elokam.site/SonyLiv/watch.php?id=1000119186&e=.m3u8
 https://www.elokam.site/SonyLiv/watch.php?id=1000009275&e=.m3u8
 #EXTINF:-1 tvg-id="0000000001" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="0000000001" group-title="SHEMAROOME LIVETV (KAYATECH)",Sony KAL
 https://www.elokam.site/SonyLiv/watch.php?id=0000000001&e=.m3u8
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-chno="1" group-title="Movies",Colors Cineplex HD
+https://www.elokam.site/jiotv/stream.m3u8?id=1477
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-chno="3" group-title="Entertainment",Colors HD
+https://www.elokam.site/jiotv/stream.m3u8?id=144
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-chno="4" group-title="Entertainment",Zee TV HD
+https://www.elokam.site/jiotv/stream.m3u8?id=167
+#EXTINF:-1 tvg-id="657" tvg-name="Zee Business" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png" tvg-chno="22" group-title="Business News",Zee Business
+https://www.elokam.site/jiotv/stream.m3u8?id=657
+#EXTINF:-1 tvg-id="625" tvg-name="Zee Bangla" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" tvg-chno="25" group-title="Entertainment",Zee Bangla
+https://www.elokam.site/jiotv/stream.m3u8?id=625
+#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" tvg-chno="29" group-title="Movies",Colors Cineplex
+https://www.elokam.site/jiotv/stream.m3u8?id=482
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-chno="34" group-title="Movies",Zee Cinema HD
+https://www.elokam.site/jiotv/stream.m3u8?id=165
+#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-chno="42" group-title="Entertainment",And TV HD
+https://www.elokam.site/jiotv/stream.m3u8?id=472
+#EXTINF:-1 tvg-id="756" tvg-name="Colors Bengali HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" tvg-chno="43" group-title="Entertainment",Colors Bengali HD
+https://www.elokam.site/jiotv/stream.m3u8?id=756
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="45" group-title="Movies",And Pictures HD
+https://www.elokam.site/jiotv/stream.m3u8?id=185
+#EXTINF:-1 tvg-id="1368" tvg-name="Colors SD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" tvg-chno="50" group-title="Entertainment",Colors SD
+https://www.elokam.site/jiotv/stream.m3u8?id=1368
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" tvg-chno="52" group-title="Infotainment",History TV18 HD
+https://www.elokam.site/jiotv/stream.m3u8?id=146
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png" tvg-chno="59" group-title="Movies",B4U Movies
+https://www.elokam.site/jiotv/stream.m3u8?id=182
+#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-chno="60" group-title="Music",B4U Music
+https://www.elokam.site/jiotv/stream.m3u8?id=183
+#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="69" group-title="Music",MTV
+https://www.elokam.site/jiotv/stream.m3u8?id=248
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-chno="70" group-title="Music",Music India
+https://www.elokam.site/jiotv/stream.m3u8?id=250
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" tvg-chno="75" group-title="Infotainment",Animal Planet HD World
+https://www.elokam.site/jiotv/stream.m3u8?id=286
+#EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" tvg-chno="103" group-title="Music",9X Jalwa
+https://www.elokam.site/jiotv/stream.m3u8?id=440
+#EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" tvg-chno="104" group-title="Music",9x Jhakaas
+https://www.elokam.site/jiotv/stream.m3u8?id=441
+#EXTINF:-1 tvg-id="479" tvg-name="TLC HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" tvg-chno="113" group-title="Lifestyle",TLC HD
+https://www.elokam.site/jiotv/stream.m3u8?id=479
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" tvg-chno="116" group-title="Movies",Zee Cinema
+https://www.elokam.site/jiotv/stream.m3u8?id=484
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" tvg-chno="119" group-title="Movies",Zee Bollywood
+https://www.elokam.site/jiotv/stream.m3u8?id=487
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" tvg-chno="120" group-title="Movies",Zee Action
+https://www.elokam.site/jiotv/stream.m3u8?id=
