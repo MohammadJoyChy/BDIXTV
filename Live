@@ -11,8 +11,6 @@ https://www.elokam.site/dishtv/playlist.m3u8?id=-pictures-hd&vtoken=&e=.m3u8
 https://www.elokam.site/dishtv/playlist.m3u8?id=-tv&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="& TV HD (And TV HD)" tvg-logo="https://i.ibb.co/GRtg2Ps/tvHD.png" group-title="Watch IT",& TV HD (And TV HD)
 https://www.elokam.site/dishtv/playlist.m3u8?id=-tv-hd&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.ibb.co/tYysjVb/Zee-24-Ghanta.png" group-title="Watch IT",Zee 24 Ghanta
-https://www.elokam.site/dishtv/playlist.m3u8?id=24-ghanta&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="9X Jalwa" tvg-logo="https://i.ibb.co/bKTHc85/9x-Jalwa.png" group-title="Watch IT",9X Jalwa
 https://www.elokam.site/dishtv/playlist.m3u8?id=9x-jalwa&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="9X Jhakaas" tvg-logo="https://i.ibb.co/FKQMV07/9-X-Jhakaas.png" group-title="Watch IT",9X Jhakaas
@@ -21,181 +19,41 @@ https://www.elokam.site/dishtv/playlist.m3u8?id=9x-jhakaas&vtoken=&e=.m3u8
 https://www.elokam.site/dishtv/playlist.m3u8?id=9x-tashan&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Animal Planet HD World" tvg-logo="https://i.ibb.co/KbsgK5B/Animal-Planet-HD.png" group-title="Watch IT",Animal Planet HD World
 https://www.elokam.site/dishtv/playlist.m3u8?id=animal-planet-hd-world&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Balle Balle TV" tvg-logo="https://i.ibb.co/wQvcTNg/Balle-Balle-TV.png" group-title="Watch IT",Balle Balle TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=balle-balle&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="DD Bharati" tvg-logo="https://i.ibb.co/Cvzb2j5/DD-Bharti.png" group-title="Watch IT",DD Bharati
-https://www.elokam.site/dishtv/playlist.m3u8?id=dd-bharati&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="DD National" tvg-logo="https://i.ibb.co/wBCgtM7/DD-National.png" group-title="Watch IT",DD National
-https://www.elokam.site/dishtv/playlist.m3u8?id=dd-national&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/mJJdmYX/Discovery.png" group-title="Watch IT",Discovery Channel
 https://www.elokam.site/dishtv/playlist.m3u8?id=discovery-channel&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Discovery Channel Tamil" tvg-logo="https://i.ibb.co/kDLMNq7/Discovery-Tamil.png" group-title="Watch IT",Discovery Channel Tamil
-https://www.elokam.site/dishtv/playlist.m3u8?id=discovery-channel-tamil&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="Discovery HD World" tvg-logo="https://i.ibb.co/3hmVwGX/Discovery-HD.png" group-title="Watch IT",Discovery HD World
 https://www.elokam.site/dishtv/playlist.m3u8?id=discovery-hd-world&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/LzQgDnT/Discovery-Kids.png" group-title="Watch IT",Discovery Kids
 https://www.elokam.site/dishtv/playlist.m3u8?id=discovery-kids&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/djh2xt2/Discovery-Science.png" group-title="Watch IT",Discovery Science
 https://www.elokam.site/dishtv/playlist.m3u8?id=discovery-science&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="Maiboli" tvg-logo="https://i.ibb.co/W0XRbhx/Maiboli.png" group-title="Watch IT",Maiboli
-https://www.elokam.site/dishtv/playlist.m3u8?id=maiboli&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/1dVVvyn/Discovery-Turbo.png" group-title="Watch IT",Discovery Turbo
 https://www.elokam.site/dishtv/playlist.m3u8?id=discovery-turbo&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="Divya" tvg-logo="https://i.ibb.co/XxWXdXb/Divya.png" group-title="Watch IT",Divya
-https://www.elokam.site/dishtv/playlist.m3u8?id=divya&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="Epic TV" tvg-logo="https://i.ibb.co/8ByPPXN/Epic.png" group-title="Watch IT",Epic TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=epic-tv&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="ET Now" tvg-logo="https://i.ibb.co/X5qbMdg/ETNow.png" group-title="Watch IT",ET Now
-https://www.elokam.site/dishtv/playlist.m3u8?id=et-now&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="Fakt Marathi" tvg-logo="https://i.ibb.co/S36GmFB/Fakt-Marathi.png" group-title="Watch IT",Fakt Marathi
-https://www.elokam.site/dishtv/playlist.m3u8?id=fakt-marathi&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="India News Gujarat" tvg-logo="https://i.ibb.co/841Xmxk/India-News-Gujarat.png" group-title="Watch IT",India News Gujarat
-https://www.elokam.site/dishtv/playlist.m3u8?id=india-news-gujarat&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="India News Haryana" tvg-logo="https://i.ibb.co/0j5JPTv/India-News-Haryana.png" group-title="Watch IT",India News Haryana
-https://www.elokam.site/dishtv/playlist.m3u8?id=india-news-haryana&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="India News MP Chattisgarh" tvg-logo="https://i.ibb.co/Yt9CJ6M/India-News-Madhya-Pradesh-Chhattisgarh.png" group-title="Watch IT",India News MP Chattisgarh
-https://www.elokam.site/dishtv/playlist.m3u8?id=india-news-mp--chattisgarh&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="India News Punjab" tvg-logo="https://i.ibb.co/rtBM76d/India-News-Punjab.png" group-title="Watch IT",India News Punjab
-https://www.elokam.site/dishtv/playlist.m3u8?id=india-news-punjab&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="India News Rajasthan" tvg-logo="https://i.ibb.co/QPhPT54/India-News-Rajasthan.png" group-title="Watch IT",India News Rajasthan
-https://www.elokam.site/dishtv/playlist.m3u8?id=india-news-rajasthan&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="India News Uttar Pradesh Uttarakhand" tvg-logo="https://i.ibb.co/nRjPJHc/India-News-UP-UK.png" group-title="Watch IT",India News Uttar Pradesh Uttarakhand
-https://www.elokam.site/dishtv/playlist.m3u8?id=india-news-uttar-pradesh--uttrakhand&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="India News" tvg-logo="https://i.ibb.co/MDnfPmx/India-News.png" group-title="Watch IT",India News
-https://www.elokam.site/dishtv/playlist.m3u8?id=india--news&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="News X" tvg-logo="https://i.ibb.co/VL26yLc/NewsX.png" group-title="Watch IT",News X
-https://www.elokam.site/dishtv/playlist.m3u8?id=news-x&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="India TV News" tvg-logo="https://i.ibb.co/51Hh0hF/India-TV.png" group-title="Watch IT",India TV News
-https://www.elokam.site/dishtv/playlist.m3u8?id=india-tv&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="Investigation Discovery" tvg-logo="https://i.ibb.co/f1MdXsD/Investigation-Discovery.png" group-title="Watch IT",Investigation Discovery
 https://www.elokam.site/dishtv/playlist.m3u8?id=investigation-discovery&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="MTV Beats" tvg-logo="https://i.ibb.co/4ZbTwGT/MTV-Beats.png" group-title="Watch IT",MTV Beats
 https://www.elokam.site/dishtv/playlist.m3u8?id=mtv-beats&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="Music India" tvg-logo="https://i.ibb.co/NtJLLHv/Music-India.png" group-title="Watch IT",Music India
 https://www.elokam.site/dishtv/playlist.m3u8?id=music-india&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="Naaptol Hindi" tvg-logo="https://i.ibb.co/25RdVMy/Naaptol.png" group-title="Watch IT",Naaptol Hindi
-https://www.elokam.site/dishtv/playlist.m3u8?id=naaptol-hindi&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="Naaptol Telugu" tvg-logo="https://i.ibb.co/25RdVMy/Naaptol.png" group-title="Watch IT",Naaptol Telugu
-https://www.elokam.site/dishtv/playlist.m3u8?id=naaptol-telugu&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="ABP News" tvg-logo="https://i.ibb.co/98rxt3B/ABP-News.png" group-title="Watch IT",ABP News
-https://www.elokam.site/dishtv/playlist.m3u8?id=abp-news&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="NDTV 24x7" tvg-logo="https://i.ibb.co/h9fvcDn/NDTV-24x7.png" group-title="Watch IT",NDTV 24x7
-https://www.elokam.site/dishtv/playlist.m3u8?id=ndtv-24x7&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="NDTV India" tvg-logo="https://i.ibb.co/7vwFGyv/NDTV-India.png" group-title="Watch IT",NDTV India
-https://www.elokam.site/dishtv/playlist.m3u8?id=ndtv-india&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="News Nation" tvg-logo="https://i.ibb.co/MPZCvHm/News-Nation.png" group-title="Watch IT",News Nation
-https://www.elokam.site/dishtv/playlist.m3u8?id=news-nation&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="Pitaara" tvg-logo="https://i.ibb.co/D4LN22y/Pitaara-TV.png" group-title="Watch IT",Pitaara
-https://www.elokam.site/dishtv/playlist.m3u8?id=pitaara&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="Republic Bangla" tvg-logo="https://i.ibb.co/d7CWX3D/Republic-Bangla.png" group-title="Watch IT",Republic Bangla
-https://www.elokam.site/dishtv/playlist.m3u8?id=r-bangla&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="Republic Bharat" tvg-logo="https://i.ibb.co/H7dCxqX/Republic-Bharat.png" group-title="Watch IT",Republic Bharat
-https://www.elokam.site/dishtv/playlist.m3u8?id=republic-bharat&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="Republic TV" tvg-logo="https://i.ibb.co/fkHk4wW/Republic-TV.png" group-title="Watch IT",Republic TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=republic-tv&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="Rongeen TV" tvg-logo="https://i.ibb.co/kygwztd/Rongeen-TV.png" group-title="Watch IT",Rongeen TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=rongeen-tv&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="Zee Salaam" tvg-logo="https://i.ibb.co/FbX2KFw/Zee-Salaam.png" group-title="Watch IT",Zee Salaam
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-salaam&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="Sangeet Bangla" tvg-logo="https://i.ibb.co/YtBCJ3B/Sangeet-Bangla.png" group-title="Watch IT",Sangeet Bangla
 https://www.elokam.site/dishtv/playlist.m3u8?id=sangeet-bangla&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="Sangeet Bhojpuri" tvg-logo="https://i.ibb.co/dLk5ggH/Sangeet-Bhojpuri.png" group-title="Watch IT",Sangeet Bhojpuri
-https://www.elokam.site/dishtv/playlist.m3u8?id=sangeet-bhojpuri&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="Sansad TV HD" tvg-logo="https://i.ibb.co/dB6PfP5/Sansad-TV.png" group-title="Watch IT",Sansad TV HD
-https://www.elokam.site/dishtv/playlist.m3u8?id=sansad-tv-hd&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="Sansad TV" tvg-logo="https://i.ibb.co/dB6PfP5/Sansad-TV.png" group-title="Watch IT",Sansad TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=sansad-tv-sd&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="Sanskar TV" tvg-logo="https://i.ibb.co/tZxgTKt/Sanskar-TV.png" group-title="Watch IT",Sanskar TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=sanskar-tv&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="Satsang TV" tvg-logo="https://i.ibb.co/Pg33x7c/Satsang-TV.png" group-title="Watch IT",Satsang TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=satsang-tv&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="Shubh TV" tvg-logo="https://i.ibb.co/K5y98tT/Shubh-TV.png" group-title="Watch IT",Shubh TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=shubh-tv&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="Sai Leela" tvg-logo="https://i.ibb.co/hCKhPY9/Sai-Leela.png" group-title="Watch IT",Sai Leela
-https://www.elokam.site/dishtv/playlist.m3u8?id=sai-leela&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="The Q" tvg-logo="https://i.ibb.co/LnhFYGC/The-Q-India.png" group-title="Watch IT",The Q
-https://www.elokam.site/dishtv/playlist.m3u8?id=the-q&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="Times Now" tvg-logo="https://i.ibb.co/YdDz0DB/Times-Now.png" group-title="Watch IT",Times Now
-https://www.elokam.site/dishtv/playlist.m3u8?id=times-now&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="Times Now Navbharat" tvg-logo="https://i.ibb.co/HtrP5kC/Times-Now-Bharat.png" group-title="Watch IT",Times Now Navbharat
-https://www.elokam.site/dishtv/playlist.m3u8?id=times-now-navbharat&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="TLC" tvg-logo="https://i.ibb.co/xX4jWnG/TLC.png" group-title="Watch IT",TLC
 https://www.elokam.site/dishtv/playlist.m3u8?id=tlc&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="Dabangg" tvg-logo="https://i.ibb.co/4RXqpdq/Dabangg-TV.png" group-title="Watch IT",Dabangg
-https://www.elokam.site/dishtv/playlist.m3u8?id=dabangg&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="Dangal" tvg-logo="https://i.ibb.co/RBVwXjZ/Dangal.png" group-title="Watch IT",Dangal
-https://www.elokam.site/dishtv/playlist.m3u8?id=dangal&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="Total Bhakti" tvg-logo="https://i.ibb.co/MGJWjVT/Total-Bhakti.png" group-title="Watch IT",Total Bhakti
-https://www.elokam.site/dishtv/playlist.m3u8?id=total-bhakti&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="TRT World" tvg-logo="https://i.ibb.co/ZKZZYDB/TRT-World.png" group-title="Watch IT",TRT World
-https://www.elokam.site/dishtv/playlist.m3u8?id=trt-world&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="Vasanth TV" tvg-logo="https://i.ibb.co/jwmZkV8/Vasanth-TV.png" group-title="Watch IT",Vasanth TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=vasanth&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="Zee Action" tvg-logo="https://i.ibb.co/D9P4K6r/Zee-Action.png" group-title="Watch IT",Zee Action
 https://www.elokam.site/dishtv/playlist.m3u8?id=zee-action&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="News18 Rajasthan" tvg-logo="https://i.ibb.co/hW5gCFS/News18-Rajasthan.png" group-title="Watch IT",News18 Rajasthan
-https://www.elokam.site/dishtv/playlist.m3u8?id=news18-rajasthan&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="News18 Bihar Jharkhand" tvg-logo="https://i.ibb.co/WWJfvxn/News18-Bihar-Jharkhand.png" group-title="Watch IT",News18 Bihar Jharkhand
-https://www.elokam.site/dishtv/playlist.m3u8?id=news18-bihar-jharkhand&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="News 18 India" tvg-logo="https://i.ibb.co/hB0zcRm/News-18-India.png" group-title="Watch IT",News 18 India
-https://www.elokam.site/dishtv/playlist.m3u8?id=news18-india&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="News 18 Lokmat" tvg-logo="https://i.ibb.co/K5PjDWT/News18-Lokmat.png" group-title="Watch IT",News 18 Lokmat
-https://www.elokam.site/dishtv/playlist.m3u8?id=news18-lokmat&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="News 18 MP Chhattisgarh" tvg-logo="https://i.ibb.co/CBBkjKg/News18-Madhya-Pradesh-Chhatisgarh.png" group-title="Watch IT",News 18 MP Chhattisgarh
-https://www.elokam.site/dishtv/playlist.m3u8?id=news18-mp-chhattisgarh&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="News 18 Rajasthan" tvg-logo="https://i.ibb.co/hW5gCFS/News18-Rajasthan.png" group-title="Watch IT",News 18 Rajasthan
-https://www.elokam.site/dishtv/playlist.m3u8?id=news18-rajasthan&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="News 18 Uttar Pradesh Uttarakhand" tvg-logo="https://i.ibb.co/g7npHzs/News18-Uttar-Pradesh-Uttarakhand.png" group-title="Watch IT",News 18 Uttar Pradesh Uttarakhand
-https://www.elokam.site/dishtv/playlist.m3u8?id=news18-uttar-pradesh-uttrakhand&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="Zee Anmol" tvg-logo="https://i.ibb.co/bQpYfnX/Zee-Anmol.png" group-title="Watch IT",Zee Anmol
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-anmol&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="Zee Anmol Cinema" tvg-logo="https://i.ibb.co/wJqQKVr/Zee-Anmol-Cinema.png" group-title="Watch IT",Zee Anmol Cinema
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-anmol-cinema&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="Zee Bangla" tvg-logo="https://i.ibb.co/Gc6wX91/Zee-Bangla.png" group-title="Watch IT",Zee Bangla
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-bangla&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.ibb.co/1z5xJ0L/Zee-Bangla-Cinema.png" group-title="Watch IT",Zee Bangla Cinema
 https://www.elokam.site/dishtv/playlist.m3u8?id=zee-bangla-cinema&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="Zee Bangla HD" tvg-logo="https://i.ibb.co/XDfPkgJ/Zee-Bangla-HD.png" group-title="Watch IT",Zee Bangla HD
 https://www.elokam.site/dishtv/playlist.m3u8?id=zee-bangla-hd&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="Zee Bharat" tvg-logo="https://i.ibb.co/HzKkp7t/Zee-Bharat.png" group-title="Watch IT",Zee Bharat
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-hindustan&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://i.ibb.co/gZw0X91/Zee-Bihar-Jharkhand.png" group-title="Watch IT",Zee Bihar Jharkhand
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-bihar-jharkhand&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Zee Bollywood" tvg-logo="https://i.ibb.co/X87WkSJ/Zee-Bollywood.png" group-title="Watch IT",Zee Bollywood
 https://www.elokam.site/dishtv/playlist.m3u8?id=zee-bollywood&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="Zee Business" tvg-logo="https://i.ibb.co/GTrTZnm/Zee-Business.png" group-title="Watch IT",Zee Business
 https://www.elokam.site/dishtv/playlist.m3u8?id=zee-business&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="Zee Cinema" tvg-logo="https://i.ibb.co/xjx4tH1/Zee-Cinema.png" group-title="Watch IT",Zee Cinema
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-cinema&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="Zee Cinema HD" tvg-logo="https://i.ibb.co/6RKvVyL/Zee-Cinema-HD.png" group-title="Watch IT",Zee Cinema HD
 https://www.elokam.site/dishtv/playlist.m3u8?id=zee-cinema-hd&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="Zee Cinemalu" tvg-logo="https://i.ibb.co/Q88wT0f/Zee-Cinemalu.png" group-title="Watch IT",Zee Cinemalu
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-cinemalu&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="87" tvg-name="Zee Kannada" tvg-logo="https://i.ibb.co/Hh9SmNy/Zee-Kannada.png" group-title="Watch IT",Zee Kannada
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-kannada&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="88" tvg-name="Zee Marathi" tvg-logo="https://i.ibb.co/8d7nx40/Zee-Marathi.png" group-title="Watch IT",Zee Marathi
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-marathi&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="Zee Marathi HD" tvg-logo="https://i.ibb.co/ZWx5QNY/Zee-Marathi-HD.png" group-title="Watch IT",Zee Marathi HD
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-marathi-hd&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="90" tvg-name="Zee NCR Haryana" tvg-logo="https://i.ibb.co/Wk680jB/Zee-Delhi-NCR-Haryana.png" group-title="Watch IT",Zee NCR Haryana
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-ncr&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="91" tvg-name="Zee News" tvg-logo="https://i.ibb.co/dJJkcPQ/Zee-News.png" group-title="Watch IT",Zee News
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-news&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="Zee Sarthak" tvg-logo="https://i.ibb.co/ZNvmgng/Zee-Sarthak-Odia.png" group-title="Watch IT",Zee Sarthak
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-sarthak&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="93" tvg-name="Zee Talkies" tvg-logo="https://i.ibb.co/StyrbmV/Zee-Talkies.png" group-title="Watch IT",Zee Talkies
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-talkies&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="Zee Talkies HD" tvg-logo="https://i.ibb.co/7jvTh62/Zee-Talkies-HD.png" group-title="Watch IT",Zee Talkies HD
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-talkies-hd&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="95" tvg-name="Zee Tamil" tvg-logo="https://i.ibb.co/G9nD5CC/Zee-Tamil.png" group-title="Watch IT",Zee Tamil
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-tamil&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="Zee TV" tvg-logo="https://i.ibb.co/FDBDBys/Zee-TV.png" group-title="Watch IT",Zee TV
-https://www.elokam.site/dishtv/playlist.m3u8?id=zee-tv&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Zee TV HD" tvg-logo="https://i.ibb.co/pz5Kgdb/Zee-TV-HD.png" group-title="Watch IT",Zee TV HD
 https://www.elokam.site/dishtv/playlist.m3u8?id=zee-tv-hd&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="98" tvg-name="Zing" tvg-logo="https://i.ibb.co/D9Vk0yv/Zing.png" group-title="Watch IT",Zing
 https://www.elokam.site/dishtv/playlist.m3u8?id=zing&vtoken=&e=.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="Zoom" tvg-logo="https://i.ibb.co/dkmg8JX/Zoom.png" group-title="Watch IT",Zoom
 https://www.elokam.site/dishtv/playlist.m3u8?id=zoom&vtoken=&e=.m3u8
-#EXTINF:-1 tvg-id="100" tvg-name="Aaj Tak HD" tvg-logo="https://i.ibb.co/vZL1FLR/Aaj-Tak-HD.png" group-title="Watch IT",Aaj Tak HD
-https://www.elokam.site/dishtv/playlist.m3u8?id=aaj-tak-hd&vtoken=&e=.m3u8
