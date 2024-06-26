@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      PLAYLIST_SOURCE_URL_1: ${{ secrets.PLAYLIST_SOURCE_URL_1 }}
+      PLAYLIST_SOURCE_URL_1: ${{https://github.com/MohammadJoyChy/MohammadJoyChy/blob/main/Aynaott}}
       PLAYLIST_SOURCE_URL_2: ${{ secrets.PLAYLIST_SOURCE_URL_2 }}
       PLAYLIST_SOURCE_URL_3: ${{ secrets.PLAYLIST_SOURCE_URL_3 }}
       PRIORITY_PLAYLIST_URL_1: ${{ secrets.PRIORITY_PLAYLIST_URL_1 }}
