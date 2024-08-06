@@ -10,7 +10,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/set-hd/index.ts
 
 
 #EXTINF:-1 tvg-id="ts48" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="",SONY SAB HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sab-hd/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sab-hd/index.ts
 
 
 
@@ -32,7 +32,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/investigation-discovery-hd
 https://tplay.dinesh29.com.np/live/tataplay-universal/colors-rishtey/index.ts
 
 #EXTINF:-1 tvg-id="ts554" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png" group-title="",Sony Pal
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-pal/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pal/index.ts
 
 
 
@@ -54,7 +54,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd-2/index.ts
 
 
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title=",SONY MAX HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-max-hd/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-max-hd/index.ts
 
 
 
@@ -78,13 +78,13 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/b4u-kadak/index.ts
 
 
 #EXTINF:-1 tvg-id="ts56" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="",Sony Wah
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-wah/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-wah/index.ts
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="",B4U Movies
 https://tplay.dinesh29.com.np/live/tataplay-universal/b4u-movies/index.ts
 
 #EXTINF:-1 tvg-id="ts120" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="",SONY MAX 2
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-max-2/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-max-2/index.ts
 
 
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="",Colors Cineplex Bollywood
@@ -95,14 +95,16 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/colors-cineplex-bollywood/
 
 
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="",SONY PIX HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-pix-hd/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pix-hd/index.ts
+
+
+#EXTINF:-1 tvg-id="ts34" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali",SONY AATH
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-aath/index.ts
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="ts658" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png" group-title="Marathi",Sony Marathi
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-marathi/index.ts
 
 
 
@@ -110,7 +112,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/sony-pix-hd/index.ts
 
 
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="",Star Sports 1 HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-sports-1-hd/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-1-hd/index.ts
 
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="",Star Sports 2 HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/star-sports-2-hd/index.ts
@@ -128,22 +130,22 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/star-sports-select-2-hd/in
 https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-1-hd/index.ts
 
 #EXTINF:-1 tvg-id="ts150" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="",SONY SPORTS TEN 1
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-1/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-1/index.ts
 
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="",SONY SPORTS TEN 2 HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-2-hd/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-2-hd/index.ts
 
 #EXTINF:-1 tvg-id="ts170" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title="",SONY SPORTS TEN 2
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-2/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-2/index.ts
 
 #EXTINF:-1 tvg-id="ts464" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="",SONY SPORTS TEN 3 HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-3-hd/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-3-hd/index.ts
 
 #EXTINF:-1 tvg-id="ts171" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="",SONY SPORTS TEN 3
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-3/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-3/index.ts
 
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="",SONY SPORTS TEN 5 HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-5-hd/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sports-ten-5-hd/index.ts
 
 
 
@@ -202,7 +204,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/discovery-kids/index.ts
 
 
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="",SONY YAY!
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-yay/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-yay/index.ts
 
 
 
@@ -246,7 +248,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/history-tv18-hd/index.ts
 
 
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="",SONY BBC Earth HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-bbc-earth-hd/index.ts
+https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-bbc-earth-hd/index.ts
 
 
 
