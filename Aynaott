@@ -384,83 +384,79 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8|Referer=https://mh
 https://mhdtvweb.com/sliv/stream.php?id=sony-kal&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTM3U
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-http://14.102.123.50:5001/live/144.m3u8
+https://colorsscreen.com/live.php?id=144&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
-http://14.102.123.50:5001/live/165.m3u8
+https://colorsscreen.com/live.php?id=165&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
-http://14.102.123.50:5001/live/182.m3u8
+https://colorsscreen.com/live.php?id=182&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://14.102.123.50:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
-http://14.102.123.50:5001/live/183.m3u8
+https://colorsscreen.com/live.php?id=183&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://14.102.123.50:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
-http://14.102.123.50:5001/live/440.m3u8
+https://colorsscreen.com/live.php?id=440&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=441 tvg-name="9x Jhakaas" tvg-logo="http://14.102.123.50:5001/jtvimage/9x_Jhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="Music", 9x Jhakaas
-http://14.102.123.50:5001/live/441.m3u8
+https://colorsscreen.com/live.php?id=441&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=484 tvg-name="Zee Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema
-http://14.102.123.50:5001/live/484.m3u8
+https://colorsscreen.com/live.php?id=484&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
-http://14.102.123.50:5001/live/488.m3u8
+https://colorsscreen.com/live.php?id=488&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://14.102.123.50:5001/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
-http://14.102.123.50:5001/live/527.m3u8
+https://colorsscreen.com/live.php?id=527&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/Animal_Planet_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Hindi
-http://14.102.123.50:5001/live/566.m3u8
+https://colorsscreen.com/live.php?id=566&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=568 tvg-name="Discovery Science" tvg-logo="http://14.102.123.50:5001/jtvimage/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
-http://14.102.123.50:5001/live/568.m3u8
+https://colorsscreen.com/live.php?id=568&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=571 tvg-name="TLC Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/TLC_Hindi.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", TLC Hindi
-http://14.102.123.50:5001/live/571.m3u8
+https://colorsscreen.com/live.php?id=571&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=573 tvg-name="Discovery Bengali" tvg-logo="http://14.102.123.50:5001/jtvimage/Discovery_Channel_Bengali.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="Infotainment", Discovery Bengali
-http://14.102.123.50:5001/live/573.m3u8
-#EXTINF:-1 tvg-id=574 tvg-name="TLC English" tvg-logo="http://14.102.123.50:5001/jtvimage/TLC_English.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC English
-http://14.102.123.50:5001/live/574.m3u8
+https://colorsscreen.com/live.php?id=573&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Hindi
-http://14.102.123.50:5001/live/578.m3u8
+https://colorsscreen.com/live.php?id=578&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=584 tvg-name="Mastiii" tvg-logo="http://14.102.123.50:5001/jtvimage/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
-http://14.102.123.50:5001/live/584.m3u8
+https://colorsscreen.com/live.php?id=584&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=585 tvg-name="Zing" tvg-logo="http://14.102.123.50:5001/jtvimage/Zing.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Zing
-http://14.102.123.50:5001/live/585.m3u8
+https://colorsscreen.com/live.php?id=585&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://14.102.123.50:5001/jtvimage/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
-http://14.102.123.50:5001/live/587.m3u8
+https://colorsscreen.com/live.php?id=587&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://14.102.123.50:5001/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
-http://14.102.123.50:5001/live/592.m3u8
+https://colorsscreen.com/live.php?id=592&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=625 tvg-name="Zee Bangla" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Zee Bangla
-http://14.102.123.50:5001/live/625.m3u8
+https://colorsscreen.com/live.php?id=625&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=685 tvg-name="Zee Bangla Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla_Cinema.png" tvg-language="Bengali" tvg-type="Movies" group-title="Movies", Zee Bangla Cinema
-http://14.102.123.50:5001/live/685.m3u8
+https://colorsscreen.com/live.php?id=685&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=732 tvg-name="9X Tashan" tvg-logo="http://14.102.123.50:5001/jtvimage/9X_Tashan.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", 9X Tashan
-http://14.102.123.50:5001/live/732.m3u8
+https://colorsscreen.com/live.php?id=732&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=756 tvg-name="Colors Bengali HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Bengali_HD.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Colors Bengali HD
-http://14.102.123.50:5001/live/756.m3u8
+https://colorsscreen.com/live.php?id=756&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=816 tvg-name="Cartoon Network Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/Cartoon_Network_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
-http://14.102.123.50:5001/live/816.m3u8
+https://colorsscreen.com/live.php?id=816&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1145 tvg-name="MTV HD Plus" tvg-logo="http://14.102.123.50:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
-http://14.102.123.50:5001/live/1145.m3u8
+https://colorsscreen.com/live.php?id=1145&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
-http://14.102.123.50:5001/live/1158.m3u8
+https://colorsscreen.com/live.php?id=1158&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1219 tvg-name="Animal Planet HD Tamil" tvg-logo="http://14.102.123.50:5001/jtvimage/Animal_Planet_HD_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD Tamil
-http://14.102.123.50:5001/live/1219.m3u8
+https://colorsscreen.com/live.php?id=1219&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="Music", VH1 HD
-http://14.102.123.50:5001/live/1320.m3u8
+https://colorsscreen.com/live.php?id=1320&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1325 tvg-name="Colors Infinity SD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Infinity_SD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity SD
-http://14.102.123.50:5001/live/1325.m3u8
+https://colorsscreen.com/live.php?id=1325&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1341 tvg-name="Nick Bangla" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_Bangla.png" tvg-language="Bengali" tvg-type="Kids" group-title="Kids", Nick Bangla
-http://14.102.123.50:5001/live/1341.m3u8
+https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1351 tvg-name="Zee TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV
-http://14.102.123.50:5001/live/1351.m3u8
+https://colorsscreen.com/live.php?id=1351&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1368 tvg-name="Colors SD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
-http://14.102.123.50:5001/live/1368.m3u8
-#EXTINF:-1 tvg-id=1369 tvg-name="Colors Bangla SD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Bangla_SD.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Colors Bangla SD
-http://14.102.123.50:5001/live/1369.m3u8
+https://colorsscreen.com/live.php?id=1368&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://14.102.123.50:5001/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
-http://14.102.123.50:5001/live/1450.m3u8
+https://colorsscreen.com/live.php?id=1450&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1471 tvg-name="History TV18 SD" tvg-logo="http://14.102.123.50:5001/jtvimage/History_TV18_SD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", History TV18 SD
-http://14.102.123.50:5001/live/1471.m3u8
+https://colorsscreen.com/live.php?id=1471&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
-http://14.102.123.50:5001/live/1477.m3u8
+https://colorsscreen.com/live.php?id=1477&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1657 tvg-name="Colors Bangla Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Bangla_Cinema.png" tvg-language="Bengali" tvg-type="Movies" group-title="Movies", Colors Bangla Cinema
-http://14.102.123.50:5001/live/1657.m3u8
+https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
-http://14.102.123.50:5001/live/1763.m3u8
+https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1977 tvg-name="Zee Bangla HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla_HD.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Zee Bangla HD
-http://14.102.123.50:5001/live/1977.m3u8
+https://colorsscreen.com/live.php?id=1977&extension=.m3u8|Referer=https://colorsscreen.com/
 
 
 
