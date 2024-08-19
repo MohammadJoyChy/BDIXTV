@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="",STAR Plus HD
-https://allinonereborn.com/livetv-web/live.php?id=409&vtoken=&e=.m3u8
+https://allinonereborn.com/4ktv/m3u.php?id=5747
 
 #EXTINF:-1 tvg-id="ts244" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="",Star Bharat HD
-https://allinonereborn.com/livetv-web/live.php?id=420&vtoken=&e=.m3u8
+https://allinonereborn.com/4ktv/m3u.php?id=5799
 
 
 
@@ -31,7 +31,7 @@ https://allinonereborn.com/livetv-web/live.php?id=420&vtoken=&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="",Star GOLD HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd-2/index.ts
+https://allinonereborn.com/4ktv/m3u.php?id=5883
 
 
 
@@ -76,13 +76,13 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd-2/index.ts
 
 
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="",Star Sports 1 HD
-https://allinonereborn.com/livetv-web/live.php?id=290&vtoken=&e=.m3u8
+https://allinonereborn.com/4ktv/m3u.php?id=65034
 
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="",Star Sports 2 HD
-https://allinonereborn.com/livetv-web/live.php?id=292&vtoken=&e=.m3u8
+https://allinonereborn.com/4ktv/m3u.php?id=65046
 
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="",Star Sports 1 Hindi HD
-https://allinonereborn.com/livetv-web/live.php?id=291&vtoken=&e=.m3u8
+https://allinonereborn.com/4ktv/m3u.php?id=65058
 
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="",Star Sports Select 1 HD
 https://allinonereborn.com/livetv-web/live.php?id=293&vtoken=&e=.m3u8
@@ -209,8 +209,7 @@ https://allinonereborn.com/livetv-web/live.php?id=1439&vtoken=&e=.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ts539" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="",VH1 HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/vh1-hd/index.ts
+
 
 
 
@@ -323,22 +322,15 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=0RTkWfzB&e=.m3u8|Referer=https://
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4eavizab&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 tvg-id="he4be5di" tvg-name="TV9 Bangla" tvg-logo="https://i.postimg.cc/J0zSc30y/TV9-Bangla.png" tvg-chno="52" group-title="BDIX IPTV HUB BD CAST",TV9 Bangla
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=he4be5di&e=.m3u8|Referer=https://entezeetv.fun/bdcast/
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="BDIX IPTV HUB ZEE 5",& Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="BDIX IPTV HUB ZEE 5",ZEE Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="BDIX IPTV HUB ZEE 5",& tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="BDIX IPTV HUB ZEE 5",Zee tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="BDIX IPTV HUB ZEE 5",Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="BDIX IPTV HUB ZEE 5",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="BDIX IPTV HUB ZEE 5",Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png" group-title="BDIX IPTV HUB ZEE 5",Zee Action
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="sony-hd" group-title="Nayeem's SonyLIV",Sony HD (SET HD)
 https://mhdtvweb.com/sliv/stream.php?id=sony-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
@@ -395,8 +387,6 @@ https://colorsscreen.com/live.php?id=183&extension=.m3u8|Referer=https://colorss
 https://colorsscreen.com/live.php?id=440&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=441 tvg-name="9x Jhakaas" tvg-logo="http://14.102.123.50:5001/jtvimage/9x_Jhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="Music", 9x Jhakaas
 https://colorsscreen.com/live.php?id=441&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=484 tvg-name="Zee Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema
-https://colorsscreen.com/live.php?id=484&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
 https://colorsscreen.com/live.php?id=488&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://14.102.123.50:5001/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
@@ -419,8 +409,6 @@ https://colorsscreen.com/live.php?id=585&extension=.m3u8|Referer=https://colorss
 https://colorsscreen.com/live.php?id=587&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://14.102.123.50:5001/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
 https://colorsscreen.com/live.php?id=592&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=625 tvg-name="Zee Bangla" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Zee Bangla
-https://colorsscreen.com/live.php?id=625&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=685 tvg-name="Zee Bangla Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla_Cinema.png" tvg-language="Bengali" tvg-type="Movies" group-title="Movies", Zee Bangla Cinema
 https://colorsscreen.com/live.php?id=685&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=732 tvg-name="9X Tashan" tvg-logo="http://14.102.123.50:5001/jtvimage/9X_Tashan.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", 9X Tashan
@@ -433,22 +421,14 @@ https://colorsscreen.com/live.php?id=816&extension=.m3u8|Referer=https://colorss
 https://colorsscreen.com/live.php?id=1145&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
 https://colorsscreen.com/live.php?id=1158&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1219 tvg-name="Animal Planet HD Tamil" tvg-logo="http://14.102.123.50:5001/jtvimage/Animal_Planet_HD_Tamil.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD Tamil
-https://colorsscreen.com/live.php?id=1219&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="Music", VH1 HD
 https://colorsscreen.com/live.php?id=1320&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1325 tvg-name="Colors Infinity SD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Infinity_SD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity SD
-https://colorsscreen.com/live.php?id=1325&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1341 tvg-name="Nick Bangla" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_Bangla.png" tvg-language="Bengali" tvg-type="Kids" group-title="Kids", Nick Bangla
 https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1351 tvg-name="Zee TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV
 https://colorsscreen.com/live.php?id=1351&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1368 tvg-name="Colors SD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors SD
-https://colorsscreen.com/live.php?id=1368&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://14.102.123.50:5001/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
 https://colorsscreen.com/live.php?id=1450&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1471 tvg-name="History TV18 SD" tvg-logo="http://14.102.123.50:5001/jtvimage/History_TV18_SD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", History TV18 SD
-https://colorsscreen.com/live.php?id=1471&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 https://colorsscreen.com/live.php?id=1477&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1657 tvg-name="Colors Bangla Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Bangla_Cinema.png" tvg-language="Bengali" tvg-type="Movies" group-title="Movies", Colors Bangla Cinema
@@ -457,9 +437,5 @@ https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colors
 https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=1977 tvg-name="Zee Bangla HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla_HD.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Zee Bangla HD
 https://colorsscreen.com/live.php?id=1977&extension=.m3u8|Referer=https://colorsscreen.com/
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="1" tvg-name="T SPORTS" tvg-country="BAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",T SPORTS
+https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in/
