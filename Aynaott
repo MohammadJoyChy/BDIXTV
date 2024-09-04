@@ -95,46 +95,108 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="BDIX IPTV HUB ZEE 5",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="1100" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="1100" group-title="Sony24X7 LiveTV",Sony HD (SET HD)
-https://keralamaxtv.com/sliv/stream.php?id=1100|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="1201" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="1201" group-title="Sony24X7 LiveTV",Sony SAB HD
-https://keralamaxtv.com/sliv/stream.php?id=1201|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="1378" tvg-name="Sony Marathi" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" tvg-chno="1378" group-title="Sony24X7 LiveTV",Sony Marathi
-https://keralamaxtv.com/sliv/stream.php?id=1378|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="1894" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" tvg-chno="1894" group-title="Sony24X7 LiveTV",Sony Pal
-https://keralamaxtv.com/sliv/stream.php?id=1894|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="195" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="195" group-title="Sony24X7 LiveTV",Sony Aath
-https://keralamaxtv.com/sliv/stream.php?id=195|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="168569" tvg-name="Sony Yay" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="168569" group-title="Sony24X7 LiveTV",Sony Yay
-https://keralamaxtv.com/sliv/stream.php?id=168569|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="878545" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="878545" group-title="Sony24X7 LiveTV",Sony MAX HD
-https://keralamaxtv.com/sliv/stream.php?id=878545|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="96" tvg-name="Sony MAX" tvg-country="IN" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" tvg-chno="96" group-title="Sony24X7 LiveTV",Sony MAX
-https://keralamaxtv.com/sliv/stream.php?id=96|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="75" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png" tvg-chno="75" group-title="Sony24X7 LiveTV",Sony WAH
-https://keralamaxtv.com/sliv/stream.php?id=75|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="123" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="123" group-title="Sony24X7 LiveTV",Sony MAX 2
-https://keralamaxtv.com/sliv/stream.php?id=123|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="785" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="785" group-title="Sony24X7 LiveTV",Sony PIX HD
-https://keralamaxtv.com/sliv/stream.php?id=785|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="852" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="852" group-title="Sony24X7 LiveTV",Sony BBC Earth HD
-https://keralamaxtv.com/sliv/stream.php?id=852|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="578079" tvg-name="Sony Sports Ten 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png" tvg-chno="578079" group-title="Sony24X7 LiveTV",Sony Sports Ten 1
-https://keralamaxtv.com/sliv/stream.php?id=578079|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="12087898" tvg-name="Sony Sports Ten 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png" tvg-chno="12087898" group-title="Sony24X7 LiveTV",Sony Sports Ten 2
-https://keralamaxtv.com/sliv/stream.php?id=12087898|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="98756214" tvg-name="Sony Sports Ten 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png" tvg-chno="98756214" group-title="Sony24X7 LiveTV",Sony Sports Ten 3
-https://keralamaxtv.com/sliv/stream.php?id=98756214|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="9357985" tvg-name="Sony Sports Ten 5" tvg-country="IN" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" tvg-chno="9357985" group-title="Sony24X7 LiveTV",Sony Sports Ten 5
-https://keralamaxtv.com/sliv/stream.php?id=9357985|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="7541236" tvg-name="Sony Sports Ten 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" tvg-chno="7541236" group-title="Sony24X7 LiveTV",Sony Sports Ten 1 HD
-https://keralamaxtv.com/sliv/stream.php?id=7541236|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="96585698" tvg-name="Sony Sports Ten 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" tvg-chno="96585698" group-title="Sony24X7 LiveTV",Sony Sports Ten 2 HD
-https://keralamaxtv.com/sliv/stream.ph?id=96585698|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="36523652" tvg-name="Sony Sports Ten 3 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" tvg-chno="36523652" group-title="Sony24X7 LiveTV",Sony Sports Ten 3 HD
-https://keralamaxtv.com/sliv/stream.php?id=36523652|Referer=https://keralamaxtv.com/
-#EXTINF:-1 tvg-id="985663256" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" tvg-chno="985663256" group-title="Sony24X7 LiveTV",Sony Sports Ten 5 HD
-https://keralamaxtv.com/sliv/stream.php?id=985663256|Referer=https://keralamaxtv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=15
+#EXTINF:-1 tvg-id="15" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Entertainment",SET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=48
+#EXTINF:-1 tvg-id="48" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment",SONY SAB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=48
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=658
+#EXTINF:-1 tvg-id="658" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png" group-title="Regional Marathi",Sony Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=658
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=554
+#EXTINF:-1 tvg-id="554" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png" group-title="Entertainment",Sony Pal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=554
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=34
+#EXTINF:-1 tvg-id="34" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Regional Bengali",SONY AATH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=45
+#EXTINF:-1 tvg-id="45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids",SONY YAY!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=45
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=80
+#EXTINF:-1 tvg-id="80" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Movies",SONY MAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=80
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=132
+#EXTINF:-1 tvg-id="132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Movies",SONY MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=132
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=56
+#EXTINF:-1 tvg-id="56" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="Movies",Sony Wah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=56
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=120
+#EXTINF:-1 tvg-id="120" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="Movies",SONY MAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=120
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=32
+#EXTINF:-1 tvg-id="32" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Movies",SONY PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=32
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=460
+#EXTINF:-1 tvg-id="460" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Knowledge",SONY BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=460
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=81
+#EXTINF:-1 tvg-id="81" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",SONY SPORTS TEN 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=81
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=150
+#EXTINF:-1 tvg-id="150" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="Sports",SONY SPORTS TEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=150
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=462
+#EXTINF:-1 tvg-id="462" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",SONY SPORTS TEN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=462
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=170
+#EXTINF:-1 tvg-id="170" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" group-title="Sports",SONY SPORTS TEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=170
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=464
+#EXTINF:-1 tvg-id="464" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Sports",SONY SPORTS TEN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=464
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=171
+#EXTINF:-1 tvg-id="171" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="Sports",SONY SPORTS TEN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=171
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=35
+#EXTINF:-1 tvg-id="35" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sports",SONY SPORTS TEN 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=35
+
 #EXTINF:-1 tvg-id="7854" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="7854" group-title="Sony24X7 LiveTV",Sony KAL
 https://keralamaxtv.com/sliv/stream.php?id=7854|Referer=https://keralamaxtv.com/
 #EXTM3U
