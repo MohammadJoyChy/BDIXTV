@@ -138,68 +138,140 @@ https://keralamaxtv.com/sliv/stream.php?id=985663256|Referer=https://keralamaxtv
 #EXTINF:-1 tvg-id="7854" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="7854" group-title="Sony24X7 LiveTV",Sony KAL
 https://keralamaxtv.com/sliv/stream.php?id=7854|Referer=https://keralamaxtv.com/
 #EXTM3U
-#EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-https://colorsscreen.com/live.php?id=144&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD
-https://colorsscreen.com/live.php?id=165&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
-https://colorsscreen.com/live.php?id=182&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=183 tvg-name="B4U Music" tvg-logo="http://14.102.123.50:5001/jtvimage/B4U_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", B4U Music
-https://colorsscreen.com/live.php?id=183&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=440 tvg-name="9X Jalwa" tvg-logo="http://14.102.123.50:5001/jtvimage/9X_Jalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
-https://colorsscreen.com/live.php?id=440&extension=.m3u8|Referer=https://colorsscreen.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=52
+#EXTINF:-1 tvg-id="52" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment",Colors HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=52
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=503
+#EXTINF:-1 tvg-id="503" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Movies",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=503
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=7
+#EXTINF:-1 tvg-id="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="Movies",B4U Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=9
+#EXTINF:-1 tvg-id="9" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music",B4U Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=39
+#EXTINF:-1 tvg-id="39" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="Music",9X Jalwa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=39
 #EXTINF:-1 tvg-id=441 tvg-name="9x Jhakaas" tvg-logo="http://14.102.123.50:5001/jtvimage/9x_Jhakaas.png" tvg-language="Marathi" tvg-type="Music" group-title="Music", 9x Jhakaas
 https://colorsscreen.com/live.php?id=441&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
 https://colorsscreen.com/live.php?id=488&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://14.102.123.50:5001/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
-https://colorsscreen.com/live.php?id=527&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=566 tvg-name="Animal Planet Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/Animal_Planet_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Hindi
-https://colorsscreen.com/live.php?id=566&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=568 tvg-name="Discovery Science" tvg-logo="http://14.102.123.50:5001/jtvimage/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
-https://colorsscreen.com/live.php?id=568&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=571 tvg-name="TLC Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/TLC_Hindi.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", TLC Hindi
-https://colorsscreen.com/live.php?id=571&extension=.m3u8|Referer=https://colorsscreen.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=633
+#EXTINF:-1 tvg-id="633" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49002-k5cch1cg-v2/imageContent-49002-k5cch1cg-m5.png" group-title="Entertainment",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=633
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=130
+#EXTINF:-1 tvg-id="130" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png" group-title="Knowledge",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=130
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=113
+#EXTINF:-1 tvg-id="113" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Knowledge",Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=113
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=135
+#EXTINF:-1 tvg-id="135" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png" group-title="Lifestyle",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=135
 #EXTINF:-1 tvg-id=573 tvg-name="Discovery Bengali" tvg-logo="http://14.102.123.50:5001/jtvimage/Discovery_Channel_Bengali.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="Infotainment", Discovery Bengali
 https://colorsscreen.com/live.php?id=573&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=578 tvg-name="History TV18 HD Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/History_18_Hindi.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Hindi
-https://colorsscreen.com/live.php?id=578&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=584 tvg-name="Mastiii" tvg-logo="http://14.102.123.50:5001/jtvimage/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
-https://colorsscreen.com/live.php?id=584&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=585 tvg-name="Zing" tvg-logo="http://14.102.123.50:5001/jtvimage/Zing.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Zing
-https://colorsscreen.com/live.php?id=585&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=587 tvg-name="9XM" tvg-logo="http://14.102.123.50:5001/jtvimage/9XM.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
-https://colorsscreen.com/live.php?id=587&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://14.102.123.50:5001/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
-https://colorsscreen.com/live.php?id=592&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=685 tvg-name="Zee Bangla Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla_Cinema.png" tvg-language="Bengali" tvg-type="Movies" group-title="Movies", Zee Bangla Cinema
-https://colorsscreen.com/live.php?id=685&extension=.m3u8|Referer=https://colorsscreen.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=616
+#EXTINF:-1 tvg-id="616" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Knowledge",History TV18 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=616
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=17
+#EXTINF:-1 tvg-id="17" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="Music",Mastiii
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=17
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=517
+#EXTINF:-1 tvg-id="517" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="Music",Zing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=517
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=139
+#EXTINF:-1 tvg-id="139" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="Music",9XM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=139
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=96
+#EXTINF:-1 tvg-id="96" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="Music",Zoom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=96
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=254
+#EXTINF:-1 tvg-id="254" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="Regional Bengali",Zee Bangla Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=254
 #EXTINF:-1 tvg-id=732 tvg-name="9X Tashan" tvg-logo="http://14.102.123.50:5001/jtvimage/9X_Tashan.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", 9X Tashan
 https://colorsscreen.com/live.php?id=732&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=756 tvg-name="Colors Bengali HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Bengali_HD.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Colors Bengali HD
-https://colorsscreen.com/live.php?id=756&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=816 tvg-name="Cartoon Network Hindi" tvg-logo="http://14.102.123.50:5001/jtvimage/Cartoon_Network_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Cartoon Network Hindi
-https://colorsscreen.com/live.php?id=816&extension=.m3u8|Referer=https://colorsscreen.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=305
+#EXTINF:-1 tvg-id="305" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Regional Bengali",Colors Bangla HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=305
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=238
+#EXTINF:-1 tvg-id="238" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=238
 #EXTINF:-1 tvg-id=1145 tvg-name="MTV HD Plus" tvg-logo="http://14.102.123.50:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
 https://colorsscreen.com/live.php?id=1145&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
-https://colorsscreen.com/live.php?id=1158&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1320 tvg-name="VH1 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/VH1_HD.png" tvg-language="English" tvg-type="Music" group-title="Music", VH1 HD
-https://colorsscreen.com/live.php?id=1320&extension=.m3u8|Referer=https://colorsscreen.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=187
+#EXTINF:-1 tvg-id="187" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png" group-title="Entertainment",Colors Infinity HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=187
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=539
+#EXTINF:-1 tvg-id="539" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="Music",VH1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=539
 #EXTINF:-1 tvg-id=1341 tvg-name="Nick Bangla" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_Bangla.png" tvg-language="Bengali" tvg-type="Kids" group-title="Kids", Nick Bangla
 https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1351 tvg-name="Zee TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV
-https://colorsscreen.com/live.php?id=1351&extension=.m3u8|Referer=https://colorsscreen.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=63
+#EXTINF:-1 tvg-id="63" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Entertainment",Zee TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=63
 #EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://14.102.123.50:5001/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
 https://colorsscreen.com/live.php?id=1450&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
-https://colorsscreen.com/live.php?id=1477&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1657 tvg-name="Colors Bangla Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Bangla_Cinema.png" tvg-language="Bengali" tvg-type="Movies" group-title="Movies", Colors Bangla Cinema
-https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
-https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id=1977 tvg-name="Zee Bangla HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Bangla_HD.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Zee Bangla HD
-https://colorsscreen.com/live.php?id=1977&extension=.m3u8|Referer=https://colorsscreen.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=61
+#EXTINF:-1 tvg-id="61" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Movies",Colors Cineplex HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=61
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=896
+#EXTINF:-1 tvg-id="896" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v2/CLRBANG_Thumbnail.png" group-title="Regional Bengali",Colors Bangla Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=896
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=1000
+#EXTINF:-1 tvg-id="1000" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Romance",Colors Cineplex Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=522
+#EXTINF:-1 tvg-id="522" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Regional Bengali",Zee Bangla HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=522
 #EXTINF:-1 tvg-id="1" tvg-name="T SPORTS" tvg-country="BAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",T SPORTS
 https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in/
 #EXTM3U
@@ -220,29 +292,33 @@ https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png", Star Jalsha HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QxhBpxdJ44zlyZMvrqdcdw", "kid": "wu1n_H0ySUysFf2pKCVKZQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=468
+#EXTINF:-1 tvg-id="468" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Regional Bengali",Star Jalsha HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=468
 
-#EXTINF:-1 tvg-id="29" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png", Jalsha Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Uqquz57boDgHfweoqU9_Tg", "kid": "7--0hzyVR9Ghp6CsLumLTg"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=537
+#EXTINF:-1 tvg-id="537" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="Regional Bengali",Jalsha Movies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=537
 
-#EXTINF:-1 tvg-id="31" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png", Star PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "", "kid": "LttOWM8kTVGBQyBZwDqDUQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/99ed86002c8d470ea7e8d3c699abc57f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",STAR Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=8
 
 
 
 
 
-#EXTINF:-1 tvg-id="34" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702595466.png", STAR GOLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "J5Imr5yaHdbrSIuFIKJNiw", "kid": "-wLcLLpERTiX3ghw1DzBnA"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=245
+#EXTINF:-1 tvg-id="245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies",STAR GOLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=245
 
 
 
@@ -250,17 +326,20 @@ https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YoK2pusRsRJZkJDFap1I4A", "kid": "Qu1RkjiuTpKYc4trZ6G5Gw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/fb49908b8b3247a8ba7329726bad5753/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=78
+#EXTINF:-1 tvg-id="78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=78
 
-#EXTINF:-1 tvg-id="42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png", Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LDZ4vlI0MKYMQGv2qNmszw", "kid": "lA3og3MaRaaHcCEqLqFbnA"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/4d015848792f45e1bd0ba5ce73452a37/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=463
+#EXTINF:-1 tvg-id="463" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=463
 
-#EXTINF:-1 tvg-id="43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png", Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "NClyBFvdvJf0PMPIQc3GuQ", "kid": "PKLrUC6HRhaMd62aUGuykw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj49.in/tp-keys/key.php?id=246
+#EXTINF:-1 tvg-id="246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=246
