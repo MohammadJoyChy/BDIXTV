@@ -138,6 +138,8 @@ https://keralamaxtv.com/sliv/stream.php?id=985663256|Referer=https://keralamaxtv
 #EXTINF:-1 tvg-id="7854" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="7854" group-title="Sony24X7 LiveTV",Sony KAL
 https://keralamaxtv.com/sliv/stream.php?id=7854|Referer=https://keralamaxtv.com/
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="T SPORTS" tvg-country="BAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",T SPORTS
+https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in/
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
 https://nayeemparvez.online/hybrid/master.m3u8?id=GTV
 
