@@ -53,7 +53,7 @@ https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=25|Referer=https://watch.ayn
 #EXTINF:-1 tvg-id="26" tvg-name="Jamuna TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" tvg-chno="26" group-title="Ayna-OTT by CRICFy",Jamuna TV
 https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=26|Referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="27" tvg-name="T Sports HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="27" group-title="Ayna-OTT by CRICFy",T Sports HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=27|Referer=https://watch.aynaott.com/
+http://stvlive.net:8080/tsports2/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="DBC News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" tvg-chno="28" group-title="Ayna-OTT by CRICFy",DBC News
 https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=28|Referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="29" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-chno="29" group-title="Ayna-OTT by CRICFy",T Sports
