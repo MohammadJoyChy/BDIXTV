@@ -1,181 +1,94 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="Ayna-OTT by CRICFy",BTV National
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=1|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="2" tvg-name="BTV World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" tvg-chno="2" group-title="Ayna-OTT by CRICFy",BTV World
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=2|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="3" tvg-name="Sangshad TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" tvg-chno="3" group-title="Ayna-OTT by CRICFy",Sangshad TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=3|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="4" tvg-name="BTV Chattogram" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" tvg-chno="4" group-title="Ayna-OTT by CRICFy",BTV Chattogram
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=4|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="5" tvg-name="Bangla Vision" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" tvg-chno="5" group-title="Ayna-OTT by CRICFy",Bangla Vision
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=5|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="6" tvg-name="Channel I" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" tvg-chno="6" group-title="Ayna-OTT by CRICFy",Channel I
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=6|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="7" tvg-name="Ekushey TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" tvg-chno="7" group-title="Ayna-OTT by CRICFy",Ekushey TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=7|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="8" tvg-name="NTV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" tvg-chno="8" group-title="Ayna-OTT by CRICFy",NTV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=8|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="9" tvg-name="ATN Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" tvg-chno="9" group-title="Ayna-OTT by CRICFy",ATN Bangla
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=9|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="10" tvg-name="Boishakhi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" tvg-chno="10" group-title="Ayna-OTT by CRICFy",Boishakhi TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=10|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="11" tvg-name="Maasranga TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" tvg-chno="11" group-title="Ayna-OTT by CRICFy",Maasranga TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=11|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="12" tvg-name="Desh TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" tvg-chno="12" group-title="Ayna-OTT by CRICFy",Desh TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=12|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="13" tvg-name="My TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" tvg-chno="13" group-title="Ayna-OTT by CRICFy",My TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=13|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="14" tvg-name="ATN News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" tvg-chno="14" group-title="Ayna-OTT by CRICFy",ATN News
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=14|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="15" tvg-name="Mohona TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" tvg-chno="15" group-title="Ayna-OTT by CRICFy",Mohona TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=15|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="16" tvg-name="Bijoy TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" tvg-chno="16" group-title="Ayna-OTT by CRICFy",Bijoy TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=16|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="17" tvg-name="Somoy News TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" tvg-chno="17" group-title="Ayna-OTT by CRICFy",Somoy News TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=17|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="18" tvg-name="Gazi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="18" group-title="Ayna-OTT by CRICFy",Gazi TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=18|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="19" tvg-name="Gazi TV HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" tvg-chno="19" group-title="Ayna-OTT by CRICFy",Gazi TV HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=19|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="20" tvg-name="Channel 9" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" tvg-chno="20" group-title="Ayna-OTT by CRICFy",Channel 9
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=20|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="21" tvg-name="Channel 24" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png" tvg-chno="21" group-title="Ayna-OTT by CRICFy",Channel 24
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=21|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="22" tvg-name="Gaan Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" tvg-chno="22" group-title="Ayna-OTT by CRICFy",Gaan Bangla
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=22|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="23" tvg-name="Ekattor TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png" tvg-chno="23" group-title="Ayna-OTT by CRICFy",Ekattor TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=23|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="24" tvg-name="Asian TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" tvg-chno="24" group-title="Ayna-OTT by CRICFy",Asian TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=24|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="25" tvg-name="SA TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png" tvg-chno="25" group-title="Ayna-OTT by CRICFy",SA TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=25|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="26" tvg-name="Jamuna TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" tvg-chno="26" group-title="Ayna-OTT by CRICFy",Jamuna TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=26|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="27" tvg-name="T Sports HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="27" group-title="Ayna-OTT by CRICFy",T Sports HD
-http://stvlive.net:8080/tsports2/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="DBC News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" tvg-chno="28" group-title="Ayna-OTT by CRICFy",DBC News
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=28|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="29" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-chno="29" group-title="Ayna-OTT by CRICFy",T Sports
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=29|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="30" tvg-name="News 24" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png" tvg-chno="30" group-title="Ayna-OTT by CRICFy",News 24
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=30|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="31" tvg-name="Bangla TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e44d6140-a2c6-4528-a7d3-09d0a5337423_180x180_89fc9e6f-b77b-4bde-90f8-865c243422d6.png" tvg-chno="31" group-title="Ayna-OTT by CRICFy",Bangla TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=31|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="32" tvg-name="Nexus TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0f3e0290-14e1-44ae-9cec-fcd95f23aa41_180x180_ba9a1b16-535c-4c1d-9ebf-2c94df27d585.png" tvg-chno="32" group-title="Ayna-OTT by CRICFy",Nexus TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=32|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="33" tvg-name="Ananda TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" tvg-chno="33" group-title="Ayna-OTT by CRICFy",Ananda TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=33|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="34" tvg-name="Global TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ef7244ea-1f07-41bb-82e8-d81a2d12ac81_180x180_global-tv.jpg" tvg-chno="34" group-title="Ayna-OTT by CRICFy",Global TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=34|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="35" tvg-name="Green TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/48e398dd-50d4-40b0-8e26-4a5170faf8c6_180x180_greentv.png" tvg-chno="35" group-title="Ayna-OTT by CRICFy",Green TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=35|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="36" tvg-name="Duronto TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/155cef49-2209-474b-b882-2618ab44a109_180x180_duronto.png" tvg-chno="36" group-title="Ayna-OTT by CRICFy",Duronto TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=36|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="38" tvg-name="Sangeet Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/89ad8138-b397-4f95-831a-4b2e77e7843c_180x180_songit-bangla.jpg" tvg-chno="38" group-title="Ayna-OTT by CRICFy",Sangeet Bangla
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=38|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="39" tvg-name="B4U Music" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" tvg-chno="39" group-title="Ayna-OTT by CRICFy",B4U Music
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=39|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="40" tvg-name="Ekhon TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" tvg-chno="40" group-title="Ayna-OTT by CRICFy",Ekhon TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=40|Referer=https://watch.aynaott.com/
+#EXTINF:-1 tvg-id="1" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=atn_bangla|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=atn_news|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="JadooBD By CRICFy", Al Jazeera English HD
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=al_jazeera|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png", Ananda TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=ananda_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="JadooBD By CRICFy", Asian Tv
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=asian_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="JadooBD By CRICFy", BBC Lifestyle 
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=bbc_lifestyle|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="JadooBD By CRICFy", BBC World
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=bbc_world|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="JadooBD By CRICFy", BTV World
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=btv_world|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcXGir4Im1CdWyd65VVsv1_xf7HA8dB-D5g&usqp=CAU" group-title="JadooBD By CRICFy", Sangshad TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=sangsad_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="JadooBD By CRICFy", Bangla TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=bangla_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="JadooBD By CRICFy", Bijoy TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=bijoy_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="JadooBD By CRICFy", Boishakhi TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=boishakhi_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="JadooBD By CRICFy", CNN
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=cnn|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="JadooBD By CRICFy", Channel 24
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=channel_24|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="JadooBD By CRICFy", Channel 9
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=channel_9|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="JadooBD By CRICFy", Channel I
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=channel_i|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="JadooBD By CRICFy", DBC News
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=dbc_news|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="JadooBD By CRICFy", Deepto TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=deepto_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfIHs7s0y6UiqDu37qpG-RnpWK5Kx_Mvk564W8PIhDA&s" group-title="JadooBD By CRICFy", Desh TV 
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=desh_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="JadooBD By CRICFy", Duronto TV 
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=duronto_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="JadooBD By CRICFy", Ekattor TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=ekattor_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="JadooBD By CRICFy", Ekushey TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=ekushey_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="JadooBD By CRICFy", Gaan Bangla 
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=gaan_bangla|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="JadooBD By CRICFy", Gazi TV 
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=gazi_tv_hd|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="JadooBD By CRICFy", Independent TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=independent_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="JadooBD By CRICFy", Jamuna TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=jamuna_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="JadooBD By CRICFy", Massranga
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=massranga|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="JadooBD By CRICFy", NTV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=ntv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="JadooBD By CRICFy", Nagorik TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=nagorik_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="JadooBD By CRICFy", News 24 HD
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=news_24_hd|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title="JadooBD By CRICFy", Nexus TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=nexus_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" group-title="JadooBD By CRICFy", Quran TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=quran_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="JadooBD By CRICFy", RTV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=rtv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="JadooBD By CRICFy", SATV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=sa_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="JadooBD By CRICFy", Somoy TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=somoy_news|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="JadooBD By CRICFy", T Sports HD
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=t_sports|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="JadooBD By CRICFy", Zee Bangla 
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=zee_bangla|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="JadooBD By CRICFy", Zee Cinema 
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=zee_cinema_hd|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="JadooBD By CRICFy", Zee TV
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=zee_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="JadooBD By CRICFy", 9x Jalwa
+https://cdm.its-nayeemparvez.xyz/jadoo/stream.php?id=9x_jalwa|Referer=
 #EXTINF:-1 tvg-id="42" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" tvg-chno="42" group-title="Ayna-OTT by CRICFy",Star Sports 1 HD
 https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=42|Referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="43" tvg-name="Star Sports 2 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" tvg-chno="43" group-title="Ayna-OTT by CRICFy",Star Sports 2 HD
 https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=43|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="44" tvg-name="History Channel" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" tvg-chno="44" group-title="Ayna-OTT by CRICFy",History Channel
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=44|Referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="47" tvg-name="PTV Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" tvg-chno="47" group-title="Ayna-OTT by CRICFy",PTV Sports
 https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=47|Referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="48" tvg-name="Star Sport Select 1" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" tvg-chno="48" group-title="Ayna-OTT by CRICFy",Star Sport Select 1
 https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=48|Referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="49" tvg-name="Star Sport Select 2" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg" tvg-chno="49" group-title="Ayna-OTT by CRICFy",Star Sport Select 2
 https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=49|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="50" tvg-name="MTV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed9ba281-9ef1-4b8d-bcac-d769c8f9b113_180x180_m-tv.jpg" tvg-chno="50" group-title="Ayna-OTT by CRICFy",MTV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=50|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="51" tvg-name="Geo Super" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c12281c3-5258-4cce-a634-ef111acc28ee_180x180_geo-super.jpg" tvg-chno="51" group-title="Ayna-OTT by CRICFy",Geo Super
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=51|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="52" tvg-name="Discovery Kids" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" tvg-chno="52" group-title="Ayna-OTT by CRICFy",Discovery Kids
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=52|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="53" tvg-name="Discovery Turbo" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d17be1e7-11c4-43a1-867b-7dd28f5b2206_180x180_discovery_turbo.jpg" tvg-chno="53" group-title="Ayna-OTT by CRICFy",Discovery Turbo
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=53|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="54" tvg-name="Discovery Science" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" tvg-chno="54" group-title="Ayna-OTT by CRICFy",Discovery Science
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=54|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="55" tvg-name="Animal Planet HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" tvg-chno="55" group-title="Ayna-OTT by CRICFy",Animal Planet HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=55|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="56" tvg-name="Investigation Discovery HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" tvg-chno="56" group-title="Ayna-OTT by CRICFy",Investigation Discovery HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=56|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="57" tvg-name="TLC HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg" tvg-chno="57" group-title="Ayna-OTT by CRICFy",TLC HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=57|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="58" tvg-name="Discovery HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" tvg-chno="58" group-title="Ayna-OTT by CRICFy",Discovery HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=58|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="59" tvg-name="Aljazeera News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" tvg-chno="59" group-title="Ayna-OTT by CRICFy",Aljazeera News
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=59|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="60" tvg-name="DW" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/87699afe-b92e-4e1b-bd94-dbafed7906cf_180x180_DWEnglishHD.jpg" tvg-chno="60" group-title="Ayna-OTT by CRICFy",DW
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=60|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="64" tvg-name="BBC News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a4e2e38d-6a60-409e-9419-40b9fd97e29a_180x180_bbcnews.jpeg" tvg-chno="64" group-title="Ayna-OTT by CRICFy",BBC News
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=64|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="65" tvg-name="Cartoon Network" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" tvg-chno="65" group-title="Ayna-OTT by CRICFy",Cartoon Network
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=65|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="68" tvg-name="A Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" tvg-chno="68" group-title="Ayna-OTT by CRICFy",A Sports
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=68|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="69" tvg-name="HBO" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ca2ecac1-7447-46fe-9921-e6c3e37a8dc9_180x180_hbo.jpg" tvg-chno="69" group-title="Ayna-OTT by CRICFy",HBO
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=69|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="92" tvg-name="Ten 2 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f17b81cb-6339-47a4-9492-71cb68af4be2_180x180_ten-2-hd.jpg" tvg-chno="92" group-title="Ayna-OTT by CRICFy",Ten 2 HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=92|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="93" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1e80c84f-32e0-403f-b6fc-3e60c37846d2_180x180_andpictureshd.jpg" tvg-chno="93" group-title="Ayna-OTT by CRICFy",And Pictures HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=93|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="94" tvg-name="ZEE Bangla HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/09bff4ab-934e-4b47-bacd-4c24ffaf3047_180x180_zee-bangla-hd.jpg" tvg-chno="94" group-title="Ayna-OTT by CRICFy",ZEE Bangla HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=94|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="95" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" tvg-chno="95" group-title="Ayna-OTT by CRICFy",Zee TV HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=95|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="96" tvg-name="Zee Cafe HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/14cdd9d1-e5f3-4c14-80ef-320d6b21591a_180x180_ZeeCafeHD.jpg" tvg-chno="96" group-title="Ayna-OTT by CRICFy",Zee Cafe HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=96|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="97" tvg-name="Zee Anmol" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6361f7a0-2736-4e6c-897c-8f70c914a667_180x180_ZeeAnmol.jpg" tvg-chno="97" group-title="Ayna-OTT by CRICFy",Zee Anmol
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=97|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="98" tvg-name="ZEE 24 Ghanta" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" tvg-chno="98" group-title="Ayna-OTT by CRICFy",ZEE 24 Ghanta
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=98|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="99" tvg-name="Zing" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/97fd3820-fe52-40f2-abab-342b55524a15_180x180_zing.jpg" tvg-chno="99" group-title="Ayna-OTT by CRICFy",Zing
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=99|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="100" tvg-name="ZEE News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d60bc970-1f75-4039-b27a-2312650ff03c_180x180_zee-news.jpg" tvg-chno="100" group-title="Ayna-OTT by CRICFy",ZEE News
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=100|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="101" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/130a6d62-da6b-457c-9953-f23a272462a0_180x180_zee-bollywood.jpg" tvg-chno="101" group-title="Ayna-OTT by CRICFy",Zee Bollywood
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=101|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="102" tvg-name="And TV HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" tvg-chno="102" group-title="Ayna-OTT by CRICFy",And TV HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=102|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="103" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eac1d5e7-1738-46e5-b5c1-16afe3b579a6_180x180_ZeeCinemaHD.jpg" tvg-chno="103" group-title="Ayna-OTT by CRICFy",Zee Cinema HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=103|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="104" tvg-name="Zee Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/92a89f33-066e-40b2-b931-7d8b0c211997_180x180_zee-bangla-logo.jpg" tvg-chno="104" group-title="Ayna-OTT by CRICFy",Zee Bangla
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=104|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="105" tvg-name="Colors Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd-1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg" tvg-chno="105" group-title="Ayna-OTT by CRICFy",Colors Bangla
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=105|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="106" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bff83ca-d4d6-4018-aa96-67dc51926f68_180x180_ColorsHD.jpg" tvg-chno="106" group-title="Ayna-OTT by CRICFy",Colors HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=106|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="107" tvg-name="Zee Buisness" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e4230e20-1845-41b1-b64a-4161bd1c34d0_180x180_ZeeBuisness.jpg" tvg-chno="107" group-title="Ayna-OTT by CRICFy",Zee Buisness
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=107|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="109" tvg-name="Zee Action" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/685d5255-141f-454b-ae42-1e9a9bf4cfdb_180x180_zee-action.jpg" tvg-chno="109" group-title="Ayna-OTT by CRICFy",Zee Action
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=109|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="113" tvg-name="Willow HD TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" tvg-chno="113" group-title="Ayna-OTT by CRICFy",Willow HD TV
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=113|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="123" tvg-name="Mastiii Music" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" tvg-chno="123" group-title="Ayna-OTT by CRICFy",Mastiii Music
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=123|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="124" tvg-name="9XM" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/854a9ced-0949-4199-b4eb-f6705d505485_180x180_9xm.jpg" tvg-chno="124" group-title="Ayna-OTT by CRICFy",9XM
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=124|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="125" tvg-name="9x Jalwa" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" tvg-chno="125" group-title="Ayna-OTT by CRICFy",9x Jalwa
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=125|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="Ayna-OTT by CRICFy",Nickelodeon
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=126|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="131" tvg-name="Astro Cricket HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b501b56a-47a1-452b-bf2d-0cb8d41da761_180x180_astro-cricket.jpg" tvg-chno="131" group-title="Ayna-OTT by CRICFy",Astro Cricket HD
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=131|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="133" tvg-name="Makkah Live" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ac1bb7a4-7677-4f35-afc5-2ca62dd4dde3_180x180_Makkahlive.jpeg" tvg-chno="133" group-title="Ayna-OTT by CRICFy",Makkah Live
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=133|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="134" tvg-name="Madina Live" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/02f80ef0-e262-4b63-a61b-19c4a4bbf297_180x180_madinalive.jpeg" tvg-chno="134" group-title="Ayna-OTT by CRICFy",Madina Live
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=134|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="135" tvg-name="9x Jhakaas" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/432a34b3-9f47-410d-b3b8-bbd45e608faa_180x180_9xjhakaas.jpg" tvg-chno="135" group-title="Ayna-OTT by CRICFy",9x Jhakaas
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=135|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="141" tvg-name="Music India" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/33740b02-58ee-44ae-b67c-11b14e1fc997_180x180_MusicIndia.png" tvg-chno="141" group-title="Ayna-OTT by CRICFy",Music India
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=141|Referer=https://watch.aynaott.com/
-#EXTINF:-1 tvg-id="186" tvg-name="B4U Movies India" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/35633be0-734d-4c47-92ac-e16f772a013e_180x180_B4U_Movies_India.jpg" tvg-chno="186" group-title="Ayna-OTT by CRICFy",B4U Movies India
-https://nl.thenayeemparvez.xyz/aynaxd/stream.php?id=186|Referer=https://watch.aynaott.com/
 #EXTM3U
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="sony-hd" group-title="Nayeem's SonyLIV",Sony HD (SET HD)
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
@@ -211,3 +124,5 @@ https://its-nayeemparvez.xyz/sliv/playlist.m3u8?id=ten3_hd
 https://its-nayeemparvez.xyz/sliv/playlist.m3u8?id=ten5_hd
 #EXTINF:-1 tvg-id="sony-kal" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="sony-kal" group-title="Nayeem's SonyLIV",Sony KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="T Sports HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="27" group-title="Ayna-OTT by CRICFy",T Sports HD
+http://stvlive.net:8080/tsports2/index.m3u8
