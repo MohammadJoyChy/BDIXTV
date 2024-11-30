@@ -1,81 +1,82 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=atn_bangla|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=atn_news|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="Nayeem's JadooTV", Al Jazeera English HD
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=al_jazeera|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png", Ananda TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=ananda_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="Nayeem's JadooTV", Asian Tv
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=asian_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="Nayeem's JadooTV", BBC Lifestyle 
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=bbc_lifestyle|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="Nayeem's JadooTV", BBC World
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=bbc_world|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="Nayeem's JadooTV", BTV World
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=btv_world|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcXGir4Im1CdWyd65VVsv1_xf7HA8dB-D5g&usqp=CAU" group-title="Nayeem's JadooTV", Sangshad TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=sangsad_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="Nayeem's JadooTV", Bangla TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=bangla_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="Nayeem's JadooTV", Bijoy TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=bijoy_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="Nayeem's JadooTV", Boishakhi TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=boishakhi_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="Nayeem's JadooTV", CNN
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=cnn|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="Nayeem's JadooTV", Channel 24
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=channel_24|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="Nayeem's JadooTV", Channel 9
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=channel_9|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="Nayeem's JadooTV", Channel I
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=channel_i|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="Nayeem's JadooTV", DBC News
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=dbc_news|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="Nayeem's JadooTV", Deepto TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=deepto_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfIHs7s0y6UiqDu37qpG-RnpWK5Kx_Mvk564W8PIhDA&s" group-title="Nayeem's JadooTV", Desh TV 
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=desh_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="Nayeem's JadooTV", Duronto TV 
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=duronto_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="Nayeem's JadooTV", Ekattor TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=ekattor_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="Nayeem's JadooTV", Ekushey TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=ekushey_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="Nayeem's JadooTV", Gaan Bangla 
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=gaan_bangla|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="Nayeem's JadooTV", Gazi TV 
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=gazi_tv_hd|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="Nayeem's JadooTV", Independent TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=independent_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="Nayeem's JadooTV", Jamuna TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=jamuna_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="Nayeem's JadooTV", Massranga
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=massranga|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="Nayeem's JadooTV", NTV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=ntv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="Nayeem's JadooTV", Nagorik TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=nagorik_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="Nayeem's JadooTV", News 24 HD
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=news_24_hd|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title="Nayeem's JadooTV", Nexus TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=nexus_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" group-title="Nayeem's JadooTV", Quran TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=quran_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="Nayeem's JadooTV", RTV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=rtv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="Nayeem's JadooTV", SATV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=sa_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="Nayeem's JadooTV", Somoy TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=somoy_news|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="Nayeem's JadooTV", T Sports HD
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=t_sports|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Nayeem's JadooTV", Zee Bangla 
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=zee_bangla|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="Nayeem's JadooTV", Zee Cinema 
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=zee_cinema_hd|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="Nayeem's JadooTV", Zee TV
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=zee_tv|Referer=https://xnxx.tv/
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="Nayeem's JadooTV", 9x Jalwa
-https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=9x_jalwa|Referer=https://xnxx.tv/
+#EXTINF:-1 tvg-id="1" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=atn_bangla|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=atn_news|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="JadooBD By CRICFy", Al Jazeera English HD
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=al_jazeera|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png", Ananda TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=ananda_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="JadooBD By CRICFy", Asian Tv
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=asian_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="JadooBD By CRICFy", BBC Lifestyle 
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=bbc_lifestyle|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="JadooBD By CRICFy", BBC World
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=bbc_world|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="JadooBD By CRICFy", BTV World
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=btv_world|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcXGir4Im1CdWyd65VVsv1_xf7HA8dB-D5g&usqp=CAU" group-title="JadooBD By CRICFy", Sangshad TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=sangsad_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="JadooBD By CRICFy", Bangla TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=bangla_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="JadooBD By CRICFy", Bijoy TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=bijoy_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="JadooBD By CRICFy", Boishakhi TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=boishakhi_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="JadooBD By CRICFy", CNN
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=cnn|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="JadooBD By CRICFy", Channel 24
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=channel_24|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="JadooBD By CRICFy", Channel 9
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=channel_9|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="JadooBD By CRICFy", Channel I
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=channel_i|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="JadooBD By CRICFy", DBC News
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=dbc_news|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="JadooBD By CRICFy", Deepto TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=deepto_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfIHs7s0y6UiqDu37qpG-RnpWK5Kx_Mvk564W8PIhDA&s" group-title="JadooBD By CRICFy", Desh TV 
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=desh_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="JadooBD By CRICFy", Duronto TV 
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=duronto_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="JadooBD By CRICFy", Ekattor TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=ekattor_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="JadooBD By CRICFy", Ekushey TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=ekushey_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="JadooBD By CRICFy", Gaan Bangla 
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=gaan_bangla|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="JadooBD By CRICFy", Gazi TV 
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=gazi_tv_hd|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="JadooBD By CRICFy", Independent TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=independent_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="JadooBD By CRICFy", Jamuna TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=jamuna_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="JadooBD By CRICFy", Massranga
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=massranga|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="JadooBD By CRICFy", NTV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=ntv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="JadooBD By CRICFy", Nagorik TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=nagorik_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="JadooBD By CRICFy", News 24 HD
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=news_24_hd|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title="JadooBD By CRICFy", Nexus TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=nexus_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" group-title="JadooBD By CRICFy", Quran TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=quran_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="JadooBD By CRICFy", RTV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=rtv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="JadooBD By CRICFy", SATV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=sa_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="JadooBD By CRICFy", Somoy TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=somoy_news|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="JadooBD By CRICFy", T Sports HD
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=t_sports|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="JadooBD By CRICFy", Zee Bangla 
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=zee_bangla|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="JadooBD By CRICFy", Zee Cinema 
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=zee_cinema_hd|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="JadooBD By CRICFy", Zee TV
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=zee_tv|Referer=
+#EXTINF:-1 tvg-id="JadooBD By CRICFy" tvg-name="JadooBD By CRICFy" tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="JadooBD By CRICFy", 9x Jalwa
+https://cdm.its-nayeemparvez.xyz/jadooz/stream.php?id=9x_jalwa|Referer=
