@@ -1,132 +1,153 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/And%20Picture%201731407396.png",And Picture
-http://180.92.238.118:8080/andpicture/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png",Atn Bangla
-http://180.92.238.118:8080/atnbangla/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png",ATN News
-http://180.92.238.118:8080/atnnews/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
-http://180.92.238.118:8080/banglavision/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Bein%20Sports%2011731077114.png",Bein Sports 1
-http://180.92.238.118:8080/bein1/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Boishakhi1731389791.png",Boishakhi
-http://180.92.238.118:8080/boishakhi/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/BTV1731308323.png",BTV
-http://180.92.238.118:8080/btv/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Cartoon%20Network1732882313.png",Cartoon Network
-http://180.92.238.118:8080/cn/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
-http://180.92.238.118:8080/channeli/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Colors%20Bangla1731406802.png",Colors Bangla
-http://180.92.238.118:8080/colorsbangla/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png",Colors HD
-http://180.92.238.118:8080/colorshd/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/DBC%2021731466294.png",DBC 2
-http://180.92.238.118:8080/dbc2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/DBC%20News1731406699.png", News
-http://180.92.238.118:8080/dbc/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Deepto%20TV1730884108.png",Deepto TV
-http://180.92.238.118:8080/deepto/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Discovery1731407135.png",Discovery
-http://180.92.238.118:8080/discovery/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Dubai%20Sports1731465478.png", Sports
-http://180.92.238.118:8080/duabisports/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Dubai%20Sports21731465823.png",Dubai Sports2
-http://180.92.238.118:8080/dubaisports2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/DW%20News1731466569.png",DW News
-http://180.92.238.118:8080/dwnews/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png",Ekattor TV
-http://180.92.238.118:8080/ekattor/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Euro%20Sports1730729350.png",Euro Sports
-http://180.92.238.118:8080/eurosports/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Gaan%20Bangla1732894265.png",Gaan Bangla
-http://180.92.238.118:8080/gaanbangla/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png", GTV1
-http://180.92.238.118:8080/gtv/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/GTV%2021730895387.png",GTV 2
-http://180.92.238.118:8080/gtv2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Independent%20TV1731406270.png",Independent TV
-http://180.92.238.118:8080/independent/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png",Jalsha Movies
-http://180.92.238.118:8080/jalshamovies/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
-http://180.92.238.118:8080/jamuna/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Maasranga1731406467.png",Maasranga
-http://180.92.238.118:8080/maasranga/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Masti1732894277.png",Masti
-http://180.92.238.118:8080/abmasti/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
-http://180.92.238.118:8080/metv/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
-http://180.92.238.118:8080/moviebangla/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Movies%20Now1730729140.png",Movies Now
-http://180.92.238.118:8080/moviesnow/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/17-%20My%20Tv1718990809.png",My Tv
-http://180.92.238.118:8080/mytv/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",Nagorik TV
-http://180.92.238.118:8080/nagorik/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png",Nick
-http://180.92.238.118:8080/nick/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/NTV1731389953.png",NTV
-http://180.92.238.118:8080/ntv/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Red%20Bull1731468749.png",Red Bull
-http://180.92.238.118:8080/redbull/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Rtv1731406387.png",Rtv
-http://180.92.238.118:8080/rtv/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/S%20Football1730992362.png",S Football
-http://180.92.238.118:8080/sfootball/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/S%20Premier%20League1733248311.png", Premier League
-http://180.92.238.118:8080/spremier/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png",Sangeet Bangla
-http://180.92.238.118:8080/sbangla/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
-http://180.92.238.118:8080/somoy/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png", Aath
-http://180.92.238.118:8080/sonyaath/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony Enter Ten
-http://180.92.238.118:8080/sonyentten/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png",Sony Max
-http://180.92.238.118:8080/sonymax/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png", Max 2
-http://180.92.238.118:8080/sonymax2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Pix1731138518.png",Sony Pix
-http://180.92.238.118:8080/sonypix/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",Sony Ten 1
-http://180.92.238.118:8080/sonyten1/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",Sony Ten 2
-http://180.92.238.118:8080/sonyten2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
-http://180.92.238.118:8080/sonyten5/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sports%20181731138453.png", 18
-http://180.92.238.118:8080/sports18/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731407227.png",Star Gold
-http://180.92.238.118:8080/stargold/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold%20Thrill1730728943.png",Star Gold Thrill
-http://180.92.238.118:8080/stargoldthrill/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold21731407524.png", Gold2
-http://180.92.238.118:8080/stargold2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",Star Jalsha
-http://180.92.238.118:8080/starjalsha/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies
-http://180.92.238.118:8080/starmovies/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Plus1731424615.png", Plus
-http://180.92.238.118:8080/starplus/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
-http://180.92.238.118:8080/starselect1/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Select21731408458.png",Star Select2
-http://180.92.238.118:8080/starselect2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png", Sports 1
-http://180.92.238.118:8080/starsports1/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
-http://180.92.238.118:8080/starsports2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",Sun Bangla
-http://180.92.238.118:8080/sunbangla/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/T%20sports11731393960.png",T sports1
-http://180.92.238.118:8080/tsports1/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/T%20sports21730895313.png",T sports2
-http://180.92.238.118:8080/tsports2/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Ten%20Sports1731469910.png",Ten Sports
-http://180.92.238.118:8080/tensports/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
-http://180.92.238.118:8080/zeebangla/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20Cinema1731470057.png",Zee Bangla Cinema
-http://180.92.238.118:8080/zeebncinema/index.mpd
+
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", BTV National
+https://nowlivetv.com/ayna/stream.m3u8?id=1&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", BTV World
+https://nowlivetv.com/ayna/stream.m3u8?id=2&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Sangshad TV
+https://nowlivetv.com/ayna/stream.m3u8?id=3&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", BTV Chattogram
+https://nowlivetv.com/ayna/stream.m3u8?id=4&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Bangla Vision
+https://nowlivetv.com/ayna/stream.m3u8?id=5&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Channel I
+https://nowlivetv.com/ayna/stream.m3u8?id=6&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Ekushey TV
+https://nowlivetv.com/ayna/stream.m3u8?id=7&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", NTV
+https://nowlivetv.com/ayna/stream.m3u8?id=8&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5a1e2a64-898c-4538-b476-c437f48a0fd1_180x180_6af20fbc-6243-45a6-920e-954f942c82d6.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Independent TV
+https://nowlivetv.com/ayna/stream.m3u8?id=9&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", ATN Bangla
+https://nowlivetv.com/ayna/stream.m3u8?id=10&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Boishakhi TV
+https://nowlivetv.com/ayna/stream.m3u8?id=11&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Maasranga TV
+https://nowlivetv.com/ayna/stream.m3u8?id=12&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Desh TV
+https://nowlivetv.com/ayna/stream.m3u8?id=13&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", My TV
+https://nowlivetv.com/ayna/stream.m3u8?id=14&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", ATN News
+https://nowlivetv.com/ayna/stream.m3u8?id=15&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Mohona TV
+https://nowlivetv.com/ayna/stream.m3u8?id=16&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Bijoy TV
+https://nowlivetv.com/ayna/stream.m3u8?id=17&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Gazi TV
+https://nowlivetv.com/ayna/stream.m3u8?id=18&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Gazi TV HD
+https://nowlivetv.com/ayna/stream.m3u8?id=19&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Channel 9
+https://nowlivetv.com/ayna/stream.m3u8?id=20&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Channel 24
+https://nowlivetv.com/ayna/stream.m3u8?id=21&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Gaan Bangla
+https://nowlivetv.com/ayna/stream.m3u8?id=22&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Ekattor TV
+https://nowlivetv.com/ayna/stream.m3u8?id=23&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Asian TV
+https://nowlivetv.com/ayna/stream.m3u8?id=24&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", SA TV
+https://nowlivetv.com/ayna/stream.m3u8?id=25&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Jamuna TV
+https://nowlivetv.com/ayna/stream.m3u8?id=26&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", T Sports HD
+https://nowlivetv.com/ayna/stream.m3u8?id=27&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0c3d16f4-13fd-4e05-be50-6bf78faae714_180x180_t-sports.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", T Sports
+https://nowlivetv.com/ayna/stream.m3u8?id=28&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", DBC News
+https://nowlivetv.com/ayna/stream.m3u8?id=29&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", T Sports
+https://nowlivetv.com/ayna/stream.m3u8?id=30&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", News 24
+https://nowlivetv.com/ayna/stream.m3u8?id=31&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e44d6140-a2c6-4528-a7d3-09d0a5337423_180x180_89fc9e6f-b77b-4bde-90f8-865c243422d6.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Bangla TV
+https://nowlivetv.com/ayna/stream.m3u8?id=32&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0f3e0290-14e1-44ae-9cec-fcd95f23aa41_180x180_ba9a1b16-535c-4c1d-9ebf-2c94df27d585.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Nexus TV
+https://nowlivetv.com/ayna/stream.m3u8?id=33&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Ananda TV
+https://nowlivetv.com/ayna/stream.m3u8?id=34&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ef7244ea-1f07-41bb-82e8-d81a2d12ac81_180x180_global-tv.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Global TV
+https://nowlivetv.com/ayna/stream.m3u8?id=35&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c089c29-5f41-4a70-91d8-f52afa9e288b_180x180_channelS.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Channel S
+https://nowlivetv.com/ayna/stream.m3u8?id=36&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/155cef49-2209-474b-b882-2618ab44a109_180x180_duronto.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Duronto TV
+https://nowlivetv.com/ayna/stream.m3u8?id=37&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/39b2a216-5975-4f18-99c1-8404a28a046c_180x180_iqrabangla.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", IQRA Bangla TV
+https://nowlivetv.com/ayna/stream.m3u8?id=38&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/89ad8138-b397-4f95-831a-4b2e77e7843c_180x180_songit-bangla.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Sangeet Bangla
+https://nowlivetv.com/ayna/stream.m3u8?id=39&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", B4U Music
+https://nowlivetv.com/ayna/stream.m3u8?id=40&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Ekhon TV
+https://nowlivetv.com/ayna/stream.m3u8?id=41&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed5ea72d-ffc6-4a16-bbc5-3846939a1e29_180x180_images.jpeg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", RTV
+https://nowlivetv.com/ayna/stream.m3u8?id=42&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Star Sports 1 HD
+https://nowlivetv.com/ayna/stream.m3u8?id=44&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Star Sports 2 HD
+https://nowlivetv.com/ayna/stream.m3u8?id=45&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", History Channel
+https://nowlivetv.com/ayna/stream.m3u8?id=46&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", PTV Sports
+https://nowlivetv.com/ayna/stream.m3u8?id=47&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Star Sport Select 1
+https://nowlivetv.com/ayna/stream.m3u8?id=48&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Star Sport Select 2
+https://nowlivetv.com/ayna/stream.m3u8?id=49&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed9ba281-9ef1-4b8d-bcac-d769c8f9b113_180x180_m-tv.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", MTV
+https://nowlivetv.com/ayna/stream.m3u8?id=50&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Discovery Kids
+https://nowlivetv.com/ayna/stream.m3u8?id=51&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d17be1e7-11c4-43a1-867b-7dd28f5b2206_180x180_discovery_turbo.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Discovery Turbo
+https://nowlivetv.com/ayna/stream.m3u8?id=52&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Discovery Science
+https://nowlivetv.com/ayna/stream.m3u8?id=53&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Animal Planet HD
+https://nowlivetv.com/ayna/stream.m3u8?id=54&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Investigation Discovery HD
+https://nowlivetv.com/ayna/stream.m3u8?id=55&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", TLC HD
+https://nowlivetv.com/ayna/stream.m3u8?id=56&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Discovery HD
+https://nowlivetv.com/ayna/stream.m3u8?id=57&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Aljazeera News
+https://nowlivetv.com/ayna/stream.m3u8?id=58&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", A Sports
+https://nowlivetv.com/ayna/stream.m3u8?id=67&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1e80c84f-32e0-403f-b6fc-3e60c37846d2_180x180_andpictureshd.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", And Pictures HD
+https://nowlivetv.com/ayna/stream.m3u8?id=92&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/09bff4ab-934e-4b47-bacd-4c24ffaf3047_180x180_zee-bangla-hd.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", ZEE Bangla HD
+https://nowlivetv.com/ayna/stream.m3u8?id=93&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Zee TV HD
+https://nowlivetv.com/ayna/stream.m3u8?id=94&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/97fd3820-fe52-40f2-abab-342b55524a15_180x180_zing.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Zing
+https://nowlivetv.com/ayna/stream.m3u8?id=98&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/130a6d62-da6b-457c-9953-f23a272462a0_180x180_zee-bollywood.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Zee Bollywood
+https://nowlivetv.com/ayna/stream.m3u8?id=100&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", And TV HD
+https://nowlivetv.com/ayna/stream.m3u8?id=101&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eac1d5e7-1738-46e5-b5c1-16afe3b579a6_180x180_ZeeCinemaHD.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Zee Cinema HD
+https://nowlivetv.com/ayna/stream.m3u8?id=102&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/92a89f33-066e-40b2-b931-7d8b0c211997_180x180_zee-bangla-logo.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Zee Bangla
+https://nowlivetv.com/ayna/stream.m3u8?id=103&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd-1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Colors Bangla
+https://nowlivetv.com/ayna/stream.m3u8?id=104&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/685d5255-141f-454b-ae42-1e9a9bf4cfdb_180x180_zee-action.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Zee Action
+https://nowlivetv.com/ayna/stream.m3u8?id=107&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Mastiii Music
+https://nowlivetv.com/ayna/stream.m3u8?id=121&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/854a9ced-0949-4199-b4eb-f6705d505485_180x180_9xm.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", 9XM
+https://nowlivetv.com/ayna/stream.m3u8?id=122&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", 9x Jalwa
+https://nowlivetv.com/ayna/stream.m3u8?id=123&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Nickelodeon
+https://nowlivetv.com/ayna/stream.m3u8?id=124&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ac1bb7a4-7677-4f35-afc5-2ca62dd4dde3_180x180_Makkahlive.jpeg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Makkah Live
+https://nowlivetv.com/ayna/stream.m3u8?id=130&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/02f80ef0-e262-4b63-a61b-19c4a4bbf297_180x180_madinalive.jpeg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Madina Live
+https://nowlivetv.com/ayna/stream.m3u8?id=131&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e5d7afb9-de43-4094-a551-5ecf02abbfca_180x180_B4U_Kadak.png" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", B4U Kadak
+https://nowlivetv.com/ayna/stream.m3u8?id=145&e=.m3u8|Referer=https://nowlivetv.com/
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/418f4267-3b10-4e93-97f7-070d61cc5074_180x180_Bflix.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Bflix
+https://nowlivetv.com/ayna/stream.m3u8?id=158&e=.m3u8|Referer=https://nowlivetv.com/
