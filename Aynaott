@@ -151,3 +151,33 @@ https://nowlivetv.com/ayna/stream.m3u8?id=131&e=.m3u8|Referer=https://nowlivetv.
 https://nowlivetv.com/ayna/stream.m3u8?id=145&e=.m3u8|Referer=https://nowlivetv.com/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/418f4267-3b10-4e93-97f7-070d61cc5074_180x180_Bflix.jpg" group-title="AYNA OTT LIVE - POWERED BY [CODECUTER]", Bflix
 https://nowlivetv.com/ayna/stream.m3u8?id=158&e=.m3u8|Referer=https://nowlivetv.com/
+
+#EXTM3U
+#EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-name="SONY SPORTS TEN 1 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" tvg-chno="sony_sports_1_hd" group-title="", SONY SPORTS TEN 1 HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=sony_sports_1_hd&e=.m3u8
+#EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-name="SONY SPORTS TEN 2 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" tvg-chno="sony_sports_2_hd" group-title="", SONY SPORTS TEN 2 HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=sony_sports_2_hd&e=.m3u8
+#EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-name="SONY SPORTS TEN 5 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" tvg-chno="sony_sports_5_hd" group-title="", SONY SPORTS TEN 5 HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=sony_sports_5_hd&e=.m3u8
+#EXTINF:-1 tvg-id="sonyyay" tvg-name="SONY YAY" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" tvg-chno="sonyyay" group-title="", SONY YAY
+https://cdn-toffee.iptvbd.xyz/live.php?id=sonyyay&e=.m3u8
+#EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" tvg-chno="sonyaath" group-title="", Sony Aat
+https://cdn-toffee.iptvbd.xyz/live.php?id=sonyaath&e=.m3u8
+#EXTINF:-1 tvg-id="sonyentertainmnt_hd" tvg-name="SONY ENTERTAINMENT TELEVISION HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" tvg-chno="sonyentertainmnt_hd" group-title="", SONY ENTERTAINMENT TELEVISION HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=sonyentertainmnt_hd&e=.m3u8
+#EXTINF:-1 tvg-id="sony_entertainment" tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" tvg-chno="sony_entertainment" group-title="", SONY ENTERTAINMENT TELEVISION
+https://cdn-toffee.iptvbd.xyz/live.php?id=sony_entertainment&e=.m3u8
+#EXTINF:-1 tvg-id="sonysab_hd" tvg-name="SONY SAB HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" tvg-chno="sonysab_hd" group-title="", SONY SAB HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=sonysab_hd&e=.m3u8
+#EXTINF:-1 tvg-id="sony_max_hd" tvg-name="SONY MAX HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" tvg-chno="sony_max_hd" group-title="", SONY MAX HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=sony_max_hd&e=.m3u8
+#EXTINF:-1 tvg-id="sony_max" tvg-name="SONY MAX" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" tvg-chno="sony_max" group-title="", SONY MAX
+https://cdn-toffee.iptvbd.xyz/live.php?id=sony_max&e=.m3u8
+#EXTINF:-1 tvg-id="sonypix_hd" tvg-name="SONY PIX HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" tvg-chno="sonypix_hd" group-title="", SONY PIX HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=sonypix_hd&e=.m3u8
+#EXTINF:-1 tvg-id="b4u_movies" tvg-name="B4U Movies" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" tvg-chno="b4u_movies" group-title="", B4U Movies
+https://cdn-toffee.iptvbd.xyz/live.php?id=b4u_movies&e=.m3u8
+#EXTINF:-1 tvg-id="sonymax_2" tvg-name="SONY MAX 2" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" tvg-chno="sonymax_2" group-title="", SONY MAX 2
+https://cdn-toffee.iptvbd.xyz/live.php?id=sonymax_2&e=.m3u8
+#EXTINF:-1 tvg-id="sonybbc_earth_hd" tvg-name="SONY BBC EARTH HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_330023001731294257.png" tvg-chno="sonybbc_earth_hd" group-title="", SONY BBC EARTH HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=sonybbc_earth_hd&e=.m3u8
