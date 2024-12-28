@@ -135,7 +135,7 @@ https://dns.otapp.store/durbin/stream.m3u8?id=94&e=.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://otapp.store/uploads/tv_image/a-sports.png",A Sports 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
 #EXTINF:-1 group-title="" tvg-logo="https://otapp.store/uploads/tv_image/t-sports.webp",T Sports 
-http://103.96.235.18:8080/sports1/index.m3u8
+https://pc.top10bhaluka.com/wp-image/stream.php?id=T-SPORTS&e=.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="43dcec1011e7" tvg-name="SONY SPORTS TEN 1 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" tvg-chno="43dcec1011e7" group-title="",SONY SPORTS TEN 1 HD
