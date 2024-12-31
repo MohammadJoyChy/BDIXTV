@@ -18,7 +18,7 @@ jobs:
       - name: Update m3u8 file
         run: |
           # .m3u8 ফাইল আপডেট করতে এই কোডটি ব্যবহার করুন
-          echo "#EXTM3U" > path/to/your/file.m3u8
+          echo "#EXTM3U" > https://newhub247.store/dead/stream.m3u8?id=0-9-zeecinemahd
           echo "#EXTINF:10, Sample Video" >> path/to/your/file.m3u8
           echo "http://example.com/sample_video.mp4" >> path/to/your/file.m3u8
 
