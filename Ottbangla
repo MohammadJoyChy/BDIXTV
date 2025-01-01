@@ -12,21 +12,9 @@
         "slug": "zee-anmol-cinema-2",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-bigganga",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-bigganga",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-anmol-cinema-2.png"
-      },
-      {
-        "live_tv_id": "187",
-        "tv_name": "Star Movies",
-        "is_paid": "1",
-        "description": "",
-        "slug": "star-movies",
-        "stream_from": "hls",
-        "stream_label": "HD",
-        "stream_url": "https://cflare.mooo.com/hls/smovie.m3u8",
-        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-movies.png",
-        "poster_url": "https://otapp.store/uploads/tv_image/star-movies.png"
       },
       {
         "live_tv_id": "176",
@@ -36,7 +24,7 @@
         "slug": "zee-cinema-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeecinemahd",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeecinemahd",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-cinema-hd-veqq3heoalzv.png"
       }
@@ -115,7 +103,7 @@
         "slug": "nagorik-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=nagorik_tv",
+        "stream_url": "https://pc.top10bhaluka.com/wp-image/stream.m3u8?id=LIVE-SPORTS",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/nagorik-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/nagorik-tv.png"
       },
@@ -127,7 +115,7 @@
         "slug": "deepto-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=deepto_tv",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=deepto_tv",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/deepto-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/deepto-tv.png"
       },
@@ -151,21 +139,9 @@
         "slug": "rtv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=rtv",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=rtv",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/rtv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/rtv.png"
-      },
-      {
-        "live_tv_id": "171",
-        "tv_name": "Khushboo Bangla",
-        "is_paid": "1",
-        "description": "",
-        "slug": "khushboo-bangla",
-        "stream_from": "hls",
-        "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=152&e=.m3u8",
-        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png",
-        "poster_url": "https://otapp.store/uploads/tv_image/khushboo-bangla.png"
       },
       {
         "live_tv_id": "170",
@@ -235,7 +211,7 @@
         "slug": "bangla-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=bangla_tv",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=bangla_tv",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/bangla-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/bangla-tv.png"
       },
@@ -271,7 +247,7 @@
         "slug": "channel-9",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=channel_9",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=channel_9",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/channel-9.png",
         "poster_url": "https://otapp.store/uploads/tv_image/channel-9.png"
       },
@@ -283,7 +259,7 @@
         "slug": "gazi-tv-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=gazi_tv_hd",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=gazi_tv_hd",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/gazi-tv-hd.png"
       },
@@ -295,7 +271,7 @@
         "slug": "bijoy-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=bijoy_tv",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=bijoy_tv",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/bijoy-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/bijoy-tv.png"
       },
@@ -331,7 +307,7 @@
         "slug": "desh-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=desh_tv",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=desh_tv",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/desh-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/desh-tv.png"
       },
@@ -379,7 +355,7 @@
         "slug": "ntv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=ntv",
+        "stream_url": "https://dns.otapp.store/cpu/jago.php?id=ntvuk00332211.stream",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/ntv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/ntv.png"
       },
@@ -403,7 +379,7 @@
         "slug": "channel-i",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=channel_i",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=channel_i",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/channel-i.png",
         "poster_url": "https://otapp.store/uploads/tv_image/channel-i.png"
       },
@@ -415,7 +391,7 @@
         "slug": "bangla-vision",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=bangla_vision",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=bangla_vision",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/bangla-vision.png",
         "poster_url": "https://otapp.store/uploads/tv_image/bangla-vision.png"
       },
@@ -446,7 +422,7 @@
         "slug": "independent-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://176.119.29.61/live/00:1A:79:AB:E0:58/9396/99.m3u8",
+        "stream_url": "https://dns.bajimath.com/wp-theme/stream.php?id=INDPENDENT-TV",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/independent-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/independent-tv.png"
       },
@@ -458,7 +434,7 @@
         "slug": "news-24",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=news_24_hd",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=news_24_hd",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/news-24.png",
         "poster_url": "https://otapp.store/uploads/tv_image/news-24.png"
       },
@@ -470,7 +446,7 @@
         "slug": "dbc-news",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://176.119.29.61/live/00:1A:79:AB:E0:58/9396/29197.m3u8",
+        "stream_url": "https://14744568.b-cdn.net/wp-theme/stream.m3u8?id=DBC-NEWS",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/dbc-news.png",
         "poster_url": "https://otapp.store/uploads/tv_image/dbc-news.png"
       },
@@ -482,7 +458,7 @@
         "slug": "jamuna-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=jamuna_tv",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=jamuna_tv",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/jamuna-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/jamuna-tv.png"
       },
@@ -518,7 +494,7 @@
         "slug": "somoy-news-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=somoy_news",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=somoy_news",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/somoy-news-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/somoy-news-tv.png"
       },
@@ -566,7 +542,7 @@
         "slug": "news18-bangla-news",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=717",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=717",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/news18-bangla-news.png",
         "poster_url": "https://otapp.store/uploads/tv_image/news18-bangla-news.png"
       },
@@ -638,18 +614,6 @@
         "poster_url": "https://otapp.store/uploads/tv_image/peace-tv-urdu-hd.png"
       },
       {
-        "live_tv_id": "133",
-        "tv_name": "IQRA Bangla TV",
-        "is_paid": "1",
-        "description": "",
-        "slug": "iqra-bangla-tv",
-        "stream_from": "hls",
-        "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=38&e=.m3u8",
-        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/iqra-bangla-tv.png",
-        "poster_url": "https://otapp.store/uploads/tv_image/iqra-bangla-tv.png"
-      },
-      {
         "live_tv_id": "132",
         "tv_name": "Madani Channel HD",
         "is_paid": "1",
@@ -700,7 +664,7 @@
         "slug": "sangeet-bhojpuri",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=741",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sangeet-bhojpuri.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sangeet-bhojpuri.png"
       },
@@ -712,7 +676,7 @@
         "slug": "dhoom-music-bangla",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=3006",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=3006",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png",
         "poster_url": "https://otapp.store/uploads/tv_image/dhoom-music-bangla.png"
       },
@@ -724,7 +688,7 @@
         "slug": "coke-studio-bharat",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=2944",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=2944",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/coke-studio-bharat.png",
         "poster_url": "https://otapp.store/uploads/tv_image/coke-studio-bharat.png"
       },
@@ -736,7 +700,7 @@
         "slug": "saregama-music",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=2065",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=2065",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/saregama-music.png",
         "poster_url": "https://otapp.store/uploads/tv_image/saregama-music.png"
       },
@@ -748,7 +712,7 @@
         "slug": "vh1-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1320",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1320",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/vh1-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/vh1-hd.png"
       },
@@ -760,7 +724,7 @@
         "slug": "mtv-beats-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=753",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=753",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/mtv-beats-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/mtv-beats-hd.png"
       },
@@ -772,7 +736,7 @@
         "slug": "sangeet-bangla",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=740",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=740",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sangeet-bangla.png"
       },
@@ -784,7 +748,7 @@
         "slug": "zoom",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=592",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=592",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zoom.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zoom.png"
       },
@@ -796,7 +760,7 @@
         "slug": "e-24",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=591",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=591",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/e-24.png",
         "poster_url": "https://otapp.store/uploads/tv_image/e-24.png"
       },
@@ -820,7 +784,7 @@
         "slug": "mastiii",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=584",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=584",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/mastiii.png",
         "poster_url": "https://otapp.store/uploads/tv_image/mastiii.png"
       },
@@ -832,7 +796,7 @@
         "slug": "9x-tashan",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=732",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=732",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/9x-tashan.png",
         "poster_url": "https://otapp.store/uploads/tv_image/9x-tashan.png"
       },
@@ -844,7 +808,7 @@
         "slug": "9xm",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=587",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=587",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/9xm.png",
         "poster_url": "https://otapp.store/uploads/tv_image/9xm.png"
       },
@@ -856,7 +820,7 @@
         "slug": "9x-jhakaas",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=441",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=441",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png",
         "poster_url": "https://otapp.store/uploads/tv_image/9x-jhakaas.png"
       },
@@ -868,7 +832,7 @@
         "slug": "9x-jalwa",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=440",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=440",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/9x-jalwa.png",
         "poster_url": "https://otapp.store/uploads/tv_image/9x-jalwa.png"
       },
@@ -880,7 +844,7 @@
         "slug": "music-india",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=250",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=250",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/music-india.png",
         "poster_url": "https://otapp.store/uploads/tv_image/music-india.png"
       },
@@ -892,7 +856,7 @@
         "slug": "b4u-music",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=183",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=183",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/b4u-music.png",
         "poster_url": "https://otapp.store/uploads/tv_image/b4u-music.png"
       }
@@ -911,7 +875,7 @@
         "slug": "investigation-discovery",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=527",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=527",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/investigation-discovery.png",
         "poster_url": "https://otapp.store/uploads/tv_image/investigation-discovery.png"
       },
@@ -923,7 +887,7 @@
         "slug": "zee-zest-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-348",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-348",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-zest-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-zest-hd.png"
       },
@@ -935,7 +899,7 @@
         "slug": "sony-bbc-earth-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009252",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=a6497ebbf14f&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-bbc-earth-hd.png"
       },
@@ -971,7 +935,7 @@
         "slug": "travelxp-hd-hindi",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=562",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=562",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png",
         "poster_url": "https://otapp.store/uploads/tv_image/travelxp-hd-hindi.png"
       },
@@ -995,7 +959,7 @@
         "slug": "discovery-channel-bengali",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=573",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=573",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png",
         "poster_url": "https://otapp.store/uploads/tv_image/discovery-channel-bengali.png"
       },
@@ -1007,7 +971,7 @@
         "slug": "discovery-science",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=568",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=568",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/discovery-science.png",
         "poster_url": "https://otapp.store/uploads/tv_image/discovery-science.png"
       },
@@ -1019,7 +983,7 @@
         "slug": "discovery-turbo",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=541",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=541",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/discovery-turbo.png",
         "poster_url": "https://otapp.store/uploads/tv_image/discovery-turbo.png"
       },
@@ -1031,7 +995,7 @@
         "slug": "animal-planet-hd-world",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=566",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=566",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/animal-planet-hd-world.png",
         "poster_url": "https://otapp.store/uploads/tv_image/animal-planet-hd-world.png"
       },
@@ -1043,7 +1007,7 @@
         "slug": "discovery",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=463",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=463",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/discovery.png",
         "poster_url": "https://otapp.store/uploads/tv_image/discovery.png"
       },
@@ -1055,7 +1019,7 @@
         "slug": "history-tv18-hd-hindi",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=578",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=578",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/history-tv18-hd-hindi.jpg",
         "poster_url": "https://otapp.store/uploads/tv_image/history-tv18-hd-hindi.jpg"
       }
@@ -1077,6 +1041,18 @@
         "stream_url": "https://uniflixbd.xyz/YuppTvPlus/live.m3u8?id=starplusau",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-plus.png",
         "poster_url": "https://otapp.store/uploads/tv_image/star-plus.png"
+      },
+      {
+        "live_tv_id": "123",
+        "tv_name": "Sony SAB",
+        "is_paid": "1",
+        "description": "",
+        "slug": "sony-sab-871l6w85240h",
+        "stream_from": "hls",
+        "stream_label": "HD",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=b7167fe646a4&e=.m3u8",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/sony-sab-hd.png"
       },
       {
         "live_tv_id": "110",
@@ -1110,7 +1086,7 @@
         "slug": "sun-bangla",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1669",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1669",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sun-bangla.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sun-bangla.png"
       },
@@ -1122,7 +1098,7 @@
         "slug": "sony-aath",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009255",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=7e00fee81848&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-aath.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-aath.png"
       },
@@ -1134,7 +1110,7 @@
         "slug": "colors-bangla",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://cflare.mooo.com/hls/colorsbangla.m3u8",
+        "stream_url": "https://ottbanglsg.b-cdn.net/color/video.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-bangla.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-bangla.png"
       },
@@ -1146,7 +1122,7 @@
         "slug": "zee-bangla-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeebangla",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeebangla",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-bangla-hd.png"
       },
@@ -1171,8 +1147,39 @@
         "stream_from": "hls",
         "stream_label": "HD",
         "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009248",
-        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",
-        "poster_url": "https://otapp.store/uploads/tv_image/sony-sab-hd.png"
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-sab.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/sony-sab.png"
+      }
+    ]
+  },
+  {
+    "live_tv_category_id": "5",
+    "title": "Event Channel ",
+    "description": "",
+    "channels": [
+      {
+        "live_tv_id": "224",
+        "tv_name": "BPL 2025",
+        "is_paid": "1",
+        "description": "",
+        "slug": "bpl-2025",
+        "stream_from": "hls",
+        "stream_label": "HD",
+        "stream_url": "https://news.otapp.store/ne257/stream.m3u8?id=2&e=.m3u8",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/bpl-2025.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/bpl-2025.png"
+      },
+      {
+        "live_tv_id": "192",
+        "tv_name": "Sky Sports Football",
+        "is_paid": "1",
+        "description": "",
+        "slug": "sky-sports-football",
+        "stream_from": "hls",
+        "stream_label": "HD",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d4-9a5f-4275-b780-8644deeb5697",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sky-sports-footbal.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/sky-sports-footbal.png"
       }
     ]
   },
@@ -1194,6 +1201,18 @@
         "poster_url": "https://otapp.store/uploads/tv_image/animax.png"
       },
       {
+        "live_tv_id": "213",
+        "tv_name": "Sony Yay Bangla",
+        "is_paid": "1",
+        "description": "",
+        "slug": "sony-yay-bangla",
+        "stream_from": "hls",
+        "stream_label": "HD",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=57bd9c2493c1&e=.m3u8",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/sony-yay-bangla.png"
+      },
+      {
         "live_tv_id": "194",
         "tv_name": "Gubbare TV",
         "is_paid": "1",
@@ -1213,7 +1232,7 @@
         "slug": "super-hungama-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://ottbanglsg.b-cdn.net/hungarama/index.m3u8",
+        "stream_url": "http://starshare.org:8080/live/Woods1234/Woods1234/18456.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/super-hungama-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/super-hungama-tv.png"
       },
@@ -1237,7 +1256,7 @@
         "slug": "duronto-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=duronto_tv",
+        "stream_url": "https://news.otapp.store/wp-image/stream.m3u8?id=duronto_tv",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/duronto-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/duronto-tv.png"
       },
@@ -1261,7 +1280,7 @@
         "slug": "sonic-bangla",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1345",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1345",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sonic-bangla.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sonic-bangla.png"
       },
@@ -1273,7 +1292,7 @@
         "slug": "nick-bangla",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1341",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1341",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/nick-bangla.png",
         "poster_url": "https://otapp.store/uploads/tv_image/nick-bangla.png"
       },
@@ -1285,7 +1304,7 @@
         "slug": "nick-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1226",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1226",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/nick-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/nick-hd.png"
       },
@@ -1309,7 +1328,7 @@
         "slug": "cartoon-network-hindi",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=816",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=816",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png",
         "poster_url": "https://otapp.store/uploads/tv_image/cartoon-network-hindi.png"
       },
@@ -1333,7 +1352,7 @@
         "slug": "pogo-hindi",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=559",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=559",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/pogo-hindi.png",
         "poster_url": "https://otapp.store/uploads/tv_image/pogo-hindi.png"
       },
@@ -1345,7 +1364,7 @@
         "slug": "chintu-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=555",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=555",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/chintu-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/chintu-tv.png"
       },
@@ -1357,7 +1376,7 @@
         "slug": "discovery-kids-2",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=554",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=554",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png",
         "poster_url": "https://otapp.store/uploads/tv_image/discovery-kids-2.png"
       },
@@ -1381,7 +1400,7 @@
         "slug": "nick-hindi",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=545",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=545",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/nick-hindi.png",
         "poster_url": "https://otapp.store/uploads/tv_image/nick-hindi.png"
       },
@@ -1393,7 +1412,7 @@
         "slug": "nick-junior",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=544",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=544",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/nick-junior.png",
         "poster_url": "https://otapp.store/uploads/tv_image/nick-junior.png"
       }
@@ -1484,7 +1503,7 @@
         "slug": "colors-bangla-cinema",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1657",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1657",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-bangla-cinema.png"
       },
@@ -1496,7 +1515,7 @@
         "slug": "zee-bangla-cinema",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeebanglacinema",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeebanglacinema",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-bangla-cinema.png"
       },
@@ -1539,7 +1558,7 @@
         "slug": "star-movies-select",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://cflare.mooo.com/hls/smovies.m3u8",
+        "stream_url": "https://pc.top10bhaluka.com/wp-image/stream.m3u8?id=STAR-MOVIE",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-movies-select.png",
         "poster_url": "https://otapp.store/uploads/tv_image/star-movies-select.png"
       },
@@ -1551,7 +1570,7 @@
         "slug": "star-gold",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://cflare.mooo.com/hls/stargold.m3u8",
+        "stream_url": "https://pc.top10bhaluka.com/wp-image/stream.m3u8?id=STAR-GOLD",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-gold.png",
         "poster_url": "https://otapp.store/uploads/tv_image/star-gold.png"
       },
@@ -1611,7 +1630,7 @@
         "slug": "goldmines-movies",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=151&e=.m3u8",
+        "stream_url": "https://ottbanglsg.b-cdn.net/goldmanmovi/video.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/goldmines-movies.png",
         "poster_url": "https://otapp.store/uploads/tv_image/goldmines-movies.png"
       },
@@ -1623,7 +1642,7 @@
         "slug": "goldmines-bollywood",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=150&e=.m3u8",
+        "stream_url": "https://ottbanglsg.b-cdn.net/goldbolly/video.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/goldmines-bollywood.png",
         "poster_url": "https://otapp.store/uploads/tv_image/goldmines-bollywood.png"
       },
@@ -1635,7 +1654,7 @@
         "slug": "goldmines",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=149&e=.m3u8",
+        "stream_url": "https://ottbanglsg.b-cdn.net/goldmain/video.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/goldmines.link",
         "poster_url": "https://otapp.store/uploads/tv_image/goldmines.png"
       },
@@ -1671,7 +1690,7 @@
         "slug": "sony-pix-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009258",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=ea02096b0fbc&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-pix-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-pix-hd.png"
       },
@@ -1683,7 +1702,7 @@
         "slug": "mtv-india",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1145",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1145",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/mtv-india.png",
         "poster_url": "https://otapp.store/uploads/tv_image/mtv-india.png"
       },
@@ -1707,7 +1726,7 @@
         "slug": "colors-cineplex-bollywood",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1763",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1763",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-bollywood.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-cineplex-bollywood.png"
       },
@@ -1719,7 +1738,7 @@
         "slug": "zee-classic",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-176",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-176",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-classic.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-classic.png"
       },
@@ -1731,7 +1750,7 @@
         "slug": "colors-cineplex-superhit",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1450",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1450",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-superhit.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-cineplex-superhit.png"
       },
@@ -1743,7 +1762,7 @@
         "slug": "and-prive-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-9z5543514",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-9z5543514",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/and-prive-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/and-prive-hd.png"
       },
@@ -1767,7 +1786,7 @@
         "slug": "b4u-kadak",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1295",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1295",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/b4u-kadak.png",
         "poster_url": "https://otapp.store/uploads/tv_image/b4u-kadak.png"
       },
@@ -1779,7 +1798,7 @@
         "slug": "oscar-movies",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=883",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=883",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/oscar-movies.png",
         "poster_url": "https://otapp.store/uploads/tv_image/oscar-movies.png"
       },
@@ -1791,7 +1810,7 @@
         "slug": "maha-movies",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=809",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=809",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/maha-movies.jpg",
         "poster_url": "https://otapp.store/uploads/tv_image/maha-movies.jpg"
       },
@@ -1803,7 +1822,7 @@
         "slug": "zee-action",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeeaction",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeeaction",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-action.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-action.png"
       },
@@ -1815,7 +1834,7 @@
         "slug": "zee-bollywood",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeeclassic",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeeclassic",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-bollywood.jpg"
       },
@@ -1827,7 +1846,7 @@
         "slug": "sony-max2",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000044878",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=420510be5c17&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-max2.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-max2.png"
       },
@@ -1839,7 +1858,7 @@
         "slug": "zee-anmol-cinema",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeeanmolcinema",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeeanmolcinema",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-anmol-cinema.png"
       },
@@ -1851,7 +1870,7 @@
         "slug": "and-pictures-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-tvpictureshd",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-tvpictureshd",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/and-pictures-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/and-pictures-hd.png"
       },
@@ -1863,7 +1882,7 @@
         "slug": "b4u-movies",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=182",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=182",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/b4u-movies.png",
         "poster_url": "https://otapp.store/uploads/tv_image/b4u-movies.png"
       },
@@ -1875,7 +1894,7 @@
         "slug": "zee-talkies",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeetalkies",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeetalkies",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-talkies.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-talkies.png"
       },
@@ -1887,7 +1906,7 @@
         "slug": "colors-cineplex-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=482",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=482",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-cineplex-hd.png"
       },
@@ -1899,7 +1918,7 @@
         "slug": "zee-cinema",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=zee_cinema_hd",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeecinemahd",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-cinema-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-cinema-hd.png"
       },
@@ -1911,7 +1930,7 @@
         "slug": "sony-max",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009249",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=6a65854166f1&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-max.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-max.png"
       },
@@ -1923,7 +1942,7 @@
         "slug": "shemaroo-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1961",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1961",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/shemaroo-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/shemaroo-tv.png"
       },
@@ -1947,7 +1966,7 @@
         "slug": "zee-cafe-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeecafehd",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeecafehd",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-cafe-hd.png"
       },
@@ -1959,7 +1978,7 @@
         "slug": "colors-infinity-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1158",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1158",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-infinity-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-infinity-hd.png"
       },
@@ -1971,7 +1990,7 @@
         "slug": "colors-super",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=785",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=785",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-super.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-super.png"
       },
@@ -1983,7 +2002,7 @@
         "slug": "enterr-10",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=485",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=485",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/enterr-10.png",
         "poster_url": "https://otapp.store/uploads/tv_image/enterr-10.png"
       },
@@ -1995,7 +2014,7 @@
         "slug": "zee-anmol",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeeanmol",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeeanmol",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-anmol.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-anmol.png"
       },
@@ -2007,7 +2026,7 @@
         "slug": "rishtey",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=279",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=279",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/rishtey.png",
         "poster_url": "https://otapp.store/uploads/tv_image/rishtey.png"
       },
@@ -2019,7 +2038,7 @@
         "slug": "zee-yuva",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-zeeyuva",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeeyuva",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-yuva.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-yuva.png"
       },
@@ -2031,7 +2050,7 @@
         "slug": "shemaroo-umang",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=2078",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=2078",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/shemaroo-umang.png",
         "poster_url": "https://otapp.store/uploads/tv_image/shemaroo-umang.png"
       },
@@ -2043,7 +2062,7 @@
         "slug": "and-tv-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/dead/stream.m3u8?id=0-9-tvhd_0",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-tvhd_0",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/and-tv-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/and-tv-hd.png"
       },
@@ -2055,7 +2074,7 @@
         "slug": "sony-hd-set-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009246",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=243771d9592c&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-hd-set-hd.png"
       },
@@ -2079,7 +2098,7 @@
         "slug": "colors-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/Magicbox/stream.m3u8?id=colors_hd",
+        "stream_url": "https://ottbanglsg.b-cdn.net/colorshf/video.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-hd.png"
       },
@@ -2091,7 +2110,7 @@
         "slug": "zee-tv-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=94&e=.m3u8",
+        "stream_url": "https://download.ottbangla.com/dfsd/Zee5_Plus/stream.m3u8?id=zee-zeetv",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/zee-tv-hd.png"
       }
@@ -2110,7 +2129,7 @@
         "slug": "t-sports-2",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/tp14/stream.m3u8?id=2&e=.m3u8",
+        "stream_url": "https://news.otapp.store/ne257/stream.m3u8?id=2&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
         "poster_url": "https://otapp.store/uploads/tv_image/t-sports-2.png"
       },
@@ -2122,7 +2141,7 @@
         "slug": "t-sports-1",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/tp14/stream.m3u8?id=1&e=.m3u8",
+        "stream_url": "https://news.otapp.store/ne257/stream.m3u8?id=1&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/t-sports-1.png",
         "poster_url": "https://otapp.store/uploads/tv_image/t-sports-1.png"
       },
@@ -2134,33 +2153,69 @@
         "slug": "willow-cricket",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=111&e=.m3u8",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d8-cd36-459d-890a-ec945cb157b4",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/willow-cricket.png",
         "poster_url": "https://otapp.store/uploads/tv_image/willow-cricket.png"
       },
       {
-        "live_tv_id": "207",
-        "tv_name": "Ten Sports",
+        "live_tv_id": "205",
+        "tv_name": "Supersport Football",
         "is_paid": "1",
         "description": "",
-        "slug": "ten-sports",
+        "slug": "supersport-football",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://176.119.29.61/live/00:1A:79:AB:E0:58/9396/132255.m3u8",
-        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/ten-sports.png",
-        "poster_url": "https://otapp.store/uploads/tv_image/ten-sports.png"
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d8-3346-4e73-9cfb-cb4b3eaca30b",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/supersport-football.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/supersport-football.png"
+      },
+      {
+        "live_tv_id": "204",
+        "tv_name": "SuperSport Cricket",
+        "is_paid": "1",
+        "description": "",
+        "slug": "supersport-cricket",
+        "stream_from": "hls",
+        "stream_label": "HD",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d8-2de7-4eee-b449-d64e7e1bdd64",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/supersport-cricket.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/supersport-cricket.png"
+      },
+      {
+        "live_tv_id": "200",
+        "tv_name": "DAZN LaLiga",
+        "is_paid": "1",
+        "description": "",
+        "slug": "dazn-laliga",
+        "stream_from": "hls",
+        "stream_label": "HD",
+        "stream_url": "https://crichd.iptvbd.xyz/m3u8.php/laligauk.m3u8",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/dazn-laliga.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/dazn-laliga.png"
       },
       {
         "live_tv_id": "199",
-        "tv_name": "DAZN 1 Bar DE",
+        "tv_name": "DAZN",
         "is_paid": "1",
         "description": "",
-        "slug": "dazn-1-bar-de",
+        "slug": "dazn",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://176.119.29.61/live/00:1A:79:AB:E0:58/9396/125592.m3u8",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d7-909b-4dde-b549-856dd0e82d38",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/dazn-1-bar-de.png",
         "poster_url": "https://otapp.store/uploads/tv_image/dazn-1-bar-de.png"
+      },
+      {
+        "live_tv_id": "197",
+        "tv_name": "beIN Sports MENA 2",
+        "is_paid": "1",
+        "description": "",
+        "slug": "bein-sports-mena-2",
+        "stream_from": "hls",
+        "stream_label": "HD",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d7-e130-4688-ae37-4b1ae694f264",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/bein-sports-mena-2.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/bein-sports-mena-2.png"
       },
       {
         "live_tv_id": "196",
@@ -2170,7 +2225,7 @@
         "slug": "bein-sports-mena-1",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://176.119.29.61/live/00:1A:79:AB:E0:58/9396/102481.m3u8",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d6-82f0-4c70-83dd-210d99aeee51",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/bein-sports-mena-1.png",
         "poster_url": "https://otapp.store/uploads/tv_image/bein-sports-mena-1.png"
       },
@@ -2187,18 +2242,6 @@
         "poster_url": "https://otapp.store/uploads/tv_image/astro-cricket.png"
       },
       {
-        "live_tv_id": "100",
-        "tv_name": "Bein Sports",
-        "is_paid": "1",
-        "description": "",
-        "slug": "bein-sports",
-        "stream_from": "hls",
-        "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=106&e=.m3u8",
-        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/bein-sports.png",
-        "poster_url": "https://otapp.store/uploads/tv_image/bein-sports.png"
-      },
-      {
         "live_tv_id": "99",
         "tv_name": "A Sports",
         "is_paid": "1",
@@ -2206,7 +2249,7 @@
         "slug": "a-sports",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8",
+        "stream_url": "https://crichd.iptvbd.xyz/m3u8.php/asportshd.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/a-sports.png",
         "poster_url": "https://otapp.store/uploads/tv_image/a-sports.png"
       },
@@ -2218,7 +2261,7 @@
         "slug": "sky-sports",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://bajimath.com/apps/master.m3u8?id=SkySports",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d5-d1be-4da0-8328-400c51db0855",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sky-sports.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sky-sports.png"
       },
@@ -2254,7 +2297,7 @@
         "slug": "eurosport",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=875",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=875",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/eurosport.png",
         "poster_url": "https://otapp.store/uploads/tv_image/eurosport.png"
       },
@@ -2290,7 +2333,7 @@
         "slug": "tnt-sport-2",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=114&e=.m3u8",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d2-dce8-4819-a4aa-efe4dfbef7ff",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/tnt-sport-2.png",
         "poster_url": "https://otapp.store/uploads/tv_image/tnt-sport-2.png"
       },
@@ -2302,7 +2345,7 @@
         "slug": "tnt-sport-1",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=113&e=.m3u8",
+        "stream_url": "https://newhub247.store/sais/live.m3u8?id=9ab7e7d2-a517-4162-92de-ddeb433bb0da",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/tnt-sport-1.png",
         "poster_url": "https://otapp.store/uploads/tv_image/tnt-sport-1.png"
       },
@@ -2326,7 +2369,7 @@
         "slug": "ptv-sports",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/.well-known/kajol/stream.m3u8?id=47&e=.m3u8",
+        "stream_url": "https://crichd.iptvbd.xyz/m3u8.php/ptvpk.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/ptv-sports.png",
         "poster_url": "https://otapp.store/uploads/tv_image/ptv-sports.png"
       },
@@ -2338,7 +2381,7 @@
         "slug": "sony-sports-ten-5",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009275",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=fd6de8bd1666&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-sports-ten-5.png"
       },
@@ -2362,7 +2405,7 @@
         "slug": "sony-sports-ten-2",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009279",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=abc6677968ef&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-2.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-sports-ten-2.png"
       },
@@ -2374,7 +2417,7 @@
         "slug": "sony-sports-ten-1",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/themes/astrap/master.m3u8?id=1000009276",
+        "stream_url": "https://news.otapp.store/wpf/live.php?id=43dcec1011e7&e=.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link",
         "poster_url": "https://otapp.store/uploads/tv_image/sony-sports-ten-1.png"
       },
@@ -2386,7 +2429,7 @@
         "slug": "sports18-3",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=2853",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=2853",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sports18-3.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sports18-3.png"
       },
@@ -2398,7 +2441,7 @@
         "slug": "sports18-2",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=2852",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=2852",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sports18-2.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sports18-2.png"
       },
@@ -2410,9 +2453,21 @@
         "slug": "sports-18",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://newhub247.store/av257/live.m3u8?id=1984",
+        "stream_url": "https://news.otapp.store/hdtc/live.m3u8?id=1984",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/sports-18.png",
         "poster_url": "https://otapp.store/uploads/tv_image/sports-18.png"
+      },
+      {
+        "live_tv_id": "81",
+        "tv_name": "Star Sports 2 HD",
+        "is_paid": "1",
+        "description": "",
+        "slug": "star-sports-2-hd",
+        "stream_from": "hls",
+        "stream_label": "HD",
+        "stream_url": "https://pc.top10bhaluka.com/wp-image/stream.m3u8?id=STAR-SPORTS-2",
+        "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-sports-2-hd.png",
+        "poster_url": "https://otapp.store/uploads/tv_image/star-sports-2-hd.png"
       },
       {
         "live_tv_id": "80",
@@ -2422,7 +2477,7 @@
         "slug": "star-sports-1-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=44&e=.m3u8",
+        "stream_url": "https://crichd.iptvbd.xyz/m3u8.php/star1in.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-sports-1-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/star-sports-1-hd.png"
       },
@@ -2434,7 +2489,7 @@
         "slug": "star-sport-select-2",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=49&e=.m3u8",
+        "stream_url": "https://pc.top10bhaluka.com/wp-image/stream.m3u8?id=SPL-2",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png",
         "poster_url": "https://otapp.store/uploads/tv_image/star-sport-select-2.png"
       },
@@ -2446,7 +2501,7 @@
         "slug": "star-sport-select-1",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=48&e=.m3u8",
+        "stream_url": "https://pc.top10bhaluka.com/wp-image/stream.m3u8?id=SPL-1",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png",
         "poster_url": "https://otapp.store/uploads/tv_image/star-sport-select-1.png"
       }
