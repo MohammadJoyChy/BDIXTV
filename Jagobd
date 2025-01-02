@@ -1,0 +1,2278 @@
+[
+  {
+    "cat_name": "News 24/7",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/04_xUWrsmF.png",
+    "livetvs": [
+      {
+        "id": 253,
+        "is_active_ads": false,
+        "channel_name": "News 24  TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_1.jpeg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/maxresdefault.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 278,
+        "is_active_ads": false,
+        "channel_name": "Desh TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_2.jpeg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_ghkOorl.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 263,
+        "is_active_ads": false,
+        "channel_name": "Jagonews 24 TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/jAGONEWS.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_HwGLErg.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 251,
+        "is_active_ads": false,
+        "channel_name": "Independent  TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_5.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_DPJMfsk.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD,PK"
+      },
+      {
+        "id": 334,
+        "is_active_ads": false,
+        "channel_name": "Ekhon TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-t3v3rj1693812964839_oVRbPzq.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_jdvX2C8.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 250,
+        "is_active_ads": false,
+        "channel_name": "Jamuna TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8",
+        "stream_url_2": "https://tv.nbox.live:444/tvapp/nk-jamuna/playlist.m3u8",
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1662487622-mdshamimislam.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_YG51MsR.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 254,
+        "is_active_ads": false,
+        "channel_name": "Atn News",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ATN_news.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/images.jpeg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 464,
+        "is_active_ads": false,
+        "channel_name": "Ekattor TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ekattor_WUdMZon.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 270,
+        "is_active_ads": false,
+        "channel_name": "BTV News",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/btv_news_.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/images_6.jpeg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 479,
+        "is_active_ads": false,
+        "channel_name": "Btv Chittagong",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/3WUFkD8.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 481,
+        "is_active_ads": false,
+        "channel_name": "BTV National",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/btv-national-bd.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 480,
+        "is_active_ads": false,
+        "channel_name": "Songsad TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/songsodtv.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 252,
+        "is_active_ads": false,
+        "channel_name": "DBC News",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8",
+        "stream_url_2": "http://tvs.nbox.live:1932/tvapp/nk-somoy/playlist.m3u8",
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/DBC_News_Logo.svg__1_-removebg-preview.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_KZRcdRG.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 320,
+        "is_active_ads": false,
+        "channel_name": "Channel 24",
+        "stream_url": "https://ch24play.ncare.io/live/channel24.926f3953.m3u8?t=b738cb0516564076a627a7beffadc188",
+        "stream_url_2": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8",
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-d4dwye1603623881083.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/download.jpeg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 249,
+        "is_active_ads": false,
+        "channel_name": "Somoy",
+        "stream_url": "https://ch24play.ncare.io/live/somynews.0d2d7aab.m3u8?t=c7a3dd9081ba465fba4629d7a797d1bb",
+        "stream_url_2": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8",
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/somoy-tv.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_jzkz7ei.png",
+        "weblink": "https://ch24play.ncare.io/live/somynews.0d2d7aab.m3u8?t=c7a3dd9081ba465fba4629d7a797d1bb",
+        "restricted": "BD"
+      }
+    ]
+  },
+  {
+    "cat_name": "News & Drama",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/05_fPNYpKN.png",
+    "livetvs": [
+      {
+        "id": 265,
+        "is_active_ads": false,
+        "channel_name": "RTV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/r-tv-logo-40D288E794-seeklogo.com.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_loDNzVp.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 275,
+        "is_active_ads": false,
+        "channel_name": "Channel 9",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Channel_9.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/images_3.jpeg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 272,
+        "is_active_ads": false,
+        "channel_name": "ATN Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/download_QwN9T5Q.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_mfbomGn.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 267,
+        "is_active_ads": false,
+        "channel_name": "Banglavision",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_1.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_xrMM7hN.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 276,
+        "is_active_ads": false,
+        "channel_name": "Mohona TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Mohona_TV.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_e2QHS5h.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 266,
+        "is_active_ads": false,
+        "channel_name": "MY TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_CuUCHSk.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_3rraR9Q.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 274,
+        "is_active_ads": false,
+        "channel_name": "Ananda TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/anondo-tv-logo-B99389891D-seeklogo.com.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_6qbfvtA.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 317,
+        "is_active_ads": false,
+        "channel_name": "Boishakhi TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/s-kig7pd1652458810396.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_AqVoW3y.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 277,
+        "is_active_ads": false,
+        "channel_name": "SA TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/SA_TV.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_WeFlxS6.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 318,
+        "is_active_ads": false,
+        "channel_name": "ATN Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/s-q7pxci1652460466514.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_IwdOjgI.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 381,
+        "is_active_ads": false,
+        "channel_name": "Channel S BD",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/100006257950x50.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 273,
+        "is_active_ads": false,
+        "channel_name": "Bangla TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/BAngla_TV.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/360_F_132721172_ffDEXAtY1i9XUg1l92Zev6ZBwsNjz6xV.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 268,
+        "is_active_ads": false,
+        "channel_name": "Bijoy TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Bijoy_TV.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_t9oLFQZ.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 271,
+        "is_active_ads": false,
+        "channel_name": "Asian TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Asian_tv.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_bmT4BJ0.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 467,
+        "is_active_ads": false,
+        "channel_name": "Ten Prime",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Ten-Prime.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 264,
+        "is_active_ads": false,
+        "channel_name": "Channel I",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/channel-i-logo-F9F1100F83-seeklogo.com.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_rQhMtMQ.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 387,
+        "is_active_ads": false,
+        "channel_name": "Ekusheys TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ekusheys.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 477,
+        "is_active_ads": false,
+        "channel_name": "Global TV Bangladesh",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/globaltv.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 489,
+        "is_active_ads": false,
+        "channel_name": "GTV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/gtv.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 493,
+        "is_active_ads": false,
+        "channel_name": "PBN",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/pbn.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 494,
+        "is_active_ads": false,
+        "channel_name": "Cumilla 24 TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cumilla24bd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/WhatsApp_Image_2024-12-10_at_22.21.42_2377e791.jpg",
+        "strabgimagegenartor": null,
+        "weblink": null,
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "IPTV",
+    "cat_slug": "gioss",
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/Sheikh_Mujibur_Rahman_in_1950.jpg",
+    "livetvs": [
+      {
+        "id": 297,
+        "is_active_ads": false,
+        "channel_name": "Flix SRk TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/flixsrktv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/player-FlixSrk.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_nLZKKKf.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 386,
+        "is_active_ads": false,
+        "channel_name": "Times 24",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/time_nipun.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 296,
+        "is_active_ads": false,
+        "channel_name": "Rajdhani TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/50x50.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_EN78lHk.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 436,
+        "is_active_ads": false,
+        "channel_name": "Varendra TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/varendro-tv.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 457,
+        "is_active_ads": false,
+        "channel_name": "Rupashi Bangla TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/WhatsApp_Image_2024-06-08_at_20.04.59_322d1f96.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 319,
+        "is_active_ads": false,
+        "channel_name": "Jagoroni TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-7gfvcp1702738568675.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 291,
+        "is_active_ads": false,
+        "channel_name": "NAN TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/download_7.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_0K99fWO.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 405,
+        "is_active_ads": false,
+        "channel_name": "Movie Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Movie_Bangla.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 483,
+        "is_active_ads": false,
+        "channel_name": "SAMI TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/smtvbd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/sami_tv.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 484,
+        "is_active_ads": false,
+        "channel_name": "NEWS 21 BANGLA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/news21.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 490,
+        "is_active_ads": false,
+        "channel_name": "Shadin Bangla TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Shadin_bangla.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 491,
+        "is_active_ads": false,
+        "channel_name": "Parboto",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/parbototv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Parbotto_Protidin.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "Sports",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/05_DixgNW7.png",
+    "livetvs": [
+      {
+        "id": 466,
+        "is_active_ads": false,
+        "channel_name": "Sports (Tennis)",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/sportv-logo-1-1.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 379,
+        "is_active_ads": false,
+        "channel_name": "Outside TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/outside-tv-logo-vector.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 303,
+        "is_active_ads": false,
+        "channel_name": "Trace  Sports",
+        "stream_url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1200px-TraceSSLogo.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_tqUlzXG.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 302,
+        "is_active_ads": false,
+        "channel_name": "CY Dubai",
+        "stream_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_sxZZhHo.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_EcfyA66.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 361,
+        "is_active_ads": false,
+        "channel_name": "Moto Racing",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_1_ywqjL0v.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 377,
+        "is_active_ads": false,
+        "channel_name": "kIK Sport",
+        "stream_url": "https://kiksports.in/kiksports/index.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000059614.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/1000059614.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 438,
+        "is_active_ads": false,
+        "channel_name": "Sports  Connect",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ae0acd1602880.5600f27c8868d.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 360,
+        "is_active_ads": false,
+        "channel_name": "Court Sports  Network",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/7c96e8a8-9be8-487f-9509-cb2fa31f35d4/1.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/sport-court-vector-logo.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "Entertainment",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/05_lqGtuXd.png",
+    "livetvs": [
+      {
+        "id": 307,
+        "is_active_ads": false,
+        "channel_name": "GEO TV",
+        "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1f3b7166d37cd3e2acb47986ebd8f7d1_icon.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 313,
+        "is_active_ads": false,
+        "channel_name": "NobannO  TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cmtv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/nobanno-tv.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/coucher-de-soleil-nuages-rouges.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 354,
+        "is_active_ads": false,
+        "channel_name": "Express",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/expresspk.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/channels4_profile_1.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 404,
+        "is_active_ads": false,
+        "channel_name": "Bangla 21 TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Bangla21-tv-Logo-2.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 400,
+        "is_active_ads": false,
+        "channel_name": "HUM",
+        "stream_url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images-850x50.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 410,
+        "is_active_ads": false,
+        "channel_name": "Global Fashion Channel (GFC)",
+        "stream_url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_5_SsARuGV.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 421,
+        "is_active_ads": false,
+        "channel_name": "MOVIES ACTION",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/b21a658d-ed2c-41e1-bc39-d5178f761e24/3.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/poster_Action.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 446,
+        "is_active_ads": false,
+        "channel_name": "Hollywood Desi",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bo1.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/test_pic1710252142411.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 448,
+        "is_active_ads": false,
+        "channel_name": "Bollywood Movie",
+        "stream_url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Bollywood_logo.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 312,
+        "is_active_ads": false,
+        "channel_name": "Channel Europe",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/unnamed_7pXGlSd.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 443,
+        "is_active_ads": false,
+        "channel_name": "The  Movie Club",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bo2.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Screenshot_3.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 305,
+        "is_active_ads": false,
+        "channel_name": "B24C",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/download_5.jpeg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_jJwT3kY.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 408,
+        "is_active_ads": false,
+        "channel_name": "Lotus Macau",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/lotusmacautv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/macau_lotus_tv_mo_eKbv6l5.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 450,
+        "is_active_ads": false,
+        "channel_name": "Masala  Entertainment  Plus",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/masala-entertainment-plus/master.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/310975262_187563923806869_1080137356197629267_n.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 471,
+        "is_active_ads": false,
+        "channel_name": "Aur Life",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aurtvpk.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Aur-life-Logo-png.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 468,
+        "is_active_ads": false,
+        "channel_name": "Channel A1",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Channel_a1_logo_ai_new_1.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 476,
+        "is_active_ads": false,
+        "channel_name": "Matri Bhumi TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/matribhumi.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 475,
+        "is_active_ads": false,
+        "channel_name": "Sananda TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/sananda.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 473,
+        "is_active_ads": false,
+        "channel_name": "DIM",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dimtv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/dim.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 486,
+        "is_active_ads": false,
+        "channel_name": "TARA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tara.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/tara-bangla-cinema.png",
+        "strabgimagegenartor": null,
+        "weblink": null,
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "Music",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/04_UDkEztH.png",
+    "livetvs": [
+      {
+        "id": 402,
+        "is_active_ads": false,
+        "channel_name": "BritAsia TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/ad785215-9b76-421c-b7c9-ec8c7670ceff/0.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/BritAsia_TV.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 329,
+        "is_active_ads": false,
+        "channel_name": "V2BEAT TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/v2beattv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-xcn3o1652771899888_gv1FMGG.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 293,
+        "is_active_ads": false,
+        "channel_name": "Trace  Urban",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/traceurban.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_3hkJdnZ.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 347,
+        "is_active_ads": false,
+        "channel_name": "Joo Music",
+        "stream_url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/unnamed.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 356,
+        "is_active_ads": false,
+        "channel_name": "GaanBangla TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-0d4z581652459073341_BcbH1Ey.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 357,
+        "is_active_ads": false,
+        "channel_name": "ATN Music",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-c6jtv81652599210003.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 306,
+        "is_active_ads": false,
+        "channel_name": "9xm",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/9xmin.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/9xm-logo-6F5824A54F-seeklogo.com.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_qbffkWh.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 350,
+        "is_active_ads": false,
+        "channel_name": "Balle Balle TV",
+        "stream_url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/unnamed.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 382,
+        "is_active_ads": false,
+        "channel_name": "Saga Music HD",
+        "stream_url": "https://cdn2.pishow.tv/live/141/141_1.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_3_0sv1L5c.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 407,
+        "is_active_ads": false,
+        "channel_name": "Mastiii",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mastiiiin.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/mastiii.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 401,
+        "is_active_ads": false,
+        "channel_name": "91NRG",
+        "stream_url": "https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w282239334.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/originalNRG.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 413,
+        "is_active_ads": false,
+        "channel_name": "9X Jalwa",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/9xjalwain.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/9xmj.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 427,
+        "is_active_ads": false,
+        "channel_name": "Music India",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicindiain.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000062343.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 445,
+        "is_active_ads": false,
+        "channel_name": "Zoom",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/unnamed_l6I6vQN.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 414,
+        "is_active_ads": false,
+        "channel_name": "RTV Music",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtvmusic.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_2ytEooL.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 442,
+        "is_active_ads": false,
+        "channel_name": "E24",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/e24in.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/e24.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 428,
+        "is_active_ads": false,
+        "channel_name": "BEATS",
+        "stream_url": "https://stream.microwavesoft.com/music_hd720/index.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/imagesmm.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 432,
+        "is_active_ads": false,
+        "channel_name": "Bruno TV",
+        "stream_url": "https://stream1.xdevel.com/video0s975758-1047/stream/chunks.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/bruno.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 327,
+        "is_active_ads": false,
+        "channel_name": "Colosal TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-nbvyxr1652514467440.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 424,
+        "is_active_ads": false,
+        "channel_name": "ShowBox",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/showboxin.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000062338.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 485,
+        "is_active_ads": false,
+        "channel_name": "8XM",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/8xmpk.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/8xm.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 496,
+        "is_active_ads": false,
+        "channel_name": "Music Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/WhatsApp_Image_2024-12-07_at_15.34.52_625aa65a.jpg",
+        "strabgimagegenartor": null,
+        "weblink": null,
+        "restricted": ""
+      },
+      {
+        "id": 498,
+        "is_active_ads": false,
+        "channel_name": "Music Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/musicbangla.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "Documentary & Education",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/05_K9MUJJD.png",
+    "livetvs": [
+      {
+        "id": 284,
+        "is_active_ads": false,
+        "channel_name": "Tropoja TV",
+        "stream_url": "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/youtube.jpeg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_fV3ypct.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 311,
+        "is_active_ads": false,
+        "channel_name": "Nexus TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/nexus-tv_iLOxmte.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 308,
+        "is_active_ads": false,
+        "channel_name": "Discover Pakistan",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Discover_pakistan.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 298,
+        "is_active_ads": false,
+        "channel_name": "CGTN Documentary",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/CGTN_Documentary_logo.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_ygoiqu9.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 280,
+        "is_active_ads": false,
+        "channel_name": "RT Documentary",
+        "stream_url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/RT_Doc.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_oY0eXeK.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 380,
+        "is_active_ads": false,
+        "channel_name": "Everyday  Heros",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_2.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 315,
+        "is_active_ads": false,
+        "channel_name": "Open TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boulive.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/s-a5nshd1603371786323.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/27326619589.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 368,
+        "is_active_ads": false,
+        "channel_name": "Wild Earth",
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/wildearth8729.webp",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 472,
+        "is_active_ads": false,
+        "channel_name": "Xlpore",
+        "stream_url": "https://cdn09jtedge.indihometv.com/joss/194/lovenature/chunklist_w577209561_b2544100_sleng.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Screenshot_8.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 369,
+        "is_active_ads": false,
+        "channel_name": "Real Wild",
+        "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/unnamed_B8UJu8h.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 367,
+        "is_active_ads": false,
+        "channel_name": "Military Times",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_6.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 474,
+        "is_active_ads": false,
+        "channel_name": "VOA 52 Documentary",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voadoc.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/52doc.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 488,
+        "is_active_ads": false,
+        "channel_name": "ESA TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/esatv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ESA_Patch_2022.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "Cartton",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/05_FwQjCWU.png",
+    "livetvs": [
+      {
+        "id": 299,
+        "is_active_ads": false,
+        "channel_name": "Kids TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rongeentv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/kids_logo.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/kids_logo.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 309,
+        "is_active_ads": false,
+        "channel_name": "POP MAX",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/duronto.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/pop-max.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/sunset-3331503_640.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 301,
+        "is_active_ads": false,
+        "channel_name": "CON TV",
+        "stream_url": "https://kidoodletv-kdtv-1-us.samsung.wurl.tv/1200.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/png-clipart-san-diego-comic-con-contv-television-show-film-live-streaming-_GLJiue4.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_AGpD8P2.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 378,
+        "is_active_ads": false,
+        "channel_name": "KIDS TV  India",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/EqYRJBm2AMUBZqbxh4W.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 374,
+        "is_active_ads": false,
+        "channel_name": "Toonz Kids",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/toon-logo.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 415,
+        "is_active_ads": false,
+        "channel_name": "zoo moo",
+        "stream_url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/zoo_moo.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 425,
+        "is_active_ads": false,
+        "channel_name": "PBS Kids",
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/chunklist_b2000000.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000062340.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 447,
+        "is_active_ads": false,
+        "channel_name": "Tiny Pop",
+        "stream_url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Tiny_Pop.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 423,
+        "is_active_ads": false,
+        "channel_name": "kids Creation",
+        "stream_url": "https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000062336.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "Kolkata",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/download.png",
+    "livetvs": [
+      {
+        "id": 260,
+        "is_active_ads": false,
+        "channel_name": "Express News",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/expressnews.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/eXPRESS.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/bgtest2_MxZOXVZ.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 345,
+        "is_active_ads": false,
+        "channel_name": "Amar Digital",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/amard.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 346,
+        "is_active_ads": false,
+        "channel_name": "Mon TV Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/mon.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 344,
+        "is_active_ads": false,
+        "channel_name": "Amar Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Screenshot_1.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 279,
+        "is_active_ads": false,
+        "channel_name": "Network 10",
+        "stream_url": "https://network10.livebox.co.in/network10hls/live.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_2_5TTfjsj.jpeg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/images_4.jpeg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 351,
+        "is_active_ads": false,
+        "channel_name": "Samay Kolkata",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Samay_Kolkata.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 463,
+        "is_active_ads": false,
+        "channel_name": "Zodiak TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000070512.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 422,
+        "is_active_ads": false,
+        "channel_name": "Bangla+ HD",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglaplushd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000062334.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 453,
+        "is_active_ads": false,
+        "channel_name": "Zillar Barta",
+        "stream_url": "https://live-stream.utkalbongo.com/utkalbongo/stream18/hls/zillarbartalive.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Zillar_Barta.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 451,
+        "is_active_ads": false,
+        "channel_name": "CTVN AKD Plus",
+        "stream_url": "https://akdnetwork.co.in/live/ctvn/index.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/CTVN_AKD_Plus.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 433,
+        "is_active_ads": false,
+        "channel_name": "High News",
+        "stream_url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/high.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 371,
+        "is_active_ads": false,
+        "channel_name": "Onkar Bangla",
+        "stream_url": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/chunklist_w1855751334.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/onkarbangla.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 455,
+        "is_active_ads": false,
+        "channel_name": "ANANDA BARTA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ANANDABARTA.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 426,
+        "is_active_ads": false,
+        "channel_name": "Sangeet Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sbin.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000062342.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 459,
+        "is_active_ads": false,
+        "channel_name": "Home TV Movie",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/hometv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000067001.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 497,
+        "is_active_ads": false,
+        "channel_name": "Tara TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/taratvinn.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/taratv.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "RELIGIOUS",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/05_ahImFwd.png",
+    "livetvs": [
+      {
+        "id": 326,
+        "is_active_ads": false,
+        "channel_name": "Makkah TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-ezoe2uh1617900360343.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 324,
+        "is_active_ads": false,
+        "channel_name": "ATN Isamic TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-b2xtt1652461379867.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 330,
+        "is_active_ads": false,
+        "channel_name": "DEEN TV UK",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-to9ed51621434298753.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 325,
+        "is_active_ads": false,
+        "channel_name": "Medina Live",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-mapuh1652600344370.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 355,
+        "is_active_ads": false,
+        "channel_name": "Makkah Live",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/makkah_2-01_szhAYSd.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 411,
+        "is_active_ads": false,
+        "channel_name": "Peace TV Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Peace.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 403,
+        "is_active_ads": false,
+        "channel_name": "Salaam Channel",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtvuk1.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/salam_.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 394,
+        "is_active_ads": false,
+        "channel_name": "Islam Channel",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchannel.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/download_ifVnHg2.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 395,
+        "is_active_ads": false,
+        "channel_name": "Islam Ch Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_B6LNJDz.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 396,
+        "is_active_ads": false,
+        "channel_name": "Iqraa",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqraa.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/iqraa.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 388,
+        "is_active_ads": false,
+        "channel_name": "Madani Ch Bangla",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madanitvbangla.stream1/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/b-logo.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 454,
+        "is_active_ads": false,
+        "channel_name": "EMAN Channel",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/eman.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/emanchannel.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 331,
+        "is_active_ads": false,
+        "channel_name": "Islam TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-lwpa421627153663359_1.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 399,
+        "is_active_ads": false,
+        "channel_name": "Iqra TV UK",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqratvuk.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Iqra_TV_.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 397,
+        "is_active_ads": false,
+        "channel_name": "itv usa",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/itvusa.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/logo-1.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 487,
+        "is_active_ads": false,
+        "channel_name": "Azan TV Canada",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/azantvs.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "Food, Travel & more",
+    "cat_slug": "swsewd",
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/Slider_2.png",
+    "livetvs": [
+      {
+        "id": 366,
+        "is_active_ads": false,
+        "channel_name": "Wedding TV( Love Stories)",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wedding-tv-by-love-stories-tv/master.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ae3d02b86aeaefc248201f03f8dc500f.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 364,
+        "is_active_ads": false,
+        "channel_name": "Cook & Bake",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cook-and-bake/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/pngtree-cooking-logo-png-image_6089722.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 370,
+        "is_active_ads": false,
+        "channel_name": "AXS TV NOW(Comedy)",
+        "stream_url": "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1080.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 365,
+        "is_active_ads": false,
+        "channel_name": "Gusto TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_1_dxP9x3B.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 363,
+        "is_active_ads": false,
+        "channel_name": "Craftsy TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_3.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 359,
+        "is_active_ads": false,
+        "channel_name": "Travel XP",
+        "stream_url": "https://travelxp-travelxp-3-nl.samsung.wurl.tv/1200.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_1_t1IwUVh.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 406,
+        "is_active_ads": false,
+        "channel_name": "Life Minute TV",
+        "stream_url": "https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/lifeminute.tv.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 362,
+        "is_active_ads": false,
+        "channel_name": "Always Funny TV",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_4_4RRKUV7.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      }
+    ]
+  },
+  {
+    "cat_name": "International News",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/04.png",
+    "livetvs": [
+      {
+        "id": 258,
+        "is_active_ads": false,
+        "channel_name": "DW",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/dw.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_q0ypq96.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 255,
+        "is_active_ads": false,
+        "channel_name": "France 24",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/france_24.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_tRqwH4O.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 262,
+        "is_active_ads": false,
+        "channel_name": "VOA TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/britains-news-tv.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_IM7NLBt.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 465,
+        "is_active_ads": false,
+        "channel_name": "News  Nation",
+        "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/nnnational.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/news_nation.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 256,
+        "is_active_ads": false,
+        "channel_name": "AL JAZEERA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aljazeera.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Al_-jazzerra.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_KprmrBu.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 257,
+        "is_active_ads": false,
+        "channel_name": "CGTN INT",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/cgtn.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_wsT4xJc.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 304,
+        "is_active_ads": false,
+        "channel_name": "TRT World",
+        "stream_url": "https://tv-trtworld.medya.trt.com.tr/master_480.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/trt-world_mCWUT4E.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/5bd944c271e002aec4460d9fcf3f20b2.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 300,
+        "is_active_ads": false,
+        "channel_name": "CNN INT",
+        "stream_url": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/channels4_profile_VWbKyrr.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 348,
+        "is_active_ads": false,
+        "channel_name": "Dunya News",
+        "stream_url": "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Dunya_News.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 339,
+        "is_active_ads": false,
+        "channel_name": "9 News",
+        "stream_url": "https://video.tegnaone.com/kusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA-Production/live/index.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_Jezk4Lw.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 333,
+        "is_active_ads": false,
+        "channel_name": "RT",
+        "stream_url": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/images_HPJpDa4.jpeg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/a757c1c5c5bbb426806fee787dcc887b.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 372,
+        "is_active_ads": false,
+        "channel_name": "FREEDOM",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/uatv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ua-1.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 342,
+        "is_active_ads": false,
+        "channel_name": "VOA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-yyhx1606286845670.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/frame_CFWJalo.png",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 384,
+        "is_active_ads": false,
+        "channel_name": "Press TV",
+        "stream_url": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/X3YP2Gg_1.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 420,
+        "is_active_ads": false,
+        "channel_name": "NHK WORLD",
+        "stream_url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/5-Umq3Kb_400x400.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 417,
+        "is_active_ads": false,
+        "channel_name": "Euro News",
+        "stream_url": "https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000061985.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 419,
+        "is_active_ads": false,
+        "channel_name": "Africa News",
+        "stream_url": "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/Africanews._alternative_logo_2016.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 499,
+        "is_active_ads": false,
+        "channel_name": "CSB NEWS USA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/csbnewsbd.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/49251.jpeg",
+        "strabgimagegenartor": null,
+        "weblink": null,
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "USA & CANADA",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/download.jpeg",
+    "livetvs": [
+      {
+        "id": 338,
+        "is_active_ads": false,
+        "channel_name": "The Channel TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-xrtauk1698230828296.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/HD-wallpaper-colourful-nature-cool-view-nature-best.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 336,
+        "is_active_ads": false,
+        "channel_name": "Biswa Bangla TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-o7kdr1709989461068.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/125560.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 349,
+        "is_active_ads": false,
+        "channel_name": "Time TV USA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ttv-logo.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 352,
+        "is_active_ads": false,
+        "channel_name": "IBTV USA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/logo.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 358,
+        "is_active_ads": false,
+        "channel_name": "Jonmobhumi TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-4ye0oa1649578601774.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 385,
+        "is_active_ads": false,
+        "channel_name": "AB TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/abtvusa.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/abtv.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 435,
+        "is_active_ads": false,
+        "channel_name": "Millennium24 | USA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/millennium24.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 431,
+        "is_active_ads": false,
+        "channel_name": "Deshi TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/deshitv_usa.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 337,
+        "is_active_ads": false,
+        "channel_name": "NRB TV Canada",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/m-wifqkt1704880093175.jpg",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/HD-wallpaper-natures-best-landscape-nature-spring.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": "BD"
+      },
+      {
+        "id": 434,
+        "is_active_ads": false,
+        "channel_name": "MillenniumTV | USA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/mileninumTV.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 335,
+        "is_active_ads": false,
+        "channel_name": "CB 24 TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/CB24-PP-LOGO_23.png",
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/koqopb9ejoxrzg2rfdkk.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 495,
+        "is_active_ads": false,
+        "channel_name": "Channel 52 USA",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": null,
+        "strabgimagegenartor": "https://appv10static.jaagobd.com/media/image_generators/ch52.jpg",
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  },
+  {
+    "cat_name": "Europe Bangla CH",
+    "cat_slug": null,
+    "cat_image": "https://appv10static.jaagobd.com/media/category_images/coming-soon.png",
+    "livetvs": [
+      {
+        "id": 323,
+        "is_active_ads": false,
+        "channel_name": "IQRA  BANGLA TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/1000062330.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 389,
+        "is_active_ads": false,
+        "channel_name": "NTV Europe",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/ntveu.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 391,
+        "is_active_ads": false,
+        "channel_name": "Ch S TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/channelsukup.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 393,
+        "is_active_ads": false,
+        "channel_name": "TV One",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/TVONE-LOGO-Colour.png",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 390,
+        "is_active_ads": false,
+        "channel_name": "ATN Bangla UK",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/atnbanglauk11.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 392,
+        "is_active_ads": false,
+        "channel_name": "ION TV",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/iontvuk.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      },
+      {
+        "id": 456,
+        "is_active_ads": false,
+        "channel_name": "Bangla TV Europe",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvuk.stream/playlist.m3u8",
+        "stream_url_2": null,
+        "channel_logo": "https://appv10static.jaagobd.com/media/channel_logos/banglatv_uk_w0JUDvq.jpg",
+        "strabgimagegenartor": null,
+        "weblink": "https://play.google.com/store/apps/details?id=com.jagoapp.jagobd",
+        "restricted": ""
+      }
+    ]
+  }
+]
