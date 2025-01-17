@@ -1,0 +1,74 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Colors HD" tvg-country="US" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="1" group-title="",Colors HD
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3694429|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="2" tvg-name="Colors Cineplex HD" tvg-country="US" tvg-logo="https://i.postimg.cc/hGVhcyZK/Colors-Cineplex-HD.png" tvg-chno="2" group-title="",Colors Cineplex HD
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774155|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="3" tvg-name="Comedy Central HD" tvg-country="US" tvg-logo="https://i.postimg.cc/2j9jRNj4/Comedy-Central-HD.png" tvg-chno="3" group-title="",Comedy Central HD
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774152|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="4" tvg-name="MTV Beats HD" tvg-country="US" tvg-logo="https://i.postimg.cc/HnrgsjWb/MTV-Beats-HD.png" tvg-chno="4" group-title="",MTV Beats HD
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774153|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="5" tvg-name="Nickelodeon HD+" tvg-country="US" tvg-logo="https://i.postimg.cc/Gpzt48Rf/Nickelodeon-HDPlus.png" tvg-chno="5" group-title="",Nickelodeon HD+
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774147|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="6" tvg-name="Nickelodeon Sonic" tvg-country="US" tvg-logo="https://i.postimg.cc/25N91yGn/Sonic-Nickelodeon.png" tvg-chno="6" group-title="",Nickelodeon Sonic
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774149|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="7" tvg-name="Nick Jr." tvg-country="US" tvg-logo="https://i.postimg.cc/ZqfN1DW0/Nick-Jr.png" tvg-chno="7" group-title="",Nick Jr.
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774142|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="8" tvg-name="Colors Kannada" tvg-country="US" tvg-logo="https://i.postimg.cc/qvvM9ByX/Colors-Kannada.png" tvg-chno="8" group-title="",Colors Kannada
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774156|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="9" tvg-name="Colors Bangla HD" tvg-country="US" tvg-logo="https://i.postimg.cc/vTYpcTQ0/Colors-Bangla-HD.png" tvg-chno="9" group-title="",Colors Bangla HD
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774158|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="10" tvg-name="Colors Super" tvg-country="US" tvg-logo="https://i.postimg.cc/QMjkLTSY/Colors-Super.png" tvg-chno="10" group-title="",Colors Super
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774157|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="11" tvg-name="Colors Tamil HD" tvg-country="US" tvg-logo="https://i.postimg.cc/L5gjkB65/Colors-Tamil-HD.png" tvg-chno="11" group-title="",Colors Tamil HD
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774146|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="12" tvg-name="Colors Kannada Cinema" tvg-country="US" tvg-logo="https://i.postimg.cc/rFkFhBgV/Colors-Kannada-Cinema.png" tvg-chno="12" group-title="",Colors Kannada Cinema
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3953979|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="13" tvg-name="Colors Gujarati" tvg-country="US" tvg-logo="https://i.postimg.cc/NM5dVXjq/Colors-Gujarati.png" tvg-chno="13" group-title="",Colors Gujarati
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774144|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="14" tvg-name="Colors Rishtey" tvg-country="US" tvg-logo="https://i.postimg.cc/6qZY6NZM/Colors-Rishtey.png" tvg-chno="14" group-title="",Colors Rishtey
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3694635|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="15" tvg-name="Colors Odia" tvg-country="US" tvg-logo="https://i.postimg.cc/TPH9rPqk/Colors-Odia.png" tvg-chno="15" group-title="",Colors Odia
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774148|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="16" tvg-name="Colors Marathi" tvg-country="US" tvg-logo="https://i.postimg.cc/hvV1W1Fw/Colors-Marathi.png" tvg-chno="16" group-title="",Colors Marathi
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774154|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="17" tvg-name="Colors Infinity HD" tvg-country="US" tvg-logo="https://i.postimg.cc/q7gcMTV2/Colors-Infinity-HD.png" tvg-chno="17" group-title="",Colors Infinity HD
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774150|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="18" tvg-name="Colors Cineplex Bollywood" tvg-country="US" tvg-logo="https://i.postimg.cc/d0xrFmLB/Colors-Cineplex-Bollywood.png" tvg-chno="18" group-title="",Colors Cineplex Bollywood
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3845693|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="19" tvg-name="Colors Cineplex Superhits" tvg-country="US" tvg-logo="https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png" tvg-chno="19" group-title="",Colors Cineplex Superhits
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479683|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="20" tvg-name="MTV HD Plus" tvg-country="US" tvg-logo="https://i.postimg.cc/054snqcc/MTV-HD-Plus.png" tvg-chno="20" group-title="",MTV HD Plus
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774151|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="21" tvg-name="Sports18 Khel" tvg-country="US" tvg-logo="https://i.postimg.cc/k407Kg0X/Sports18.png" tvg-chno="21" group-title="",Sports18 Khel
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=0000002|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="22" tvg-name="News18 India" tvg-country="US" tvg-logo="https://i.postimg.cc/pLzVVR8f/News-18-India.png" tvg-chno="22" group-title="",News18 India
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479312|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="23" tvg-name="CNN News18" tvg-country="US" tvg-logo="https://i.postimg.cc/VLH00fd2/CNN-News18.png" tvg-chno="23" group-title="",CNN News18
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479311|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="24" tvg-name="News18 Tamil Nadu" tvg-country="US" tvg-logo="https://i.postimg.cc/285CWnWS/News18-Tamil-Nadu.png" tvg-chno="24" group-title="",News18 Tamil Nadu
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479927|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="25" tvg-name="News18 Lokmat" tvg-country="US" tvg-logo="https://i.postimg.cc/mZHgpLnY/News18-Lokmat.png" tvg-chno="25" group-title="",News18 Lokmat
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479685|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="26" tvg-name="News18 Bangla" tvg-country="US" tvg-logo="https://i.postimg.cc/nh7bKrS5/News18-Bangla.png" tvg-chno="26" group-title="",News18 Bangla
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479686|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="27" tvg-name="News18 Kannada" tvg-country="US" tvg-logo="https://i.postimg.cc/3NM2vLkz/News18-Kannada.png" tvg-chno="27" group-title="",News18 Kannada
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479925|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="28" tvg-name="News18 Gujarati" tvg-country="US" tvg-logo="https://i.postimg.cc/25FGrN33/News18-Gujarati.png" tvg-chno="28" group-title="",News18 Gujarati
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479699|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="29" tvg-name="News18 Punjab Haryana" tvg-country="US" tvg-logo="https://i.postimg.cc/J41Tnnjm/News18-Punjab-Haryana-Himachal.png" tvg-chno="29" group-title="",News18 Punjab Haryana
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479304|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="30" tvg-name="News18 Odia" tvg-country="US" tvg-logo="https://i.postimg.cc/768Dz7Nf/News18-Odia.png" tvg-chno="30" group-title="",News18 Odia
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479926|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="31" tvg-name="News18 Assam North East" tvg-country="US" tvg-logo="https://i.postimg.cc/0jhs0wY6/News18-Assam-North-East.png" tvg-chno="31" group-title="",News18 Assam North East
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479930|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="32" tvg-name="News18 Rajasthan" tvg-country="US" tvg-logo="https://i.postimg.cc/Sx7BJ5vY/News18-Rajasthan.png" tvg-chno="32" group-title="",News18 Rajasthan
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479570|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="33" tvg-name="News18 Bihar Jharkhand" tvg-country="US" tvg-logo="https://i.postimg.cc/6pyWRBC4/News18-Bihar-Jharkhand.png" tvg-chno="33" group-title="",News18 Bihar Jharkhand
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479321|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="34" tvg-name="News18 MP Chhattisgarh" tvg-country="US" tvg-logo="https://i.postimg.cc/YCwRLC5b/News18-Madhya-Pradesh-Chhatisgarh.png" tvg-chno="34" group-title="",News18 MP Chhattisgarh
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479318|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="35" tvg-name="News18 UP Uttarakhand" tvg-country="US" tvg-logo="https://i.postimg.cc/qR2SHK0H/News18-Uttar-Pradesh-Uttarakhand.png" tvg-chno="35" group-title="",News18 UP Uttarakhand
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479320|Referer=https://moonkerala.xyz/
+#EXTINF:-1 tvg-id="36" tvg-name="News18 Jammu Kashmir Ladakh Himachal" tvg-country="US" tvg-logo="https://i.postimg.cc/C18S2ddW/News18-Urdu.png" tvg-chno="36" group-title="",News18 Jammu Kashmir Ladakh Himachal
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479316|Referer=https://moonkerala.xyz/
