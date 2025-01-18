@@ -172,3 +172,7 @@ https://newhub247.store/themes/astrap/master.m3u8?id=1000009278
 https://news.otapp.store/wpf/live.php?id=abc6677968ef&e=.m3u8 
 #EXTINF:-1 group-title="" tvg-logo="https://otapp.store/uploads/tv_image/sony-sports-ten-1.png",Sony Sports Ten 1 
 https://news.otapp.store/wpf/live.php?id=43dcec1011e7&e=.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://otapp.store/uploads/tv_image/star-sport-select-2.png",Star Sports Select 2 
+https://bajimath.com/hoi14/watch.m3u8?id=KYrXW2h0&vtoken=iptv_m3u 
+#EXTINF:-1 group-title="" tvg-logo="https://otapp.store/uploads/tv_image/star-sport-select-1.png",Star Sports Select 1 
+https://bajimath.com/hoi14/watch.m3u8?id=m8Qg4vII&vtoken=iptv_m3u
