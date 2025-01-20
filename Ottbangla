@@ -271,7 +271,7 @@
         "slug": "nagorik-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://prothomalo.lol/.wp-images/stream.m3u8?id=LIVE-SPORTS",
+        "stream_url": "http://prothomalo.lol/.wp-hitt/stream.m3u8?id=LIVE-SPORTS",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/nagorik-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/nagorik-tv.png"
       },
@@ -307,7 +307,7 @@
         "slug": "rtv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/wp-cdn/stream.m3u8?id=rtv",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/rtv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/rtv.png"
       },
@@ -355,7 +355,7 @@
         "slug": "ananda-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://prothomalo.lol/.wp-images/date/watch.m3u8?id=67fe0dcaeda5a401e99ffa09911c094b&vtoken=iptv_m3u",
+        "stream_url": "http://prothomalo.lol/.wp-hitt/date/watch.m3u8?id=67fe0dcaeda5a401e99ffa09911c094b&vtoken=iptv_m3u",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/ananda-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/ananda-tv.png"
       },
@@ -379,7 +379,7 @@
         "slug": "asian-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://prothomalo.lol/.wp-images/date/watch.m3u8?id=e213c6c4168e1e5979a260b6ea31649a&vtoken=iptv_m3u",
+        "stream_url": "http://prothomalo.lol/.wp-hitt/date/watch.m3u8?id=e213c6c4168e1e5979a260b6ea31649a&vtoken=iptv_m3u",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/asian-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/asian-tv.png"
       },
@@ -403,7 +403,7 @@
         "slug": "gazi-tv-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://prothomalo.lol/.wp-images/stream.m3u8?id=GTV",
+        "stream_url": "http://prothomalo.lol/.wp-hitt/stream.m3u8?id=GTV",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/gazi-tv-hd.png"
       },
@@ -451,7 +451,7 @@
         "slug": "desh-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/wp-cdn/stream.m3u8?id=desh_tv",
+        "stream_url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/desh-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/desh-tv.png"
       },
@@ -566,7 +566,7 @@
         "slug": "independent-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://prothomalo.lol/.wp-images/date/watch.m3u8?id=f04a07d901c1ec0c3a2edd2b74ac0546&vtoken=iptv_m3u",
+        "stream_url": "http://prothomalo.lol/.wp-hitt/date/watch.m3u8?id=f04a07d901c1ec0c3a2edd2b74ac0546&vtoken=iptv_m3u",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/independent-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/independent-tv.png"
       },
@@ -602,7 +602,7 @@
         "slug": "dbc-news",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://prothomalo.lol/.wp-images/date/watch.m3u8?id=7fa95731ee142a4643e837bec99bf958&vtoken=iptv_m3u",
+        "stream_url": "http://prothomalo.lol/.wp-hitt/date/watch.m3u8?id=7fa95731ee142a4643e837bec99bf958&vtoken=iptv_m3u",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/dbc-news.png",
         "poster_url": "https://otapp.store/uploads/tv_image/dbc-news.png"
       },
@@ -650,7 +650,7 @@
         "slug": "somoy-news-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://prothomalo.lol/.wp-images/date/watch.m3u8?id=5927ad2546cdaec24964da6143a1971c&vtoken=iptv_m3u",
+        "stream_url": "http://prothomalo.lol/.wp-hitt/date/watch.m3u8?id=5927ad2546cdaec24964da6143a1971c&vtoken=iptv_m3u",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/somoy-news-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/somoy-news-tv.png"
       },
@@ -789,7 +789,7 @@
         "slug": "makkah-live-quran-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=130&e=.m3u8",
+        "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/makkah-live-quran-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/makkah-live-quran-tv.png"
       },
@@ -801,7 +801,7 @@
         "slug": "madina-live-tv-sunnah-tv",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://dns.otapp.store/durbin/stream.m3u8?id=131&e=.m3u8",
+        "stream_url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/madina-live-tv-sunnah-tv.png",
         "poster_url": "https://otapp.store/uploads/tv_image/madina-live-tv-sunnah-tv.png"
       }
@@ -1230,7 +1230,7 @@
         "slug": "star-jalsha-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://ottbanglsg.b-cdn.net/ottban1787s/video.m3u8",
+        "stream_url": "https://ottbanglsg.b-cdn.net/jaluiwty654/video.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png",
         "poster_url": "https://otapp.store/uploads/tv_image/star-jalsha-hd-uk.png"
       },
@@ -1702,7 +1702,7 @@
         "slug": "star-gold",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "http://prothomalo.lol/.wp-images/stream.m3u8?id=STAR-GOLD",
+        "stream_url": "http://prothomalo.lol/.wp-hitt/stream.m3u8?id=STAR-GOLD",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/star-gold.png",
         "poster_url": "https://otapp.store/uploads/tv_image/star-gold.png"
       },
@@ -2086,7 +2086,7 @@
         "slug": "colors-hd",
         "stream_from": "hls",
         "stream_label": "HD",
-        "stream_url": "https://news.otapp.store/wp-cdn/stream.m3u8?id=colors_hd",
+        "stream_url": "https://ottbanglsg.b-cdn.net/colorhd/video.m3u8",
         "thumbnail_url": "https://otapp.store/uploads/tv_image/sm/colors-hd.png",
         "poster_url": "https://otapp.store/uploads/tv_image/colors-hd.png"
       },
