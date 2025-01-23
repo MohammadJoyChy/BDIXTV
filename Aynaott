@@ -108,8 +108,7 @@ https://keralamaxtv.com/sliv/stream.m3u8?id=855662&e=.m3u8|Referer=https://keral
 https://keralamaxtv.com/sliv/stream.m3u8?id=7854&e=.m3u8|Referer=https://keralamaxtv.com/
 #EXTINF:-1 group-title="" tvg-logo="https://otapp.store/uploads/tv_image/star-jalsha-hd-uk.png",Star Jalsha HD 
 https://ottbanglsg.b-cdn.net/jaluiwty654/video.m3u8 
-#EXTINF:-1 group-title="" tvg-logo="https://otapp.store/uploads/tv_image/gazi-tv-hd.png",Gazi TV HD 
-http://prothomalo.lol/.wp-hitt/stream.m3u8?id=GTV
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="-pictures" tvg-name="& Pictures (And Pictures)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures (And Pictures)
@@ -272,8 +271,6 @@ http://prothomalo.lol/.wp-hitt/stream.m3u8?id=STAR-SPORTS-2
 http://prothomalo.lol/.wp-hitt/stream.m3u8?id=SPL-1
 #EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports Select 21667750897.png", Star Sports Select 2
 http://prothomalo.lol/.wp-hitt/stream.m3u8?id=SPL-2 
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Jalsha1664976894.png", Star Jalsha
-http://prothomalo.lol/.wp-hitt/stream.m3u8?id=STAR-JALSHA&e=.m3u8
 #EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Jalsha Movies1664976818.png", Jalsha Movies
 http://prothomalo.lol/.wp-hitt/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8
 #EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Gold1667751269.png", Star Gold
