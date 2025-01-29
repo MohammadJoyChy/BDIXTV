@@ -262,18 +262,10 @@ https://otttv.co.in/d2h/livestream/zing/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zoom/drmLicense
 https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/89691_gtv.png", GTV
-http://103.151.60.204/gtv-sports-tv5.hoichoi24.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png", TSports
-http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports 11667750523.png", Star Sports 1
-http://prothomalo.lol/.wp-hitt/stream.m3u8?id=STAR-SPORTS-1
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports 21667750538.png", Star Sports 2
-http://prothomalo.lol/.wp-hitt/stream.m3u8?id=STAR-SPORTS-2
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/StarSports Select HD1667750883.png", StarSports Select HD
-http://prothomalo.lol/.wp-hitt/stream.m3u8?id=SPL-1
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports Select 21667750897.png", Star Sports Select 2
-http://prothomalo.lol/.wp-hitt/stream.m3u8?id=SPL-2 
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/TSports 21668953490.png", TSports
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=T-SPORTS&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/GTV 31670253750.png", GTV
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=GTV&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png", Star Jalsha
 http://103.151.60.204/Star-Jolsha-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG", Star Gold
