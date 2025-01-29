@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/6538_cupa.jpg", LIVE-Sports
+http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/89691_gtv.png", G-TV
+http://103.151.60.204/gtv-sports-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png", T-Sports
+http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/40086_PTV.jpg", PTV
+http://103.151.60.204/ptv-tv5.hoichhoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/2520_dvctv.png", DBC
+http://103.151.60.204/DBC-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/10892_enterr10.jpg", Enter10
+http://14.4.4.42:8080/1402/video.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/94027_64209d2e-8a4c-4056-bb24-836ce9f7922d.jpg", TNT Sports 2
+http://103.151.60.204/TNT-Sports-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/93457_Ary-digital.png", ARY DIGITAL
+http://103.151.60.204/ary-Digital/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/9379_ZEEBANGL.JPG", Zee Bangla
+http://103.151.60.204/Zee-Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png", Star Jalsha
+http://103.151.60.204/Star-Jolsha-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29302_somoy-tv.png", Somoy-News
+http://103.151.60.204/SoMoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/62748_jamunatv.png", Jamuna
+http://103.151.60.204/Jamuna-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/66094_tv-channel-icons-children-cartoon-network-png-icon.jpg", Carton Network
+http://103.151.60.204/bbc-carton/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/83397_kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg", zee bangla cinema
+http://14.4.4.10/1401/video.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/56524_STARPLUS.JPG", Star Plus
+http://103.151.60.204/star-plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/65612_COLORSBA.JPG", Colors Bangla HD
+http://103.151.60.204/Colors-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG", Star Gold
+http://103.151.60.204/star-gold/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/36447_ZEECINEM.JPG", Zee Cinema
+http://103.151.60.204/zee-cenama/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/70913_SONY_AAT.PNG", Sony Aath
+http://103.151.60.204/sony-att/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png", Colours
+http://103.151.60.204/Colors-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29446_Zee Tv1664974411.png", ZEE
+http://103.151.60.204/zee-tv-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/33421_NAGORIK.JPG", Nagorik
+http://103.151.60.204/Nagorik-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG", Jalsha Movies
+http://103.151.60.204/Jolsha-Movies/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/81188_ATNTV.PNG", ATN-Bangla
+https://cdn.hoichoi24.com/ATNBangla/video.m3u8
