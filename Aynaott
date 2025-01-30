@@ -262,8 +262,6 @@ https://otttv.co.in/d2h/livestream/zing/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zoom/drmLicense
 https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 #EXTM3U 
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/TSports 21668953490.png", TSports
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=T-SPORTS&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 #EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/GTV 31670253750.png", GTV
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=GTV&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png", Star Jalsha
@@ -273,3 +271,18 @@ http://103.151.60.204/star-gold/index.m3u8
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG", Jalsha Movies
 http://103.151.60.204/Jolsha-Movies/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="16" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/11/T-Sports-300x169.jpg" tvg-chno="16" group-title="",T Sports
+https://nowsports.co.in/nova/live.m3u8?id=31bfc52f61722e1e4b568bf55dba67c8&vtoken=iptv_m3u
+#EXTINF:-1 tvg-id="22" tvg-name="Star Sports Select 02" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/12/image-2-300x169.jpg" tvg-chno="22" group-title="",Star Sports Select 02
+https://nowsports.co.in/nova/live.m3u8?id=062bf0fec742c563c088bfe34f5c37bb&vtoken=iptv_m3u
+#EXTINF:-1 tvg-id="23" tvg-name="Star Sports Select 01" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/12/image-1-300x169.jpg" tvg-chno="23" group-title="",Star Sports Select 01
+https://nowsports.co.in/nova/live.m3u8?id=26bcb0a23be615115e13939961a45f43&vtoken=iptv_m3u
+#EXTINF:-1 tvg-id="24" tvg-name="Star Sports 02" tvg-country="IN" tvg-logo="https://i0.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsM6HLWsA0IORTsABGikjQ8gnZM3DJ7JprwY273pRh7P2Jvf9SMygCxomYfuUmSM4g3fxLpTt4II_IztjElABCeaRy_lxb4Ct9j73hC-eUY6qpSYtEotKBsUVgVyHEc3bUJLO7hcJbXVT9CE_5pPRCgiIhszsm9Ebrlo2rUW0p9YqwxpdytAUay3Lu0_X/w1080-h720-p-k-no-nu?w=300&amp;resize=300,300&amp;ssl=1" tvg-chno="24" group-title="",Star Sports 02
+https://nowsports.co.in/nova/live.m3u8?id=0eb3114972256c1879bf1928a63c9c56&vtoken=iptv_m3u
+#EXTINF:-1 tvg-id="25" tvg-name="Star Sports 01" tvg-country="IN" tvg-logo="https://i3.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJlA79rfFHDrcmTEerS-wWdgN2uDUrUnS-ktKefN5NDPAhyLwlplmH8UFk1KjbozZIJCn6aE7aKe27dgmbQYPHa_kwzL5a1TbnRulFcWg7qf3tpRHH-JXZf8TqVg5wVE6yr2oty63W4fQZzB48hyphenhyphen5eMM067WLrG2Wvh-FnTdIyP0zTBgbjYm5VMFnj2r1/w1080-h720-p-k-no-nu?w=300&amp;resize=300,300&amp;ssl=1" tvg-chno="25" group-title="",Star Sports 01
+https://nowsports.co.in/nova/live.m3u8?id=2e8e940d8ec1b1337c9915a7633ddefa&vtoken=iptv_m3u
+#EXTINF:-1 tvg-id="34" tvg-name="PTV Sports" tvg-country="IN" tvg-logo="https://i2.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6yg3Qot8SlaaAR6Lqp3sf-mPrmC0jnG2MyYRKqJcdOwvvsY2GI2xH9ziIQMEidYQHUF4CeMR4hOo338nsL4ITxRgTiLOKenk2lyje-g80AbZZZHPiKzyfb6C7cuiFhPBYd9WeIVTOVEHFqs51OrF0CzZfmVlSRtkxZPOcNYQ132oh5WBTQAK7mEnoMqSj/w1280-h720-p-k-no-nu?w=300&amp;resize=300,300&amp;ssl=1" tvg-chno="34" group-title="",PTV Sports
+https://nowsports.co.in/nova/live.m3u8?id=3256e4a088876b941e74615a75ebe8f9&vtoken=iptv_m3u
+#EXTINF:-1 tvg-id="36" tvg-name="A Sports" tvg-country="IN" tvg-logo="https://i0.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAQvZiSGRV_zVgE3XQtAb6TLWSbTGoIYdpo7njdH367czRIaZKvbUZPMaR5nzqVE2uURQnKGw1qWcb0jIrdIO5lSwFrXyuXGzFvqBxvEG4ycn4c0-nY9iUQpudXLWEu-awAdnGOezwVp49kZ_m4VrJ7HSzIsCntn3TfAmwI8jVGXbvH74hRvkHoDoPMwoN/w1280-h720-p-k-no-nu/A%20Sports%20Logo.jpg?w=300&amp;resize=300,300&amp;ssl=1" tvg-chno="36" group-title="",A Sports
+https://nowsports.co.in/nova/live.m3u8?id=50a9981d1bac64e3da4976631f10d1c8&vtoken=iptv_m3u
