@@ -1,133 +1,207 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/9XM1732894296.png" group-title="Hindi",9XM
+#EXTINF:-1 tvg-id="411" tvg-logo="http://103.175.242.10/assets/images/9XM1732894296.png",9XM
 http://stvlive.net:8080/9xm/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/And%20Picture%201731407396.png" group-title="Hindi",And Picture
+
+#EXTINF:-1 tvg-id="313" tvg-logo="http://103.175.242.10/assets/images/And%20Picture%201731407396.png",And Picture
 http://stvlive.net:8080/andpicture/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png" group-title="Bangla",Atn Bangla
+
+#EXTINF:-1 tvg-id="378" tvg-logo="http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png",Atn Bangla
 http://stvlive.net:8080/atnbangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png" group-title="News",ATN News
+
+#EXTINF:-1 tvg-id="379" tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png",ATN News
 http://stvlive.net:8080/atnnews/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png" group-title="Bangla",Banglavision
+
+#EXTINF:-1 tvg-id="311" tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
 http://stvlive.net:8080/banglavision/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Bein%20Sports%2011731077114.png" group-title="Sports",Bein Sports 1
+
+#EXTINF:-1 tvg-id="252" tvg-logo="http://103.175.242.10/assets/images/Bein%20Sports%2011731077114.png",Bein Sports 1
 http://stvlive.net:8080/bein1/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Bijoy%20TV1731306488.png" group-title="Bangla",Bijoy TV
+
+#EXTINF:-1 tvg-id="265" tvg-logo="http://103.175.242.10/assets/images/Bijoy%20TV1731306488.png",Bijoy TV
 http://stvlive.net:8080/bijoy/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Boishakhi1731389791.png" group-title="Bangla",Boishakhi
+
+#EXTINF:-1 tvg-id="276" tvg-logo="http://103.175.242.10/assets/images/Boishakhi1731389791.png",Boishakhi
 http://stvlive.net:8080/boishakhi/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/BTV1731308323.png" group-title="Bangla",BTV
+
+#EXTINF:-1 tvg-id="269" tvg-logo="http://103.175.242.10/assets/images/BTV1731308323.png",BTV
 http://stvlive.net:8080/btv/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Cartoon%20Network%20HD1732880800.png" group-title="Kids",Cartoon Network HD
+
+#EXTINF:-1 tvg-id="405" tvg-logo="http://103.175.242.10/assets/images/Cartoon%20Network%20HD1732880800.png",Cartoon Network HD
 http://stvlive.net:8080/cartoonnetwork/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Channel%20241731584609.png" group-title="News",Channel 24
+
+#EXTINF:-1 tvg-id="383" tvg-logo="http://103.175.242.10/assets/images/Channel%20241731584609.png",Channel 24
 http://stvlive.net:8080/channel24/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png" group-title="Bangla",Channel i
+
+#EXTINF:-1 tvg-id="318" tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
 http://stvlive.net:8080/channeli/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Colors%20Bangla1731406802.png" group-title="Bangla",Colors Bangla
+
+#EXTINF:-1 tvg-id="303" tvg-logo="http://103.175.242.10/assets/images/Colors%20Bangla1731406802.png",Colors Bangla
 http://stvlive.net:8080/colorsbangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png" group-title="Hindi",Colors HD
+
+#EXTINF:-1 tvg-id="307" tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png",Colors HD
 http://stvlive.net:8080/colorshd/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/DBC%20News1731406699.png" group-title="News",DBC News
+
+#EXTINF:-1 tvg-id="301" tvg-logo="http://103.175.242.10/assets/images/DBC%20News1731406699.png",DBC News
 http://stvlive.net:8080/dbc/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Desh%20TV1731466400.png" group-title="Bangla",Desh TV
+
+#EXTINF:-1 tvg-id="335" tvg-logo="http://103.175.242.10/assets/images/Desh%20TV1731466400.png",Desh TV
 http://stvlive.net:8080/deshtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Discovery1731407135.png" group-title="Doc",Discovery
+
+#EXTINF:-1 tvg-id="309" tvg-logo="http://103.175.242.10/assets/images/Discovery1731407135.png",Discovery
 http://stvlive.net:8080/discovery/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Dubai%20Sports21735647766.png" group-title="Sports",Dubai Sports2
+
+#EXTINF:-1 tvg-id="423" tvg-logo="http://103.175.242.10/assets/images/Dubai%20Sports21735647766.png",Dubai Sports2
 http://stvlive.net:8080/dubaisports2/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png" group-title="News",Ekattor TV
+
+#EXTINF:-1 tvg-id="337" tvg-logo="http://103.175.242.10/assets/images/DW%20News1731466569.png",DW News
+http://stvlive.net:8080/dwnews/index.m3u8
+
+#EXTINF:-1 tvg-id="327" tvg-logo="http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png",Ekattor TV
 http://stvlive.net:8080/ekattor/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png" group-title="Bangla",Enter Ten Bangla
+
+#EXTINF:-1 tvg-id="340" tvg-logo="http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png",Enter Ten Bangla
 http://stvlive.net:8080/entertenbn/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Euro%20Sports1730729350.png" group-title="Sports",Euro Sports
+
+#EXTINF:-1 tvg-id="217" tvg-logo="http://103.175.242.10/assets/images/Euro%20Sports1730729350.png",Euro Sports
 http://stvlive.net:8080/eurosports/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Gaan%20Bangla1732894265.png" group-title="Bangla",Gaan Bangla
+
+#EXTINF:-1 tvg-id="409" tvg-logo="http://103.175.242.10/assets/images/Gaan%20Bangla1732894265.png",Gaan Bangla
 http://stvlive.net:8080/gaanbangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png" group-title="Sports",GTV 1
+
+#EXTINF:-1 tvg-id="239" tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png",GTV 1
 http://stvlive.net:8080/gtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/GTV%2021735646978.png" group-title="Sports",GTV 2
+
+#EXTINF:-1 tvg-id="422" tvg-logo="http://103.175.242.10/assets/images/GTV%2021735646978.png",GTV 2
 http://stvlive.net:8080/gtv2/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Independent%20TV1731406270.png" group-title="Bangla",Independent TV
+
+#EXTINF:-1 tvg-id="294" tvg-logo="http://103.175.242.10/assets/images/Independent%20TV1731406270.png",Independent TV
 http://stvlive.net:8080/independent/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png" group-title="Bangla",Jalsha Movies
+
+#EXTINF:-1 tvg-id="412" tvg-logo="http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png",Jalsha Movies
 http://stvlive.net:8080/jalshamovies/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png" group-title="News",Jamuna TV
+
+#EXTINF:-1 tvg-id="352" tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
 http://stvlive.net:8080/jamuna/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Maasranga1731406467.png" group-title="Bangla",Maasranga
+
+#EXTINF:-1 tvg-id="297" tvg-logo="http://103.175.242.10/assets/images/Maasranga1731406467.png",Maasranga
 http://stvlive.net:8080/maasranga/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png" group-title="Bangla",Me TV
+
+#EXTINF:-1 tvg-id="410" tvg-logo="http://103.175.242.10/assets/images/Masti1732894277.png",Masti
+http://stvlive.net:8080/abmasti/index.m3u8
+
+#EXTINF:-1 tvg-id="353" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
 http://stvlive.net:8080/metv/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png" group-title="Bangla",Movie Bangla
+
+#EXTINF:-1 tvg-id="299" tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
 http://stvlive.net:8080/moviebangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Movies%20Now1730729140.png" group-title="Hindi",Movies Now
+
+#EXTINF:-1 tvg-id="216" tvg-logo="http://103.175.242.10/assets/images/Movies%20Now1730729140.png",Movies Now
 http://stvlive.net:8080/moviesnow/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/17-%20My%20Tv1718990809.png" group-title="Bangla",My Tv
+
+#EXTINF:-1 tvg-id="393" tvg-logo="http://103.175.242.10/assets/images/17-%20My%20Tv1718990809.png",My Tv
 http://stvlive.net:8080/mytv/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png" group-title="Bangla",Nagorik TV
+
+#EXTINF:-1 tvg-id="392" tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",Nagorik TV
 http://stvlive.net:8080/nagorik/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png" group-title="Doc",National Geographic
+
+#EXTINF:-1 tvg-id="354" tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png",National Geographic
 http://stvlive.net:8080/natgeo/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png" group-title="Kids",Nick
+
+#EXTINF:-1 tvg-id="355" tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png",Nick
 http://stvlive.net:8080/nick/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/NTV1731389953.png" group-title="Bangla",NTV
+
+#EXTINF:-1 tvg-id="283" tvg-logo="http://103.175.242.10/assets/images/NTV1731389953.png",NTV
 http://stvlive.net:8080/ntv/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Red%20Bull1731468749.png" group-title="Sports",Red Bull
+
+#EXTINF:-1 tvg-id="356" tvg-logo="http://103.175.242.10/assets/images/Red%20Bull1731468749.png",Red Bull
 http://stvlive.net:8080/redbull/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Rtv1731406387.png" group-title="Bangla",Rtv
+
+#EXTINF:-1 tvg-id="296" tvg-logo="http://103.175.242.10/assets/images/Rtv1731406387.png",Rtv
 http://stvlive.net:8080/rtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/S%20Premier%20League1733248311.png" group-title="Sports",S Premier League
+
+#EXTINF:-1 tvg-id="420" tvg-logo="http://103.175.242.10/assets/images/S%20Premier%20League1733248311.png",S Premier League
 http://stvlive.net:8080/spremier/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sa%20tv1731307468.png" group-title="Bangla",Sa tv
+
+#EXTINF:-1 tvg-id="266" tvg-logo="http://103.175.242.10/assets/images/Sa%20tv1731307468.png",Sa tv
 http://stvlive.net:8080/satv/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png" group-title="Bangla",Sangeet Bangla
+
+#EXTINF:-1 tvg-id="404" tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png",Sangeet Bangla
 http://stvlive.net:8080/sbangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png" group-title="News",Somoy
+
+#EXTINF:-1 tvg-id="295" tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
 http://stvlive.net:8080/somoy/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png" group-title="Bangla",Sony Aath
+
+#EXTINF:-1 tvg-id="317" tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png",Sony Aath
 http://stvlive.net:8080/sonyaath/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png" group-title="Hindi",Sony Enter Ten
+
+#EXTINF:-1 tvg-id="358" tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony Enter Ten
 http://stvlive.net:8080/sonyentten/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png" group-title="Hindi",Sony Max
+
+#EXTINF:-1 tvg-id="315" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png",Sony Max
 http://stvlive.net:8080/sonymax/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png" group-title="Hindi",Sony Max 2
+
+#EXTINF:-1 tvg-id="242" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png",Sony Max 2
 http://stvlive.net:8080/sonymax2/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Pix1731406772.png" group-title="Hindi",Sony Pix
+
+#EXTINF:-1 tvg-id="258" tvg-logo="http://103.175.242.10/assets/images/Sony%20Pix1731138518.png",Sony Pix
 http://stvlive.net:8080/sonypix/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%201731467955.png" group-title="Sports",Sony Ten 1
+
+#EXTINF:-1 tvg-id="207" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",Sony Ten 1
 http://stvlive.net:8080/sonyten1/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731469382.png" group-title="Sports",Sony Ten 2
+
+#EXTINF:-1 tvg-id="319" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",Sony Ten 2
 http://stvlive.net:8080/sonyten2/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2031731469483.png" group-title="Sports",Sony Ten 3
+
+#EXTINF:-1 tvg-id="208" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2031730721897.png",Sony Ten 3
 http://stvlive.net:8080/sonyten3/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731469581.png" group-title="Sports",Sony Ten 5
+
+#EXTINF:-1 tvg-id="321" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
 http://stvlive.net:8080/sonyten5/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731469717.png" group-title="Hindi",Star Gold
+
+#EXTINF:-1 tvg-id="310" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731407227.png",Star Gold
 http://stvlive.net:8080/stargold/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Gold%2021731469800.png" group-title="Hindi",Star Gold2
+
+#EXTINF:-1 tvg-id="314" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold21731407524.png",Star Gold2
 http://stvlive.net:8080/stargold2/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1731470110.png" group-title="Bangla",Star Jalsha
+
+#EXTINF:-1 tvg-id="390" tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",Star Jalsha
 http://stvlive.net:8080/starjalsha/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731470216.png" group-title="Hindi",Star Movies
+
+#EXTINF:-1 tvg-id="360" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies
 http://stvlive.net:8080/starmovies/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Plus1731406167.png" group-title="Hindi",Star Plus
+
+#EXTINF:-1 tvg-id="324" tvg-logo="http://103.175.242.10/assets/images/Star%20Plus1731424615.png",Star Plus
 http://stvlive.net:8080/starplus/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Select%201731407704.png" group-title="Hindi",Star Select1
+
+#EXTINF:-1 tvg-id="320" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
 http://stvlive.net:8080/starselect1/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%201731406915.png" group-title="Sports",Star Sports 1
+
+#EXTINF:-1 tvg-id="322" tvg-logo="http://103.175.242.10/assets/images/Star%20Select21731408458.png",Star Select2
+http://stvlive.net:8080/starselect2/index.m3u8
+
+#EXTINF:-1 tvg-id="413" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png",Star Sports 1
 http://stvlive.net:8080/starsports1/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2021731467770.png" group-title="Sports",Star Sports2
+
+#EXTINF:-1 tvg-id="323" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
 http://stvlive.net:8080/starsports2/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1731467904.png" group-title="Bangla",Sun Bangla
+
+#EXTINF:-1 tvg-id="394" tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",Sun Bangla
 http://stvlive.net:8080/sunbangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Tsports1731468014.png" group-title="Sports",Tsports
+
+#EXTINF:-1 tvg-id="431" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
 http://stvlive.net:8080/tsports1/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Tsports%2021731468122.png" group-title="Sports",Tsports
+
+#EXTINF:-1 tvg-id="432" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735598.png",Tsports
 http://stvlive.net:8080/tsports2/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406614.png" group-title="Bangla",Zee Bangla
+
+#EXTINF:-1 tvg-id="306" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
 http://stvlive.net:8080/zeebangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20Cinema1731406274.png" group-title="Bangla",Zee Bangla Cinema
+
+#EXTINF:-1 tvg-id="365" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20Cinema1731470057.png",Zee Bangla Cinema
 http://stvlive.net:8080/zeebncinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20HD1731406589.png" group-title="Bangla",Zee Bangla HD
+
+#EXTINF:-1 tvg-id="433" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20HD1736674908.png",Zee Bangla HD
 http://stvlive.net:8080/zeebnhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Cinema1731406873.png" group-title="Hindi",Zee Cinema
+
+#EXTINF:-1 tvg-id="316" tvg-logo="http://103.175.242.10/assets/images/Zee%20Cinema1731407656.png",Zee Cinema
 http://stvlive.net:8080/zeecinema/index.m3u8
