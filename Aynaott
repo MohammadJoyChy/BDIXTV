@@ -293,7 +293,7 @@ https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="16" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/11/T-Sports-300x169.jpg" tvg-chno="16" group-title="",T Sports
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=T-SPORTS&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+http://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="Star Sports Select 02" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/12/image-2-300x169.jpg" tvg-chno="22" group-title="",Star Sports Select 02
 https://raw.githubusercontent.com/Hasanmahmud000/Yt/refs/heads/main/Starsports2.stream.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="Star Sports Select 01" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/12/image-1-300x169.jpg" tvg-chno="23" group-title="",Star Sports Select 01
