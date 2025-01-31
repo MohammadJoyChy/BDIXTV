@@ -80,32 +80,52 @@ https://moonkerala.xyz/jcinema/stream.m3u8?id=3774151|Referer=https://moonkerala
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-name="SONY SPORTS TEN 1 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" tvg-chno="sony_sports_1_hd" group-title="", SONY SPORTS TEN 1 HD
-https://t.kyni.us/live.php?id=sony_sports_1_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-name="SONY SPORTS TEN 2 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" tvg-chno="sony_sports_2_hd" group-title="", SONY SPORTS TEN 2 HD
-https://t.kyni.us/live.php?id=sony_sports_2_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-name="SONY SPORTS TEN 5 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" tvg-chno="sony_sports_5_hd" group-title="", SONY SPORTS TEN 5 HD
-https://t.kyni.us/live.php?id=sony_sports_5_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sonyyay" tvg-name="SONY YAY VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" tvg-chno="sonyyay" group-title="", SONY YAY
-https://t.kyni.us/live.php?id=sonyyay&e=.m3u8
-#EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aat VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" tvg-chno="sonyaath" group-title="", Sony Aath
-https://t.kyni.us/live.php?id=sonyaath&e=.m3u8
-#EXTINF:-1 tvg-id="sonyentertainmnt_hd" tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" tvg-chno="sonyentertainmnt_hd" group-title="", SONY ENTERTAINMENT TELEVISION HD
-https://t.kyni.us/live.php?id=sonyentertainmnt_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_entertainment" tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" tvg-chno="sony_entertainment" group-title="", SONY ENTERTAINMENT TELEVISION
-https://t.kyni.us/live.php?id=sony_entertainment&e=.m3u8
-#EXTINF:-1 tvg-id="sonysab_hd" tvg-name="SONY SAB HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" tvg-chno="sonysab_hd" group-title="", SONY SAB HD
-https://t.kyni.us/live.php?id=sonysab_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_max_hd" tvg-name="SONY MAX HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" tvg-chno="sony_max_hd" group-title="", SONY MAX HD
-https://t.kyni.us/live.php?id=sony_max_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_max" tvg-name="SONY MAX VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" tvg-chno="sony_max" group-title="", SONY MAX
-https://t.kyni.us/live.php?id=sony_max&e=.m3u8
-#EXTINF:-1 tvg-id="sonypix_hd" tvg-name="SONY PIX HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" tvg-chno="sonypix_hd" group-title="", SONY PIX HD
-https://t.kyni.us/live.php?id=sonypix_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sonymax_2" tvg-name="SONY MAX 2 VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" tvg-chno="sonymax_2" group-title="", SONY MAX 2
-https://t.kyni.us/live.php?id=sonymax_2&e=.m3u8
-#EXTINF:-1 tvg-id="sonybbc_earth_hd" tvg-name="SONY BBC EARTH HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_330023001731294257.png" tvg-chno="sonybbc_earth_hd" group-title="", SONY BBC EARTH HD
-https://t.kyni.us/live.php?id=sonybbc_earth_hd&e=.m3u8
+#EXTINF:-1 tvg-id="1100" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="1100" group-title="Sony24X7 LiveTV",Sony HD (SET HD)
+https://keralamaxtv.com/sliv/stream.m3u8?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="1201" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="1201" group-title="Sony24X7 LiveTV",Sony SAB HD
+https://keralamaxtv.com/sliv/stream.m3u8?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="1378" tvg-name="Sony Marathi" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" tvg-chno="1378" group-title="Sony24X7 LiveTV",Sony Marathi
+https://keralamaxtv.com/sliv/stream.m3u8?id=1378&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="1894" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" tvg-chno="1894" group-title="Sony24X7 LiveTV",Sony Pal
+https://keralamaxtv.com/sliv/stream.m3u8?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="195" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="195" group-title="Sony24X7 LiveTV",Sony Aath
+https://keralamaxtv.com/sliv/stream.m3u8?id=195&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="168569" tvg-name="Sony Yay" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="168569" group-title="Sony24X7 LiveTV",Sony Yay
+https://keralamaxtv.com/sliv/stream.m3u8?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="878545" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="878545" group-title="Sony24X7 LiveTV",Sony MAX HD
+https://keralamaxtv.com/sliv/stream.m3u8?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="96" tvg-name="Sony MAX" tvg-country="IN" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" tvg-chno="96" group-title="Sony24X7 LiveTV",Sony MAX
+https://keralamaxtv.com/sliv/stream.m3u8?id=96&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="75" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png" tvg-chno="75" group-title="Sony24X7 LiveTV",Sony WAH
+https://keralamaxtv.com/sliv/stream.m3u8?id=75&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="123" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="123" group-title="Sony24X7 LiveTV",Sony MAX 2
+https://keralamaxtv.com/sliv/stream.m3u8?id=123&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="785" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="785" group-title="Sony24X7 LiveTV",Sony PIX HD
+https://keralamaxtv.com/sliv/stream.m3u8?id=785&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="852" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="852" group-title="Sony24X7 LiveTV",Sony BBC Earth HD
+https://keralamaxtv.com/sliv/stream.m3u8?id=852&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="855662" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="855662" group-title="Sony24X7 LiveTV",Sony BBC Earth HD
+https://keralamaxtv.com/sliv/stream.m3u8?id=855662&e=.m3u8|Referer=https://keralamaxtv.com/
+#EXTINF:-1 tvg-id="7854" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="7854" group-title="Sony24X7 LiveTV",Sony KAL
+https://keralamaxtv.com/sliv/stream.m3u8?id=7854&e=.m3u8|Referer=https://keralamaxtv.com/
+
+#EXTM3U
+#EXTINF:-1 tvg-id="578079" tvg-name="Sony Sports Ten 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png" tvg-chno="578079" group-title="Sony24X7 LiveTV",Sony Sports Ten 1
+https://mhdstream.com/sliv/stream.m3u8?id=578079&e=.m3u8|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-id="12087898" tvg-name="Sony Sports Ten 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png" tvg-chno="12087898" group-title="Sony24X7 LiveTV",Sony Sports Ten 2
+https://mhdstream.com/sliv/stream.m3u8?id=12087898&e=.m3u8|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-id="98756214" tvg-name="Sony Sports Ten 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png" tvg-chno="98756214" group-title="Sony24X7 LiveTV",Sony Sports Ten 3
+https://mhdstream.com/sliv/stream.m3u8?id=98756214&e=.m3u8|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-id="9357985" tvg-name="Sony Sports Ten 5" tvg-country="IN" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" tvg-chno="9357985" group-title="Sony24X7 LiveTV",Sony Sports Ten 5
+https://mhdstream.com/sliv/stream.m3u8?id=9357985&e=.m3u8|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-id="7541236" tvg-name="Sony Sports Ten 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" tvg-chno="7541236" group-title="Sony24X7 LiveTV",Sony Sports Ten 1 HD
+https://mhdstream.com/sliv/stream.m3u8?id=7541236&e=.m3u8|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-id="96585698" tvg-name="Sony Sports Ten 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" tvg-chno="96585698" group-title="Sony24X7 LiveTV",Sony Sports Ten 2 HD
+https://mhdstream.com/sliv/stream.m3u8?id=96585698&e=.m3u8|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-id="36523652" tvg-name="Sony Sports Ten 3 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" tvg-chno="36523652" group-title="Sony24X7 LiveTV",Sony Sports Ten 3 HD
+https://mhdstream.com/sliv/stream.m3u8?id=36523652&e=.m3u8|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-id="985663256" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" tvg-chno="985663256" group-title="Sony24X7 LiveTV",Sony Sports Ten 5 HD
+https://mhdstream.com/sliv/stream.m3u8?id=985663256&e=.m3u8|Referer=https://mhdstream.com/
 
 
 
