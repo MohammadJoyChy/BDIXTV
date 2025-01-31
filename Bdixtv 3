@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/9XM1732894296.png" group-title="Hindi",9XM
+http://stvlive.net:8080/9xm/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/And%20Picture%201731407396.png" group-title="Hindi",And Picture
+http://stvlive.net:8080/andpicture/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png" group-title="Bangla",Atn Bangla
+http://stvlive.net:8080/atnbangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png" group-title="News",ATN News
+http://stvlive.net:8080/atnnews/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png" group-title="Bangla",Banglavision
+http://stvlive.net:8080/banglavision/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Bein%20Sports%2011731077114.png" group-title="Sports",Bein Sports 1
+http://stvlive.net:8080/bein1/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Bijoy%20TV1731306488.png" group-title="Bangla",Bijoy TV
+http://stvlive.net:8080/bijoy/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Boishakhi1731389791.png" group-title="Bangla",Boishakhi
+http://stvlive.net:8080/boishakhi/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/BTV1731308323.png" group-title="Bangla",BTV
+http://stvlive.net:8080/btv/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Cartoon%20Network%20HD1732880800.png" group-title="Kids",Cartoon Network HD
+http://stvlive.net:8080/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Channel%20241731584609.png" group-title="News",Channel 24
+http://stvlive.net:8080/channel24/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png" group-title="Bangla",Channel i
+http://stvlive.net:8080/channeli/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Colors%20Bangla1731406802.png" group-title="Bangla",Colors Bangla
+http://stvlive.net:8080/colorsbangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png" group-title="Hindi",Colors HD
+http://stvlive.net:8080/colorshd/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/DBC%20News1731406699.png" group-title="News",DBC News
+http://stvlive.net:8080/dbc/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Desh%20TV1731466400.png" group-title="Bangla",Desh TV
+http://stvlive.net:8080/deshtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Discovery1731407135.png" group-title="Doc",Discovery
+http://stvlive.net:8080/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Dubai%20Sports21735647766.png" group-title="Sports",Dubai Sports2
+http://stvlive.net:8080/dubaisports2/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png" group-title="News",Ekattor TV
+http://stvlive.net:8080/ekattor/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png" group-title="Bangla",Enter Ten Bangla
+http://stvlive.net:8080/entertenbn/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Euro%20Sports1730729350.png" group-title="Sports",Euro Sports
+http://stvlive.net:8080/eurosports/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Gaan%20Bangla1732894265.png" group-title="Bangla",Gaan Bangla
+http://stvlive.net:8080/gaanbangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png" group-title="Sports",GTV 1
+http://stvlive.net:8080/gtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/GTV%2021735646978.png" group-title="Sports",GTV 2
+http://stvlive.net:8080/gtv2/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Independent%20TV1731406270.png" group-title="Bangla",Independent TV
+http://stvlive.net:8080/independent/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png" group-title="Bangla",Jalsha Movies
+http://stvlive.net:8080/jalshamovies/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png" group-title="News",Jamuna TV
+http://stvlive.net:8080/jamuna/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Maasranga1731406467.png" group-title="Bangla",Maasranga
+http://stvlive.net:8080/maasranga/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png" group-title="Bangla",Me TV
+http://stvlive.net:8080/metv/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png" group-title="Bangla",Movie Bangla
+http://stvlive.net:8080/moviebangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Movies%20Now1730729140.png" group-title="Hindi",Movies Now
+http://stvlive.net:8080/moviesnow/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/17-%20My%20Tv1718990809.png" group-title="Bangla",My Tv
+http://stvlive.net:8080/mytv/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png" group-title="Bangla",Nagorik TV
+http://stvlive.net:8080/nagorik/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png" group-title="Doc",National Geographic
+http://stvlive.net:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png" group-title="Kids",Nick
+http://stvlive.net:8080/nick/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/NTV1731389953.png" group-title="Bangla",NTV
+http://stvlive.net:8080/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Red%20Bull1731468749.png" group-title="Sports",Red Bull
+http://stvlive.net:8080/redbull/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Rtv1731406387.png" group-title="Bangla",Rtv
+http://stvlive.net:8080/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/S%20Premier%20League1733248311.png" group-title="Sports",S Premier League
+http://stvlive.net:8080/spremier/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sa%20tv1731307468.png" group-title="Bangla",Sa tv
+http://stvlive.net:8080/satv/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png" group-title="Bangla",Sangeet Bangla
+http://stvlive.net:8080/sbangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png" group-title="News",Somoy
+http://stvlive.net:8080/somoy/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png" group-title="Bangla",Sony Aath
+http://stvlive.net:8080/sonyaath/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png" group-title="Hindi",Sony Enter Ten
+http://stvlive.net:8080/sonyentten/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png" group-title="Hindi",Sony Max
+http://stvlive.net:8080/sonymax/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png" group-title="Hindi",Sony Max 2
+http://stvlive.net:8080/sonymax2/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Pix1731406772.png" group-title="Hindi",Sony Pix
+http://stvlive.net:8080/sonypix/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%201731467955.png" group-title="Sports",Sony Ten 1
+http://stvlive.net:8080/sonyten1/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731469382.png" group-title="Sports",Sony Ten 2
+http://stvlive.net:8080/sonyten2/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2031731469483.png" group-title="Sports",Sony Ten 3
+http://stvlive.net:8080/sonyten3/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731469581.png" group-title="Sports",Sony Ten 5
+http://stvlive.net:8080/sonyten5/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731469717.png" group-title="Hindi",Star Gold
+http://stvlive.net:8080/stargold/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Gold%2021731469800.png" group-title="Hindi",Star Gold2
+http://stvlive.net:8080/stargold2/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1731470110.png" group-title="Bangla",Star Jalsha
+http://stvlive.net:8080/starjalsha/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731470216.png" group-title="Hindi",Star Movies
+http://stvlive.net:8080/starmovies/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Plus1731406167.png" group-title="Hindi",Star Plus
+http://stvlive.net:8080/starplus/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Select%201731407704.png" group-title="Hindi",Star Select1
+http://stvlive.net:8080/starselect1/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%201731406915.png" group-title="Sports",Star Sports 1
+http://stvlive.net:8080/starsports1/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2021731467770.png" group-title="Sports",Star Sports2
+http://stvlive.net:8080/starsports2/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1731467904.png" group-title="Bangla",Sun Bangla
+http://stvlive.net:8080/sunbangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Tsports1731468014.png" group-title="Sports",Tsports
+http://stvlive.net:8080/tsports1/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Tsports%2021731468122.png" group-title="Sports",Tsports
+http://stvlive.net:8080/tsports2/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406614.png" group-title="Bangla",Zee Bangla
+http://stvlive.net:8080/zeebangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20Cinema1731406274.png" group-title="Bangla",Zee Bangla Cinema
+http://stvlive.net:8080/zeebncinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20HD1731406589.png" group-title="Bangla",Zee Bangla HD
+http://stvlive.net:8080/zeebnhd/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Cinema1731406873.png" group-title="Hindi",Zee Cinema
+http://stvlive.net:8080/zeecinema/index.m3u8
