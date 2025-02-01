@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="195" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="195" group-title="Sony24X7 LiveTV",Sony Aath
-https://keralamaxtv.com/sliv/stream.m3u8?id=195&e=.m3u8|Referer=https://keralamaxtv.com/
+http://stvlive.net:8080/sonyaath/index.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="Entertainment",Sony Pal
 https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-country="IN" tvg-chno="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathi
