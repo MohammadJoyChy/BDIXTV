@@ -1,49 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/6538_cupa.jpg", LIVE-Sports
-http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/89691_gtv.png", G-TV
-http://103.151.60.204/gtv-sports-tv5.hoichoi24.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png", T-Sports
-http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/40086_PTV.jpg", PTV
+
+#EXTINF:-1 tvg-id="32" tvg-name="LIVE-Sports" tvg-logo="https://appstv.bdixbd.net/images/6538_cupa.jpg" group-title="Sports",LIVE-Sports
+https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="G-TV" tvg-logo="https://appstv.bdixbd.net/images/89691_gtv.png" group-title="Sports",G-TV
+https://cdn.hoichoi24.com/hoichoi24.com-Gazi-TV/video.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="T-Sports" tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png" group-title="Entertainment",T-Sports
+http://14.4.4.42/hoichoi24.com-T-sports/video.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="PTV" tvg-logo="https://appstv.bdixbd.net/images/40086_PTV.jpg" group-title="Sports",PTV
 http://103.151.60.204/ptv-tv5.hoichhoi24.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/2520_dvctv.png", DBC
+
+#EXTINF:-1 tvg-id="37" tvg-name="DBC" tvg-logo="https://appstv.bdixbd.net/images/2520_dvctv.png" group-title="News",DBC
 http://103.151.60.204/DBC-tv5.hoichoi24.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/10892_enterr10.jpg", Enter10
+
+#EXTINF:-1 tvg-id="38" tvg-name="Enter10" tvg-logo="https://appstv.bdixbd.net/images/10892_enterr10.jpg" group-title="Entertainment",Enter10
 http://14.4.4.42:8080/1402/video.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/94027_64209d2e-8a4c-4056-bb24-836ce9f7922d.jpg", TNT Sports 2
+
+#EXTINF:-1 tvg-id="39" tvg-name="TNT Sports 2" tvg-logo="https://appstv.bdixbd.net/images/94027_64209d2e-8a4c-4056-bb24-836ce9f7922d.jpg" group-title="Sports",TNT Sports 2
 http://103.151.60.204/TNT-Sports-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/93457_Ary-digital.png", ARY DIGITAL
+
+#EXTINF:-1 tvg-id="40" tvg-name="ARY DIGITAL" tvg-logo="https://appstv.bdixbd.net/images/93457_Ary-digital.png" group-title="Entertainment",ARY DIGITAL
 http://103.151.60.204/ary-Digital/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/9379_ZEEBANGL.JPG", Zee Bangla
-http://103.151.60.204/Zee-Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png", Star Jalsha
-http://103.151.60.204/Star-Jolsha-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29302_somoy-tv.png", Somoy-News
+
+#EXTINF:-1 tvg-id="41" tvg-name="Zee Bangla" tvg-logo="https://appstv.bdixbd.net/images/9379_ZEEBANGL.JPG" group-title="Entertainment",Zee Bangla
+https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="Star Jolsha" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png" group-title="Sports",Star Jolsha
+https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Somoy-News" tvg-logo="https://appstv.bdixbd.net/images/29302_somoy-tv.png" group-title="News",Somoy-News
 http://103.151.60.204/SoMoy-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/62748_jamunatv.png", Jamuna
+
+#EXTINF:-1 tvg-id="49" tvg-name="Jamuna" tvg-logo="https://appstv.bdixbd.net/images/62748_jamunatv.png" group-title="News",Jamuna
 http://103.151.60.204/Jamuna-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/66094_tv-channel-icons-children-cartoon-network-png-icon.jpg", Carton Network
+
+#EXTINF:-1 tvg-id="51" tvg-name="Carton Network" tvg-logo="https://appstv.bdixbd.net/images/66094_tv-channel-icons-children-cartoon-network-png-icon.jpg" group-title="Kids",Carton Network
 http://103.151.60.204/bbc-carton/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/83397_kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg", zee bangla cinema
+
+#EXTINF:-1 tvg-id="52" tvg-name=" zee bangla cinema" tvg-logo="https://appstv.bdixbd.net/images/83397_kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg" group-title="Movies", zee bangla cinema
 http://14.4.4.10/1401/video.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/56524_STARPLUS.JPG", Star Plus
+
+#EXTINF:-1 tvg-id="53" tvg-name="Star Plus" tvg-logo="https://appstv.bdixbd.net/images/56524_STARPLUS.JPG" group-title="Entertainment",Star Plus
 http://103.151.60.204/star-plus/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/65612_COLORSBA.JPG", Colors Bangla HD
-http://103.151.60.204/Colors-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG", Star Gold
+
+#EXTINF:-1 tvg-id="55" tvg-name="Colors Bangla HD" tvg-logo="https://appstv.bdixbd.net/images/65612_COLORSBA.JPG" group-title="Entertainment",Colors Bangla HD
+https://cdn.hoichoi24.com/INBD-COLORS-BANGLA-hoichoi24.com/video.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="Star Gold" tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG" group-title="Movies",Star Gold
 http://103.151.60.204/star-gold/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/36447_ZEECINEM.JPG", Zee Cinema
+
+#EXTINF:-1 tvg-id="57" tvg-name="Zee Cinema" tvg-logo="https://appstv.bdixbd.net/images/36447_ZEECINEM.JPG" group-title="Movies",Zee Cinema
 http://103.151.60.204/zee-cenama/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/70913_SONY_AAT.PNG", Sony Aath
-http://103.151.60.204/sony-att/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png", Colours
+
+#EXTINF:-1 tvg-id="58" tvg-name="Sony A8" tvg-logo="https://appstv.bdixbd.net/images/70913_SONY_AAT.PNG" group-title="Education",Sony A8
+https://cdn.hoichoi24.com/INBD-SONY-ART-hoichoi24.com/video.m3u8
+
+#EXTINF:-1 tvg-id="63" tvg-name="Colours" tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Entertainment",Colours
 http://103.151.60.204/Colors-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29446_Zee Tv1664974411.png", ZEE
+
+#EXTINF:-1 tvg-id="64" tvg-name="ZEE" tvg-logo="https://appstv.bdixbd.net/images/29446_Zee Tv1664974411.png" group-title="Entertainment",ZEE
 http://103.151.60.204/zee-tv-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/33421_NAGORIK.JPG", Nagorik
+
+#EXTINF:-1 tvg-id="65" tvg-name="Nagorik" tvg-logo="https://appstv.bdixbd.net/images/33421_NAGORIK.JPG" group-title="Movies",Nagorik
 http://103.151.60.204/Nagorik-tv5.hoichoi24.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG", Jalsha Movies
-http://103.151.60.204/Jolsha-Movies/index.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/81188_ATNTV.PNG", ATN-Bangla
+
+#EXTINF:-1 tvg-id="66" tvg-name="Jolsha Movie" tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Movies",Jolsha Movie
+https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/video.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="ATN-Bangla" tvg-logo="https://appstv.bdixbd.net/images/81188_ATNTV.PNG" group-title="Entertainment",ATN-Bangla
 https://cdn.hoichoi24.com/ATNBangla/video.m3u8
