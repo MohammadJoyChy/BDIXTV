@@ -1,39 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="195" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="195" group-title="Sony24X7 LiveTV",Sony Aath
-http://stvlive.net:8080/sonyaath/index.m3u8
-#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="Entertainment",Sony Pal
-https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8
-#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-country="IN" tvg-chno="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathi
-https://otttv.co.in/d2h/livestream/sony-marathi/master.m3u8
-#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-max" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="Movies",Sony MAX
-https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-max-hd" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="Movies",Sony MAX HD
-https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony Max 2" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-max-2" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" group-title="Movies",Sony Max 2
-https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-country="IN" tvg-chno="sony-pix-hd" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="Movies",Sony PIX HD
-https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-country="IN" tvg-chno="sony-bbc-earth-hd" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="Infotainment",Sony BBC Earth HD
-https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-entertainment-television-hd" tvg-name="Sony Entertainment Television HD (SET HD)" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-entertainment-television-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="Entertainment",Sony Entertainment Television HD (SET HD)
-https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-sab" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-sab" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="Entertainment",Sony SAB HD
-https://otttv.co.in/d2h/livestream/sony-sab/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png" group-title="Sports",Sony Sports Ten 1
-https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png" group-title="Sports",Sony Sports Ten 2
-https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png" group-title="Sports",Sony Sports Ten 3
-https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" group-title="Sports",Sony Sports Ten 5
-https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-sports-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-country="IN" tvg-chno="sony-sports-ten-1-hd" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="Sports",Sony Sports Ten 1 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-sports-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-language="English" tvg-country="IN" tvg-chno="sony-sports-ten-2-hd" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="Sports",Sony Sports Ten 2 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-sports-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-sports-ten-3-hd" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="Sports",Sony Sports Ten 3 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-3-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony Wah" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-wah" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png" group-title="Movies",Sony Wah
-https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8
-#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-yay" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
-https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8
+#EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="sony-hd" group-title="Sony24X7 LiveTV",Sony HD (SET HD)
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="sony-sab-hd" group-title="Sony24X7 LiveTV",Sony SAB HD
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-sab-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" tvg-chno="sony-marathi" group-title="Sony24X7 LiveTV",Sony Marathi
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-marathi&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" tvg-chno="sony-pal" group-title="Sony24X7 LiveTV",Sony Pal
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-pal&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Sony24X7 LiveTV",Sony Aath
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-aath&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="sony-yay" group-title="Sony24X7 LiveTV",Sony Yay
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-yay&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="sony-max-hd" group-title="Sony24X7 LiveTV",Sony MAX HD
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-max-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-country="IN" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" tvg-chno="sony-max" group-title="Sony24X7 LiveTV",Sony MAX
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-max&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png" tvg-chno="sony-wah" group-title="Sony24X7 LiveTV",Sony WAH
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-wah&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="sony-max-2" group-title="Sony24X7 LiveTV",Sony MAX 2
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-max-2&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="sony-pix-hd" group-title="Sony24X7 LiveTV",Sony PIX HD
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-pix-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="sony-bbc-earth-hd" group-title="Sony24X7 LiveTV",Sony BBC Earth HD
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-bbc-earth-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png" tvg-chno="sony-ten-1" group-title="Sony24X7 LiveTV",Sony Sports Ten 1
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-ten-1&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png" tvg-chno="sony-ten-2" group-title="Sony24X7 LiveTV",Sony Sports Ten 2
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-ten-2&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png" tvg-chno="sony-ten-3" group-title="Sony24X7 LiveTV",Sony Sports Ten 3
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-ten-3&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" tvg-country="IN" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" tvg-chno="sony-ten-5" group-title="Sony24X7 LiveTV",Sony Sports Ten 5
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-ten-5&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" tvg-chno="sony-ten-1-hd" group-title="Sony24X7 LiveTV",Sony Sports Ten 1 HD
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-ten-1-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" tvg-chno="sony-ten-2-hd" group-title="Sony24X7 LiveTV",Sony Sports Ten 2 HD
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-ten-2-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" tvg-chno="sony-ten-3-hd" group-title="Sony24X7 LiveTV",Sony Sports Ten 3 HD
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-ten-3-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" tvg-chno="sony-ten-5-hd" group-title="Sony24X7 LiveTV",Sony Sports Ten 5 HD
+https://sonyliv.tamilultratv.co.in/stream.m3u8?id=sony-ten-5-hd&e=.m3u8|Referer=https://tamilultratv.co.in/
