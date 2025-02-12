@@ -273,15 +273,7 @@ https://otttv.co.in/d2h/livestream/zing/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zoom/drmLicense
 https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
-#EXTM3U 
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/GTV 31670253750.png", GTV
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=GTV&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png", Star Jalsha
-https://raw.github.com/Hasanmahmud000/Yt/main/Star_Jalsha.stream.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG", Star Gold
-https://raw.github.com/Hasanmahmud000/Yt/main/Star_Gold_Hd.stream.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG", Jalsha Movies
-https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/TSports 21668953490.png", TSports
