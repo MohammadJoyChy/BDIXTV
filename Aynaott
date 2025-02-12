@@ -284,17 +284,21 @@ https://raw.github.com/Hasanmahmud000/Yt/main/Star_Gold_Hd.stream.m3u8
 https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="16" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/11/T-Sports-300x169.jpg" tvg-chno="16" group-title="",T Sports
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/TSports 21668953490.png", TSports
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="Star Sports Select 02" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/12/image-2-300x169.jpg" tvg-chno="22" group-title="",Star Sports Select 02
-https://raw.githubusercontent.com/Hasanmahmud000/Yt/refs/heads/main/Starsports2.stream.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="Star Sports Select 01" tvg-country="IN" tvg-logo="https://bunny-wp-pullzone-riionukvtf.b-cdn.net/wp-content/uploads/2024/12/image-1-300x169.jpg" tvg-chno="23" group-title="",Star Sports Select 01
-https://raw.githubusercontent.com/Hasanmahmud000/Yt/refs/heads/main/Starsports1.stream.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="Star Sports 02" tvg-country="IN" tvg-logo="https://i0.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsM6HLWsA0IORTsABGikjQ8gnZM3DJ7JprwY273pRh7P2Jvf9SMygCxomYfuUmSM4g3fxLpTt4II_IztjElABCeaRy_lxb4Ct9j73hC-eUY6qpSYtEotKBsUVgVyHEc3bUJLO7hcJbXVT9CE_5pPRCgiIhszsm9Ebrlo2rUW0p9YqwxpdytAUay3Lu0_X/w1080-h720-p-k-no-nu?w=300&amp;resize=300,300&amp;ssl=1" tvg-chno="24" group-title="",Star Sports 02
-https://nowsports.co.in/nova/live.m3u8?id=0eb3114972256c1879bf1928a63c9c56&vtoken=iptv_m3u
-#EXTINF:-1 tvg-id="25" tvg-name="Star Sports 01" tvg-country="IN" tvg-logo="https://i3.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJlA79rfFHDrcmTEerS-wWdgN2uDUrUnS-ktKefN5NDPAhyLwlplmH8UFk1KjbozZIJCn6aE7aKe27dgmbQYPHa_kwzL5a1TbnRulFcWg7qf3tpRHH-JXZf8TqVg5wVE6yr2oty63W4fQZzB48hyphenhyphen5eMM067WLrG2Wvh-FnTdIyP0zTBgbjYm5VMFnj2r1/w1080-h720-p-k-no-nu?w=300&amp;resize=300,300&amp;ssl=1" tvg-chno="25" group-title="",Star Sports 01
-https://nowsports.co.in/nova/live.m3u8?id=2e8e940d8ec1b1337c9915a7633ddefa&vtoken=iptv_m3u
-#EXTINF:-1 tvg-id="34" tvg-name="PTV Sports" tvg-country="IN" tvg-logo="https://i2.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6yg3Qot8SlaaAR6Lqp3sf-mPrmC0jnG2MyYRKqJcdOwvvsY2GI2xH9ziIQMEidYQHUF4CeMR4hOo338nsL4ITxRgTiLOKenk2lyje-g80AbZZZHPiKzyfb6C7cuiFhPBYd9WeIVTOVEHFqs51OrF0CzZfmVlSRtkxZPOcNYQ132oh5WBTQAK7mEnoMqSj/w1280-h720-p-k-no-nu?w=300&amp;resize=300,300&amp;ssl=1" tvg-chno="34" group-title="",PTV Sports
-https://nowsports.co.in/nova/live.m3u8?id=3256e4a088876b941e74615a75ebe8f9&vtoken=iptv_m3u
-#EXTINF:-1 tvg-id="36" tvg-name="A Sports" tvg-country="IN" tvg-logo="https://i0.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAQvZiSGRV_zVgE3XQtAb6TLWSbTGoIYdpo7njdH367czRIaZKvbUZPMaR5nzqVE2uURQnKGw1qWcb0jIrdIO5lSwFrXyuXGzFvqBxvEG4ycn4c0-nY9iUQpudXLWEu-awAdnGOezwVp49kZ_m4VrJ7HSzIsCntn3TfAmwI8jVGXbvH74hRvkHoDoPMwoN/w1280-h720-p-k-no-nu/A%20Sports%20Logo.jpg?w=300&amp;resize=300,300&amp;ssl=1" tvg-chno="36" group-title="",A Sports
-https://nowsports.co.in/nova/live.m3u8?id=50a9981d1bac64e3da4976631f10d1c8&vtoken=iptv_m3u
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/GTV 31670253750.png", GTV
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=GTV&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports 11667750523.png", Star Sports 1
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-SPORTS-1&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports 21667750538.png", Star Sports 2
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-SPORTS-2&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/StarSports Select HD1667750883.png", StarSports Select HD
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=SPL-1&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports Select 21667750897.png", Star Sports Select 2
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=SPL-2&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Jalsha1664976894.png", Star Jalsha
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-JALSHA&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Jalsha Movies1664976818.png", Jalsha Movies
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=JALSHA-MOVIES&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/ 
+#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Gold1667751269.png", Star Gold
+http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-GOLD&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/ 
