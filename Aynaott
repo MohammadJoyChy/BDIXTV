@@ -275,22 +275,15 @@ https://otttv.co.in/d2h/livestream/zing/manifest.mpd
 https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 
 
-#EXTM3U
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/TSports 21668953490.png", TSports
+#EXTM3U 
+#EXTINF:-1 tvg-id="33" tvg-name="G-TV" tvg-logo="https://appstv.bdixbd.net/images/89691_gtv.png" group-title="Sports",GTV
+https://cdn.hoichoi24.com/hoichoi24.com-Gazi-TV/video.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="T-Sports" tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png" group-title="Entertainment",TSports
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/GTV 31670253750.png", GTV
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=GTV&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports 11667750523.png", Star Sports 1
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-SPORTS-1&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports 21667750538.png", Star Sports 2
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-SPORTS-2&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/StarSports Select HD1667750883.png", StarSports Select HD
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=SPL-1&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports Select 21667750897.png", Star Sports Select 2
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=SPL-2&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Jalsha1664976894.png", Star Jalsha
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-JALSHA&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Jalsha Movies1664976818.png", Jalsha Movies
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=JALSHA-MOVIES&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/ 
-#EXTINF:-1 group-title="AmrBD by CRICFy" tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Gold1667751269.png", Star Gold
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-GOLD&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/ 
+#EXTINF:-1 tvg-id="42" tvg-name="Star Jolsha" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png" group-title="Sports",Star Jalsha
+https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="Star Gold" tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG" group-title="Movies",Star Gold
+http://103.151.60.204/star-gold/index.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="Jolsha Movie" tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Movies",Jalsha Movies
+https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/video.m3u8
+ 
