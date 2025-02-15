@@ -283,7 +283,7 @@ https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="Star Jolsha" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png" group-title="Sports",Star Jalsha
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="Star Gold" tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG" group-title="Movies",Star Gold
-http://103.151.60.204/star-gold/index.m3u8
+https://cdn.hoichoi24.com/StarGoldHD/index.m3u8
 #EXTINF:-1 tvg-id="66" tvg-name="Jolsha Movie" tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Movies",Jalsha Movies
 https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/video.m3u8
  
