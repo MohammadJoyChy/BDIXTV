@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1100" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="1100" group-title="Sony24X7 LiveTV",Sony HD (SET HD)
-https://mhdtvstream.com/sliv/stream.m3u8?id=1100&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="1201" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="1201" group-title="Sony24X7 LiveTV",Sony SAB HD
-https://mhdtvstream.com/sliv/stream.m3u8?id=1201&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="1378" tvg-name="Sony Marathi" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" tvg-chno="1378" group-title="Sony24X7 LiveTV",Sony Marathi
-https://mhdtvstream.com/sliv/stream.m3u8?id=1378&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="1894" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" tvg-chno="1894" group-title="Sony24X7 LiveTV",Sony Pal
-https://mhdtvstream.com/sliv/stream.m3u8?id=1894&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="195" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="195" group-title="Sony24X7 LiveTV",Sony Aath
-https://mhdtvstream.com/sliv/stream.m3u8?id=195&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="168569" tvg-name="Sony Yay" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="168569" group-title="Sony24X7 LiveTV",Sony Yay
-https://mhdtvstream.com/sliv/stream.m3u8?id=168569&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="878545" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="878545" group-title="Sony24X7 LiveTV",Sony MAX HD
-https://mhdtvstream.com/sliv/stream.m3u8?id=878545&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="96" tvg-name="Sony MAX" tvg-country="IN" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" tvg-chno="96" group-title="Sony24X7 LiveTV",Sony MAX
-https://mhdtvstream.com/sliv/stream.m3u8?id=96&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="75" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png" tvg-chno="75" group-title="Sony24X7 LiveTV",Sony WAH
-https://mhdtvstream.com/sliv/stream.m3u8?id=75&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="123" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="123" group-title="Sony24X7 LiveTV",Sony MAX 2
-https://mhdtvstream.com/sliv/stream.m3u8?id=123&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="785" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="785" group-title="Sony24X7 LiveTV",Sony PIX HD
-https://mhdtvstream.com/sliv/stream.m3u8?id=785&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="852" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="852" group-title="Sony24X7 LiveTV",Sony BBC Earth HD
-https://mhdtvstream.com/sliv/stream.m3u8?id=852&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="855662" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="855662" group-title="Sony24X7 LiveTV",Sony BBC Earth HD
-https://mhdtvstream.com/sliv/stream.m3u8?id=855662&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=855662&e=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-id="7854" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="7854" group-title="Sony24X7 LiveTV",Sony KAL
-https://mhdtvstream.com/sliv/stream.m3u8?id=7854&e=.m3u8|Referer=https://mhdtvstream.com/
+https://mhdtvstream.com/sliv/stream.php?id=7854&e=.m3u8|Referer=https://mhdtvstream.com/
