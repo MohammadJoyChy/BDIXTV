@@ -55,28 +55,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8 
 #EXTINF:-1 group-title="" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/globaltv.jpg",Global TV Bangladesh 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Colors HD" tvg-country="US" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="1" group-title="",Colors HD
-https://raw.githubusercontent.com/MohammadJoyChy/MohammadJoyChy/refs/heads/main/colors.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Colors Cineplex HD" tvg-country="US" tvg-logo="https://i.postimg.cc/hGVhcyZK/Colors-Cineplex-HD.png" tvg-chno="2" group-title="",Colors Cineplex HD
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3774155|Referer=https://moonkerala.xyz/
-#EXTINF:-1 tvg-id="3" tvg-name="Comedy Central HD" tvg-country="US" tvg-logo="https://i.postimg.cc/2j9jRNj4/Comedy-Central-HD.png" tvg-chno="3" group-title="",Comedy Central HD
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3774152|Referer=https://moonkerala.xyz/
-#EXTINF:-1 tvg-id="4" tvg-name="MTV Beats HD" tvg-country="US" tvg-logo="https://i.postimg.cc/HnrgsjWb/MTV-Beats-HD.png" tvg-chno="4" group-title="",MTV Beats HD
-#EXTINF:-1 tvg-id="9" tvg-name="Colors Bangla HD" tvg-country="US" tvg-logo="https://i.postimg.cc/vTYpcTQ0/Colors-Bangla-HD.png" tvg-chno="9" group-title="",Colors Bangla HD
-https://raw.githubusercontent.com/MohammadJoyChy/MohammadJoyChy/refs/heads/main/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="Colors Super" tvg-country="US" tvg-logo="https://i.postimg.cc/QMjkLTSY/Colors-Super.png" tvg-chno="10" group-title="",Colors Super
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3774157|Referer=https://moonkerala.xyz/
-#EXTINF:-1 tvg-id="14" tvg-name="Colors Rishtey" tvg-country="US" tvg-logo="https://i.postimg.cc/6qZY6NZM/Colors-Rishtey.png" tvg-chno="14" group-title="",Colors Rishtey
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3694635|Referer=https://moonkerala.xyz/
-#EXTINF:-1 tvg-id="17" tvg-name="Colors Infinity HD" tvg-country="US" tvg-logo="https://i.postimg.cc/q7gcMTV2/Colors-Infinity-HD.png" tvg-chno="17" group-title="",Colors Infinity HD
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3774150|Referer=https://moonkerala.xyz/
-#EXTINF:-1 tvg-id="18" tvg-name="Colors Cineplex Bollywood" tvg-country="US" tvg-logo="https://i.postimg.cc/d0xrFmLB/Colors-Cineplex-Bollywood.png" tvg-chno="18" group-title="",Colors Cineplex Bollywood
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3845693|Referer=https://moonkerala.xyz/
-#EXTINF:-1 tvg-id="19" tvg-name="Colors Cineplex Superhits" tvg-country="US" tvg-logo="https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png" tvg-chno="19" group-title="",Colors Cineplex Superhits
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3479683|Referer=https://moonkerala.xyz/
-#EXTINF:-1 tvg-id="20" tvg-name="MTV HD Plus" tvg-country="US" tvg-logo="https://i.postimg.cc/054snqcc/MTV-HD-Plus.png" tvg-chno="20" group-title="",MTV HD Plus
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3774151|Referer=https://moonkerala.xyz/
+
 
 
 #EXTM3U
@@ -291,15 +270,30 @@ https://otttv.co.in/d2h/livestream/zing/manifest.mpd
 https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 
 
-#EXTM3U 
-#EXTINF:-1 tvg-id="33" tvg-name="G-TV" tvg-logo="https://appstv.bdixbd.net/images/89691_gtv.png" group-title="Sports",GTV
-https://raw.githubusercontent.com/MohammadJoyChy/MohammadJoyChy/refs/heads/main/gazi.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="T-Sports" tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png" group-title="Entertainment",TSports
-https://raw.githubusercontent.com/MohammadJoyChy/MohammadJoyChy/refs/heads/main/tsports.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="Star Jolsha" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png" group-title="Sports",Star Jalsha
-https://raw.githubusercontent.com/MohammadJoyChy/MohammadJoyChy/refs/heads/main/stargold.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="Star Gold" tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG" group-title="Movies",Star Gold
-https://raw.githubusercontent.com/MohammadJoyChy/MohammadJoyChy/refs/heads/main/stargold.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="Jolsha Movie" tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Movies",Jalsha Movies
-https://raw.githubusercontent.com/MohammadJoyChy/MohammadJoyChy/refs/heads/main/jalshamovies.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/tsports.png" group-title="Sports", T Sports
+http://ottbangla.com/oikire/vstream.m3u8?id=T-Sport
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/gazitv.png" group-title="Sports", GTV
+http://ottbangla.com/oikire/vstream.m3u8?id=Gazi
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/ptvsports.png" group-title="Sports", PTV Sports
+http://ottbangla.com/oikire/vstream.m3u8?id=PTV-Sports
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/astrocricket.png" group-title="Sports", astrocricket
+http://ottbangla.com/oikire/vstream.m3u8?id=A-Sports
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starsports1.png" group-title="Sports", starsports1
+http://ottbangla.com/oikire/vstream.m3u8?id=Star-Sports-1
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starsports2.png" group-title="Sports", starsports2
+http://ottbangla.com/oikire/vstream.m3u8?id=Star-Sports-2
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starselect1.png" group-title="Sports", starselect1
+http://ottbangla.com/oikire/vstream.m3u8?id=Star-Select-1
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starselect2.png" group-title="Sports", starselect2
+http://ottbangla.com/oikire/vstream.m3u8?id=Star-Select-2
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starJalsha.png" group-title="Bangla", Star Jalsha
+http://ottbangla.com/oikire/vstream.m3u8?id=Star-Jalsha
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/colorsBangla.png" group-title="Bangla", Colors Bangla
+http://ottbangla.com/oikire/vstream.m3u8?id=Colors_bangla
+#EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/jalshaMovies.png" group-title="Bangla", Jalsha Movies
+http://ottbangla.com/oikire/vstream.m3u8?id=Jalsha_movies
+
+
  
