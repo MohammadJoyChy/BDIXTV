@@ -273,7 +273,7 @@ https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/tsports.png" group-title="Sports", T Sports
-http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
+http://103.122.74.6:8888/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/gazitv.png" group-title="Sports", GTV
 http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/ptvsports.png" group-title="Sports", PTV Sports
