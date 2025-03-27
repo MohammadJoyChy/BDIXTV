@@ -273,27 +273,27 @@ https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/tsports.png" group-title="Sports", T Sports
-http://ottbangla.com/oikire/vstream.m3u8?id=T-Sport
+http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/gazitv.png" group-title="Sports", GTV
-http://ottbangla.com/oikire/vstream.m3u8?id=Gazi
+http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/ptvsports.png" group-title="Sports", PTV Sports
 http://ottbangla.com/oikire/vstream.m3u8?id=PTV-Sports
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/astrocricket.png" group-title="Sports", astrocricket
 http://ottbangla.com/oikire/vstream.m3u8?id=A-Sports
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starsports1.png" group-title="Sports", starsports1
-http://ottbangla.com/oikire/vstream.m3u8?id=Star-Sports-1
+http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starsports2.png" group-title="Sports", starsports2
-http://ottbangla.com/oikire/vstream.m3u8?id=Star-Sports-2
+http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starselect1.png" group-title="Sports", starselect1
-http://ottbangla.com/oikire/vstream.m3u8?id=Star-Select-1
+http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starselect2.png" group-title="Sports", starselect2
-http://ottbangla.com/oikire/vstream.m3u8?id=Star-Select-2
+http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/starJalsha.png" group-title="Bangla", Star Jalsha
-http://ottbangla.com/oikire/vstream.m3u8?id=Star-Jalsha
+http://103.122.74.6:8888/hls/STAR.JALSHA.HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/colorsBangla.png" group-title="Bangla", Colors Bangla
-http://ottbangla.com/oikire/vstream.m3u8?id=Colors_bangla
+http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
 #EXTINF:-1 tvg-logo="https://kriratv.stream/images/channel/jalshaMovies.png" group-title="Bangla", Jalsha Movies
-http://ottbangla.com/oikire/vstream.m3u8?id=Jalsha_movies
+http://103.122.74.6:8888/hls/JALSHA.MOVIES.HD.m3u8
 
 
  
