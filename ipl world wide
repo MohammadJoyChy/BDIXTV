@@ -38,3 +38,5 @@ https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_hin_ad_2K.m3u8|Ref
 https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
 #EXTINF:-1 tvg-id="1540040219" tvg-name="Gujarati|KKR vs SRH" tvg-language="Gujarati" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Gujarati|KKR vs SRH
 https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Guj_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Toffee Ipl" tvg-language="" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="Cricket", Toffee Ipl 
+https://super.footcric.xyz/Toffeelive/live.php?id=9b4b3941986a&e=.m3u8|Referer=https://super.footcric.xyz/
