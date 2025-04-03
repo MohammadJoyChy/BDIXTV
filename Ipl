@@ -1,0 +1,60 @@
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
+#DEVELOPED_BY_DOCTOR_STRANGE
+#AUTHOR:-DOCTOR_STRANGE
+#
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Hindi|KKR vs SRH" tvg-language="Hindi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Hindi|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="English|KKR vs SRH" tvg-language="English" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", English|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Telugu|KKR vs SRH" tvg-language="Telugu" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Telugu|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Kannada|KKR vs SRH" tvg-language="Kannada" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Kannada|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Tamil|KKR vs SRH" tvg-language="Tamil" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Tamil|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Malayalam|KKR vs SRH" tvg-language="Malayalam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Malayalam|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Marathi|KKR vs SRH" tvg-language="Marathi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Marathi|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Bengali|KKR vs SRH" tvg-language="Bengali" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Bengali|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Haryanvi|KKR vs SRH" tvg-language="Haryanvi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Haryanvi|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="SignLanguage|KKR vs SRH" tvg-language="SignLanguage" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", SignLanguage|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="HindiVertical|KKR vs SRH" tvg-language="HindiVertical" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", HindiVertical|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="EnglishVertical|KKR vs SRH" tvg-language="EnglishVertical" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", EnglishVertical|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Birdseye|KKR vs SRH" tvg-language="Birdseye" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Birdseye|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="HeroCam|KKR vs SRH" tvg-language="HeroCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", HeroCam|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="StumpCam|KKR vs SRH" tvg-language="StumpCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", StumpCam|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Punjabi|KKR vs SRH" tvg-language="Punjabi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Punjabi|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="BatterCam|KKR vs SRH" tvg-language="BatterCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", BatterCam|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="HindiAudioDescription|KKR vs SRH" tvg-language="HindiAudioDescription" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", HindiAudioDescription|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Bhojpuri|KKR vs SRH" tvg-language="Bhojpuri" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Bhojpuri|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Gujarati|KKR vs SRH" tvg-language="Gujarati" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9227/1743591119227-h" group-title="Cricket", Gujarati|KKR vs SRH
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040556" tvg-name="Hindi|SF 2: JFC vs MBSG" tvg-language="Hindi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1717/1743591671717-h" group-title="Football", Hindi|SF 2: JFC vs MBSG
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040556" tvg-name="English|SF 2: JFC vs MBSG" tvg-language="English" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1717/1743591671717-h" group-title="Football", English|SF 2: JFC vs MBSG
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040556" tvg-name="Malayalam|SF 2: JFC vs MBSG" tvg-language="Malayalam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1717/1743591671717-h" group-title="Football", Malayalam|SF 2: JFC vs MBSG
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040556" tvg-name="Bengali|SF 2: JFC vs MBSG" tvg-language="Bengali" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1717/1743591671717-h" group-title="Football", Bengali|SF 2: JFC vs MBSG
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040556" tvg-name="PlayerCam|SF 2: JFC vs MBSG" tvg-language="PlayerCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1717/1743591671717-h" group-title="Football", PlayerCam|SF 2: JFC vs MBSG
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040556" tvg-name="TacticalHighCam|SF 2: JFC vs MBSG" tvg-language="TacticalHighCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1717/1743591671717-h" group-title="Football", TacticalHighCam|SF 2: JFC vs MBSG
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040556" tvg-name="ActionCam|SF 2: JFC vs MBSG" tvg-language="ActionCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1717/1743591671717-h" group-title="Football", ActionCam|SF 2: JFC vs MBSG
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040556" tvg-name="TacticalSideCam|SF 2: JFC vs MBSG" tvg-language="TacticalSideCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1717/1743591671717-h" group-title="Football", TacticalSideCam|SF 2: JFC vs MBSG
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
