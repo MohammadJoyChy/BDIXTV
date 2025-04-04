@@ -1,43 +1,31 @@
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Hindi|LSG vs MI" tvg-language="Hindi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Hindi|LSG vs MI
+#EXTINF:-1 tvg-id="iplhin" tvg-name="IPL HINDI" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL HINDI | LSG VS MI 
 https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="English|LSG vs MI" tvg-language="English" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", English|LSG vs MI
+#EXTINF:-1 tvg-id="ipleng" tvg-name="IPL ENGLISH" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL ENGLISH | LSG VS MI
 https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Telugu|LSG vs MI" tvg-language="Telugu" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Telugu|LSG vs MI
-https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TEL_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Kannada|LSG vs MI" tvg-language="Kannada" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Kannada|LSG vs MI
-https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_KAN_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Tamil|LSG vs MI" tvg-language="Tamil" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Tamil|LSG vs MI
+#EXTINF:-1 tvg-id="ipltam" tvg-name="IPL TAMIL" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL TAMIL | LSG VS MI
 https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Malayalam|LSG vs MI" tvg-language="Malayalam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Malayalam|LSG vs MI
-https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Mal_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Marathi|LSG vs MI" tvg-language="Marathi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Marathi|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_mar_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Bengali|LSG vs MI" tvg-language="Bengali" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Bengali|LSG vs MI
+#EXTINF:-1 tvg-id="ipltel" tvg-name="IPL TELUGU" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL TELUGU | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TEL_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="iplben" tvg-name="IPL BENGALI" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL BENGALI | LSG VS MI
 https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_BEN_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Haryanvi|LSG vs MI" tvg-language="Haryanvi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Haryanvi|LSG vs MI
-https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HAR_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="SignLanguage|LSG vs MI" tvg-language="SignLanguage" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", SignLanguage|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_sgn_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="HindiVertical|LSG vs MI" tvg-language="HindiVertical" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", HindiVertical|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_hin_vlc_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="EnglishVertical|LSG vs MI" tvg-language="EnglishVertical" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", EnglishVertical|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_eng_vlc_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Birdseye|LSG vs MI" tvg-language="Birdseye" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Birdseye|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_mc_bird_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="HeroCam|LSG vs MI" tvg-language="HeroCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", HeroCam|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_mc_hero_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="StumpCam|LSG vs MI" tvg-language="StumpCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", StumpCam|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_mc_stump_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Punjabi|LSG vs MI" tvg-language="Punjabi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Punjabi|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_pan_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="BatterCam|LSG vs MI" tvg-language="BatterCam" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", BatterCam|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_mc_batter_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="HindiAudioDescription|LSG vs MI" tvg-language="HindiAudioDescription" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", HindiAudioDescription|LSG vs MI
-https://hotstar-live-event.pages.dev/LIVE/FREEMIUM_1540040219_hin_ad_2K.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Bhojpuri|LSG vs MI" tvg-language="Bhojpuri" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Bhojpuri|LSG vs MI
-https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
-#EXTINF:-1 tvg-id="1540040219" tvg-name="Gujarati|LSG vs MI" tvg-language="Gujarati" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h" group-title="Cricket", Gujarati|LSG vs MI
+#EXTINF:-1 tvg-id="iplguj" tvg-name="IPL GUJARATI" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL GUJARATI | LSG VS MI
 https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Guj_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="iplkan" tvg-name="IPL KANNADA" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL KANNADA | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_KAN_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="iplhar" tvg-name="IPL HARYANVI" tvg-language="Haryanvi" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL HARYANVI | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HAR_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="iplbhoj" tvg-name="IPL BHOJPURI" tvg-language="Bhojpuri" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL BHOJPURI | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="iplmal" tvg-name="IPL MALAYALAM" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL MALAYALAM | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Mal_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="cam01" tvg-name="IPL BATTER CAM" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL BATTER CAM | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM01_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="cam02" tvg-name="IPL HERO CAM" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL HERO CAM | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM02_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="cam03" tvg-name="IPL STUMP CAM" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL STUMP CAM | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM03_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
+#EXTINF:-1 tvg-id="cam04" tvg-name="IPL FIELD VIEW CAM" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL FIELD VIEW CAM | LSG VS MI
+https://play.shihab.fun/in/stream.php?url=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM04_IDC_MOB/Fallback/index.m3u8|Referer=https://play.shihab.fun/in/play.php
 #EXTINF:-1 tvg-id="1540040219" tvg-name="Toffee Ipl" tvg-language="" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="Cricket", Toffee Ipl 
 https://super.footcric.xyz/Toffeelive/live.php?id=9b4b3941986a&e=.m3u8|Referer=https://super.footcric.xyz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
