@@ -1,0 +1,11 @@
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Star Sports 2 Hindi" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", Star Sports 2 Hindi
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1744110176~acl=%2f*~data=hdntl~hmac=debf54491dd4fe4c88ed782931e06c6048219a7819c1848d53c12632d9d7e3ce/Sports18_1_HD_voot_MOB.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="T Sports" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1743171204-1742918354-LIVE.jpg" group-title="Cricket", T Sports
+https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=17433570233600~hmac=036dd412f9ce63d9d20a342564fe9f43ccea62116268d86c1bf89a5bbaca80bb
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Toffee Ipl" tvg-language="" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="Cricket", Toffee Ipl 
+https://super.footcric.xyz/Toffeelive/live.php?id=9b4b3941986a&e=.m3u8|Referer=https://super.footcric.xyz/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3939a9f4ca47ad3feebd7062939d6621:ddc77a322af12e2e955e0a3b7df76a1e
+#EXTVLCOPT:http-origin=https://psplay.site
+#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://static.toiimg.com/thumb/msid-108693714,width-400,resizemode-4/108693714.jpg" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Cricket 
+https://ABGQJFUAAAAAAAAMJ5XWFJGF673WK.955b1eb24af546b682010f3149a1c6d1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/osghbqtswt/out/v1/bb336e2e60e744b2a48a6b88b8857a5e/cenc.mpd
