@@ -1,31 +1,7 @@
-#EXTINF:-1 tvg-id="iplhin" tvg-name="IPL HINDI" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL HINDI | LSG VS MI 
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="ipleng" tvg-name="IPL ENGLISH" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL ENGLISH | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="ipltam" tvg-name="IPL TAMIL" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL TAMIL | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="ipltel" tvg-name="IPL TELUGU" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL TELUGU | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_TEL_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="iplben" tvg-name="IPL BENGALI" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL BENGALI | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_BEN_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="iplguj" tvg-name="IPL GUJARATI" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL GUJARATI | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_Guj_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="iplkan" tvg-name="IPL KANNADA" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL KANNADA | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_KAN_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="iplhar" tvg-name="IPL HARYANVI" tvg-language="Haryanvi" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL HARYANVI | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_HAR_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="iplbhoj" tvg-name="IPL BHOJPURI" tvg-language="Bhojpuri" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL BHOJPURI | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_Bhoj_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="iplmal" tvg-name="IPL MALAYALAM" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL MALAYALAM | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_Mal_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="cam01" tvg-name="IPL BATTER CAM" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL BATTER CAM | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_CAM01_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="cam02" tvg-name="IPL HERO CAM" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL HERO CAM | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_CAM02_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="cam03" tvg-name="IPL STUMP CAM" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL STUMP CAM | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_CAM03_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
-#EXTINF:-1 tvg-id="cam04" tvg-name="IPL FIELD VIEW CAM" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9823/1743677309823-h",IPL FIELD VIEW CAM | LSG VS MI
-https://eplayhd1.site/jiocinema/bpk-tv/JS_M1_IPL25_CAM04_IDC_MOB/Fallback/index.m3u8|Referer=https://tv.eplayhdtv.site/
+#EXTINF:-1 tvg-id="1540040219" tvg-name="Star Sports 2 Hindi" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", Star Sports 2 Hindi
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1744110176~acl=%2f*~data=hdntl~hmac=debf54491dd4fe4c88ed782931e06c6048219a7819c1848d53c12632d9d7e3ce/Sports18_1_HD_voot_MOB.m3u8
+#EXTINF:-1 tvg-id="1540040219" tvg-name="T Sports" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1743171204-1742918354-LIVE.jpg" group-title="Cricket", T Sports
+https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=17433570233600~hmac=036dd412f9ce63d9d20a342564fe9f43ccea62116268d86c1bf89a5bbaca80bb
 #EXTINF:-1 tvg-id="1540040219" tvg-name="Toffee Ipl" tvg-language="" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="Cricket", Toffee Ipl 
 https://super.footcric.xyz/Toffeelive/live.php?id=9b4b3941986a&e=.m3u8|Referer=https://super.footcric.xyz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
