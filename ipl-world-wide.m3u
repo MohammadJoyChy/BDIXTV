@@ -15,7 +15,7 @@ https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZ
 #EXTINF:-1 tvg-id="1540040219" tvg-name="Toffee Ipl" tvg-language="" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="Cricket", Toffee Ipl 
 https://super.footcric.xyz/Toffeelive/live.php?id=9b4b3941986a&e=.m3u8|Referer=https://super.footcric.xyz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=034c022098ee74890e2ef53278cbfe86:d4ea46efcbfc3d7c497ff06db9df4e35
+#KODIPROP:inputstream.adaptive.license_key=074773428a5137507cd1469312820f66:0e77a625beeda25bec47c5dc991056a6
 #EXTVLCOPT:http-origin=https://psplay.site
 #EXTINF:-1 tvg-id="824.astro" tvg-logo="https://static.toiimg.com/thumb/msid-108693714,width-400,resizemode-4/108693714.jpg" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Willow By Cricbuzz 
 https://ABGQJFUAAAAAAAAMK7CBLAUAQG4FJ.7f3311cb082d4ca39882ecb0d61f267f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/axy4ra1mez/out/v1/4a3ae78b76be4d0786b7bb468576a310/cenc.mpd
