@@ -2,8 +2,8 @@
 https://news.bajimath.com/Candy_Live/vstream.m3u8?id=2d4852b1a355&e=.m3u8 
 #EXTINF:-1 tvg-id="1540040219" tvg-name="Ptv sports" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1744288356-LIVE-1280.jpg" group-title="Cricket", Ptv sports 
 https://ddy6new.newkso.ru/ddy6/premium450/mono.m3u8?|Origin=https://viwlivehdplay.ru 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #EXTVLCOPT:http-origin=https://psplay.site
 #EXTINF:-1 tvg-id="824.astro" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1744288356-LIVE-1280.jpg" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Willow By Cricbuzz 
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
