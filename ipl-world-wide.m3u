@@ -23,3 +23,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rlernbhdhw/
 https://vkvsd250.okcdn.ru/cmaf/8175595489836/sig/1Rz55cn9Nto/expires/1744290602549/srcIp/172.69.179.105/urls/185.226.55.77/clientType/13/srcAg/CHROME/mid/9468069817132/get/hls_9468069817132.qESnqCsgVwU.m3u8
 #EXTINF:-1 tvg-id="1540040219" tvg-name="Jiohotstar" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", Jiohotstar 2
 https://ee4ee8c03a26.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.755921704393.channel.LOohfipmCQDP.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTVLCOPT:http-origin=https://psplay.site
+#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://static.toiimg.com/thumb/msid-108693714,width-400,resizemode-4/108693714.jpg" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Willow By Cricbuzz 
+https://streamdog.site/astro/stream.php/linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
