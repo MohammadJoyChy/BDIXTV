@@ -72,3 +72,5 @@ $d7 = $i6["js"]["cmd"];
 
 header("Location: ".$d7);
 die;
+
+?>
