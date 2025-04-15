@@ -1,73 +1,86 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="tel" tvg-name="IPL Telugu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL Telugu
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743948951~acl=%2fhls%2flive%2f2004223%2finallow-ipl-2025%2ftel%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=7412c22904bb4051e07941ab964318d0af8902bacb6637c6f4dec7a535c0f319"
+#EXTINF:-1 tvg-id="tel" tvg-name="IPL Telugu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Telugu - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808424~acl=%2fhls%2flive%2f2004223%2finallow-ipl-2025%2ftel%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=5d63abebf4a456eefe881288849765487bfc16f74a31c0614935a1ac6ddfa32a"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=tel
 
-#EXTINF:-1 tvg-id="hin" tvg-name="IPL Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL Hindi
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743948621~acl=%2fhls%2flive%2f2024729%2finallow-ipl-2025%2fhin%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=80e4bd5df01fa8b915fbd07d0c211290aa56490f958fca928788be8947498958"
+#EXTINF:-1 tvg-id="hin" tvg-name="IPL Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Hindi - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808434~acl=%2fhls%2flive%2f2024729%2finallow-ipl-2025%2fhin%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=16b16524feb70865ae297c68692a6188bcadbb4e26652af3f45f06ad6985ff15"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=hin
 
-#EXTINF:-1 tvg-id="eng" tvg-name="IPL English" tvg-language="English" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL English
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743948949~acl=%2fhls%2flive%2f2024723%2finallow-ipl-2025%2feng%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=72cdbd656657e95efe9b16f8f72a13a546619addaf9fcd31f2cd4f58ea680708"
+#EXTINF:-1 tvg-id="eng" tvg-name="IPL English" tvg-language="English" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",English - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808424~acl=%2fhls%2flive%2f2024723%2finallow-ipl-2025%2feng%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=a392b373061cd527372fc200fce3d03c3e5346c5f4391f9e604c835c11914268"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=eng
 
-#EXTINF:-1 tvg-id="tam" tvg-name="IPL Tamil" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL Tamil
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743948622~acl=%2fhls%2flive%2f2027121%2finallow-ipl-2025%2ftam%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=24a8523ee37d2f18bc5f62a389b3c0c4f89dd513668baac2ef4c83e612e4ebd9"
+#EXTINF:-1 tvg-id="tam" tvg-name="IPL Tamil" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Tamil - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808462~acl=%2fhls%2flive%2f2027121%2finallow-ipl-2025%2ftam%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=78029655b5c47395f91d682ea4ed787b5fbb7727db68e05403e2d4d1733f89ee"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=tam
 
-#EXTINF:-1 tvg-id="kan" tvg-name="IPL Kannada" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL Kannada
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743948622~acl=%2fhls%2flive%2f2004224%2finallow-ipl-2025%2fkan%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=54a9b836af05da9c290f443c6b0897ae5d4a8f87fed7485e6b65f03d5b548e5c"
+#EXTINF:-1 tvg-id="kan" tvg-name="IPL Kannada" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Kannada - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808483~acl=%2fhls%2flive%2f2004224%2finallow-ipl-2025%2fkan%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=59ead579269b3ab33dec49a9d1f89fc6b0dafc89f57e1a6eb68efdb31ab38fe4"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=kan
 
-#EXTINF:-1 tvg-id="mal" tvg-name="IPL Malayalam" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL Malayalam
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743948622~acl=%2fhls%2flive%2f2027129%2finallow-ipl-2025%2fmal%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=ae05bce13b38545971f0decb2607ab1946bdf344106cdce4bf7377a4cd0315e0"
+#EXTINF:-1 tvg-id="mal" tvg-name="IPL Malayalam" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Malayalam - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808425~acl=%2fhls%2flive%2f2027129%2finallow-ipl-2025%2fmal%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=ac1e78b29a06d5d70bc6aa85ed98a2636c1545d8a202512a9feda2b989b9a391"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=mal
 
-#EXTINF:-1 tvg-id="bih" tvg-name="IPL Bhojpuri" tvg-language="Bhojpuri" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL Bhojpuri
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743949010~acl=%2fhls%2flive%2f2004226%2finallow-ipl-2025%2fbih%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=68fc7d69df11794886cdb2fb65a64b94a8344f83f395764048b9ee9b34218f24"
+#EXTINF:-1 tvg-id="bih" tvg-name="IPL Bhojpuri" tvg-language="Bhojpuri" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Bhojpuri - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808467~acl=%2fhls%2flive%2f2004226%2finallow-ipl-2025%2fbih%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=c14709e363a328c11dfa671c3ff650cfec8a36a017543022dae357ea6db24570"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=bih
 
-#EXTINF:-1 tvg-id="ben" tvg-name="IPL Bengali" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL Bengali
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743948623~acl=%2fhls%2flive%2f2004225%2finallow-ipl-2025%2fben%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=c1e75b7e484c4257833741db924e56719cb88010e5f219472869ee7069cbe87a"
+#EXTINF:-1 tvg-id="ben" tvg-name="IPL Bengali" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Bengali - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808447~acl=%2fhls%2flive%2f2004225%2finallow-ipl-2025%2fben%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=3918bf236ac550d0ddb66530a6be3f7b881722236988ed0d7293c5652d0548bf"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=ben
 
-#EXTINF:-1 tvg-id="har" tvg-name="IPL Haryanvi" tvg-language="Haryanvi" tvg-country="IN" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/1735/1743770741735-h" tvg-chno="1825",IPL Haryanvi
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743948775~acl=%2fhls%2flive%2f2004227%2finallow-ipl-2025%2fhar%2f1540040228%2f15mindvrm0208449807dad54658bbe5a2364a67f90105april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3d25.01.27.1-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=c5dee527c7b31e9f0f5553f960fd10656cf61347cb851283fdac938fd22b4ef6"
+#EXTINF:-1 tvg-id="har" tvg-name="IPL Haryanvi" tvg-language="Haryanvi" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Haryanvi - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808452~acl=%2fhls%2flive%2f2004227%2finallow-ipl-2025%2fhar%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=3488ec017fe2b987965a932c54326dbad67f7ad5bfed29669714cba2c638995f"
 https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=har
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/2025_IPL_logo.png/1080px-2025_IPL_logo.png",Star Sports 1 Hindi HD
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743906149~acl=*sshindi*~id=3eafef627584390a23ae0cd8a023f1cc~data=hdntl~hmac=8f45b069211338d09f90af44d1be071ea02cf857f0e18034161ba5318c686363"
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Yk4ksYQ7RZ+rCpSWCUFvDQ", "kid":"/ncY+7P7S6eMB8wPV4dE5g" } ], "type":"temporary" }
-https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd
+#EXTINF:-1 tvg-id="mar" tvg-name="IPL Marathi" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Marathi - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808453~acl=%2fhls%2flive%2f2027140%2finallow-ipl-2025%2fmar%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=9ffe987b52713e036df7f3dac0048adc073b0f0f87104875da0ea4ca812897a9"
+https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=mar
+
+#EXTINF:-1 tvg-id="pan" tvg-name="IPL Panjabi" tvg-language="Panjabi" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Panjabi - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808441~acl=%2fhls%2flive%2f2027124%2finallow-ipl-2025%2fpan%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=831d74906938394873a711d91fd3eab034a595db3d107f531af7c74187f0b38b"
+https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=pan
+
+#EXTINF:-1 tvg-id="guj" tvg-name="IPL Gujarati" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/1/HERO-16X9/en-US._UR1920,1080_SX1920_FMwebp_.jpeg" tvg-chno="1825",Gujarati - Adfree | PBKS v KKR
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/ TG - @psplaylink
+#EXTVLCOPT:http-cookie="hdntl=exp=1744808516~acl=%2fhls%2flive%2f2027135%2finallow-ipl-2025%2fguj%2f1540040267%2f15mindvrm0195970b528382400c9deaad95150b03af15april2025%2f**~data=ip%3d8RGZG2nZst4YlL1Lt3snv1xt6ZnotAtftd0nhNUXb834geIM1ph55hf-cc%3din-de%3d1-pl%3dandroid-ap%3dtg-psplaylink-ut%3dpaid-ttl%3d86400-type%3dfree-~hmac=50993f8cda5de4259210e0d168c544ad1d9336bf1e60ba30e242c5ec950dd1e1"
+https://liv-cdn.pstvlive.xyz/Lpl/720/hlsM3u.php?m3u=guj
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/2025_IPL_logo.png/1080px-2025_IPL_logo.png",Star Sports 1 English HD
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743906119~acl=*sshd1livetv*~id=4b55619e07f01edda43e5955cf14fcc0~data=hdntl~hmac=96a6c37a07450d15c8b27db828a9fb2a5ba5942b07d39b77af62aa8aa301e999"
+#EXTVLCOPT:http-user-agent=TG - @psplaylink
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-cookie="hdntl=exp=1744803056~acl=*sshd1livetv*~id=71acc9b9b57b569a275fe984633da109~data=hdntl~hmac=2414109a352cc88fc8c88343b3a57fd0c8dcced2e38439a5dc6f44c7afc0bf08"
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Yk4ksYQ7RZ+rCpSWCUFvDQ", "kid":"/ncY+7P7S6eMB8wPV4dE5g" } ], "type":"temporary" }
 https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/2025_IPL_logo.png/1080px-2025_IPL_logo.png",Star Sports 1 Hindi HD
+#EXTVLCOPT:http-user-agent=TG - @psplaylink
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-cookie="hdntl=exp=1744803085~acl=*sshindi*~id=814a7c7d44c7cba8c8125e47eccefb97~data=hdntl~hmac=143c62a047dcf43b37bfa9e0401b40f62102a33d5311e5be420426c5e277e2c9"
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Yk4ksYQ7RZ+rCpSWCUFvDQ", "kid":"/ncY+7P7S6eMB8wPV4dE5g" } ], "type":"temporary" }
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/2025_IPL_logo.png/1080px-2025_IPL_logo.png",Star Sports 2 English HD
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.1.11013 (Android/13)
-#EXTVLCOPT:http-cookie="hdntl=exp=1743936499~acl=*sshd2livetv*~id=acdad6c7614148e4ed24c0a059081435~data=hdntl~hmac=2c0c6615914ca66fb7a2890720e9cb1f80f8471ba56031737eed1eec7ec4308a"
+#EXTVLCOPT:http-user-agent=TG - @psplaylink
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-cookie="hdntl=exp=1744803108~acl=*sshd2livetv*~id=593e37011b373ff3315d45da0de81099~data=hdntl~hmac=ee4233967f07aed33b57aae2af6e5bd521aef27a3913da767101794a111f3a11"
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Yk4ksYQ7RZ+rCpSWCUFvDQ", "kid":"/ncY+7P7S6eMB8wPV4dE5g" } ], "type":"temporary" }
 https://sshd2livetvdash-i.akamaihd.net/dash/live/2002465-b/sshd2livetvwv/master.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fxxvNq5/21bb77eacc11.jpg",Astro Cricket 1080p50
 #EXTVLCOPT:http-origin=https://psplay.site
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://pstvplaylive.online/dash-wv/linear/output/2504/ps_manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-108693714,width-400,resizemode-4/108693714.jpg", Willow Cricket Cricbuzz 
-#KODIPROP:inputstream.adaptive.license_key=3071f8718265791ef155df261a5721d1:66f75dae94b1051e170ecd8cc9b429f7
-https://ABGQJFUAAAAAAAAMCSWTESCDJN66H.0eee773031d3434d8c65ff46ac9a6070.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/p1hewzexui/out/v1/3f90689fd7d0440eb39de54e620baa1d/cenc.mpd
+https://liv-cdn.psplay.site/2504/default_primary.mpd
