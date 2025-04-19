@@ -20,17 +20,40 @@
 </html>
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gVjqSh0/Red-Abstract-Live-Stream-Free-Logo-20250309-192127-0002.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", @bdixtv_official
 https://bdixtv.short.gy/bdixtv_official.m3u8 
-#EXTINF:-1 tvg-id="1540040219" tvg-name="hindi" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", hindi
-https://v18tataplaysyndication.akamaized.net/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1745064474~acl=/*~hmac=57e33dfbe32b5a4ad8c85d120d18c8793b8c4b7b2550cf3106d34368c54de46d
-#https://003.fclplayer.net/live/csstream2/playlist.m3u8?id=1002&pk=9e27a1226f115f14370fadc8601d77d216624996df12f10bcc7aef94a5061b33
-#https://003.fclplayer.net/live/csstream2/playlist.m3u8?id=1002&pk=9e27a1226f115f14370fadc8601d77d216624996df12f10bcc7aef94a5061b33
-#https://003.fclplayer.net/live/csstream2/playlist.m3u8?id=1002&pk=9e27a1226f115f14370fadc8601d77d216624996df12f10bcc7aef94a5061b33
+#EXTINF:-1 tvg-id="1540040219" tvg-name="field view" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", field view
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=field_view_cam
+#EXTINF:-1 tvg-id="1540040219" tvg-name="stump cam" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", stump cam
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=stump_cam
+#EXTINF:-1 tvg-id="1540040219" tvg-name="hero cam" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", hero cam
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=hero_cam
+#EXTINF:-1 tvg-id="1540040219" tvg-name="batter cam" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", batter cam
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=batter_cam
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar malayalam" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar malayalam
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=mal
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar bhojpuri" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar bhojpuri
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=bho
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar haryanvi" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar haryanvi
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=har
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar kannada" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar kannada
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=kan
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar gujrati" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar gujrati
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=guj
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar telugu" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar telugu
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=tel
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar tamil" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar tamil
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=tam
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar bangla" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar bangla
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=ben
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar hindi" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar hindi
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=hin
+#EXTINF:-1 tvg-id="1540040219" tvg-name="jiohotstar english" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", jiohotstar english
+https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=eng
 #EXTINF:-1 tvg-id="1540040219" tvg-name="Toffee Ipl" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", Toffee Ipl
 https://news.bajimath.com/Candy_Live/vstream.m3u8?id=e666b0d2a3ec&e=.m3u8
 #EXTINF:-1 tvg-id="1540040219" tvg-name="T Sports" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", T Sports
 https://www.tbn24.com/api/video/4031_0.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e3fb7256b2ef0f277da98d880257230:3cf28e133be3ee653e5cf60dba609e09
+#KODIPROP:inputstream.adaptive.license_key=3737d4ac5ecfbd5c61ff76c0a7ff9e1c:96cdbb20b695a7ea5bb6ef397a5115cb
 #EXTVLCOPT:http-origin=https://psplay.site
 #EXTINF:-1 tvg-id="824.astro" tvg-logo="https://static.toiimg.com/thumb/msid-108693714,width-400,resizemode-4/108693714.jpg" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Willow By Cricbuzz 
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3v97nvxbu8/out/v1/4d85b46d0eb147158af9f7491430619a/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/atkfv7ofht/out/v1/ce61cd1fa4914f96b636f280e97555b9/cenc.mpd
