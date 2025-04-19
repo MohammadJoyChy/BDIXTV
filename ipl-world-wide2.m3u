@@ -20,6 +20,11 @@
 </html>
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gVjqSh0/Red-Abstract-Live-Stream-Free-Logo-20250309-192127-0002.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixtv_official
 https://bdixtv.short.gy/bdixtv_official.m3u8 
+#EXTINF:-1 tvg-id="1540040219" tvg-name="hindi" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", hindi
+https://v18tataplaysyndication.akamaized.net/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1745064474~acl=/*~hmac=57e33dfbe32b5a4ad8c85d120d18c8793b8c4b7b2550cf3106d34368c54de46d
+#https://003.fclplayer.net/live/csstream2/playlist.m3u8?id=1002&pk=9e27a1226f115f14370fadc8601d77d216624996df12f10bcc7aef94a5061b33
+#https://003.fclplayer.net/live/csstream2/playlist.m3u8?id=1002&pk=9e27a1226f115f14370fadc8601d77d216624996df12f10bcc7aef94a5061b33
+#https://003.fclplayer.net/live/csstream2/playlist.m3u8?id=1002&pk=9e27a1226f115f14370fadc8601d77d216624996df12f10bcc7aef94a5061b33
 #EXTINF:-1 tvg-id="1540040219" tvg-name="Toffee Ipl" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", Toffee Ipl
 https://news.bajimath.com/Candy_Live/vstream.m3u8?id=e666b0d2a3ec&e=.m3u8
 #EXTINF:-1 tvg-id="1540040219" tvg-name="T Sports" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", T Sports
