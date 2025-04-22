@@ -53,7 +53,7 @@ https://news.bajimath.com/Candy_Live/vstream.m3u8?id=e666b0d2a3ec&e=.m3u8
 #EXTINF:-1 tvg-id="1540040219" tvg-name="T Sports" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", T SPORTS
 https://www.tbn24.com/api/video/4031_0.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41cc604b8c232e69e850cc76fc7c5da1:4c6593f619b10e9c00b446ffcb1e53af
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #EXTVLCOPT:http-origin=https://psplay.site
-#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://static.toiimg.com/thumb/msid-108693714,width-400,resizemode-4/108693714.jpg" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Willow By Cricbuzz 
-//https://a42aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/g7lle69upt/out/v1/e67fdb7dbb6c421d9aa016def25b6ea8/cenc.mpd
+#EXTINF:-1 tvg-id="824.astro" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",ASTRO CRICKET 
+https://astro.noobmaster.xyz/stream.php/linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
